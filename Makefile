@@ -1,0 +1,47 @@
+VENV_DIR=.venv
+
+all: static vf
+
+# ------------------------------
+# Clean targets
+# ------------------------------
+
+clean-venv:
+	rm -rf "$(VENV_DIR)"
+
+# ------------------------------
+# Build dependency management
+# ------------------------------
+
+static vf:
+	cd source && $(MAKE) $@
+
+# ------------------------------
+# Build dependency management
+# ------------------------------
+# setup creates a Python 3 virtual environment directory
+setup:
+	mkdir -p "$(VENV_DIR)"
+	python3 -m venv "$(VENV_DIR)"
+	"$(VENV_DIR)/bin/pip" install --upgrade pip
+	"$(VENV_DIR)/bin/pip" install -r requirements.txt
+	@echo "\n\nDependency versions installed in the venv are:\n"
+	@$(MAKE) list-deps
+
+# sync-deps syncs updated build dependencies in an existing virtual environment
+# installing and uninstalling packages as (re)defined in the requirements.txt file
+sync-deps:
+	"$(VENV_DIR)/bin/pip" install -r requirements.txt
+
+# list-deps displays venv installed dependencies
+list-deps:
+	@"$(VENV_DIR)/bin/pip" list
+
+# [MAINTAINER ONLY TARGET]
+# update-deps updates the requirements.txt file with new releases of Python build dependencies
+# Note: the `pip-compile` tool is from the https://github.com/jazzband/pip-tools package
+update-deps:
+	pip-compile -U
+
+
+.PHONY: all clean-venv list-deps setup static sync-deps update-deps vf
