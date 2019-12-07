@@ -4,6 +4,14 @@ customParameters = (
 {
 name = "Use Typo Metrics";
 value = 1;
+},
+{
+name = license;
+value = "This Font Software is licensed under the SIL Open Font License, Version 1.1.";
+},
+{
+name = licenseURL;
+value = "https://github.com/source-foundry/Valid/blob/master/LICENSE";
 }
 );
 date = "2019-12-07 16:33:03 +0000";
