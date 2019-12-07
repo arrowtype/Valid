@@ -76,16 +76,16 @@
     <!-- Most of this table will be recalculated by the compiler -->
     <tableVersion value="1.0"/>
     <fontRevision value="1.0"/>
-    <checkSumAdjustment value="0xaa9e0449"/>
+    <checkSumAdjustment value="0x955462b1"/>
     <magicNumber value="0x5f0f3cf5"/>
     <flags value="00001000 00000011"/>
     <unitsPerEm value="1000"/>
     <created value="Sat Dec  7 16:33:03 2019"/>
-    <modified value="Sat Dec  7 20:27:31 2019"/>
+    <modified value="Sat Dec  7 22:33:07 2019"/>
     <xMin value="50"/>
     <yMin value="-200"/>
     <xMax value="450"/>
-    <yMax value="800"/>
+    <yMax value="1000"/>
     <macStyle value="00000000 00000000"/>
     <lowestRecPPEM value="6"/>
     <fontDirectionHint value="2"/>
@@ -168,12 +168,12 @@
     <ulUnicodeRange3 value="00000000 00000000 00000000 00000000"/>
     <ulUnicodeRange4 value="00000000 00000000 00000000 00000000"/>
     <achVendID value="NONE"/>
-    <fsSelection value="00000000 01000000"/>
+    <fsSelection value="00000000 11000000"/>
     <usFirstCharIndex value="32"/>
     <usLastCharIndex value="122"/>
-    <sTypoAscender value="800"/>
+    <sTypoAscender value="1000"/>
     <sTypoDescender value="-200"/>
-    <sTypoLineGap value="200"/>
+    <sTypoLineGap value="0"/>
     <usWinAscent value="1000"/>
     <usWinDescent value="200"/>
     <ulCodePageRange1 value="00000000 00000000 00000000 00000001"/>
@@ -404,17 +404,17 @@
     <!-- The xMin, yMin, xMax and yMax values
          will be recalculated by the compiler. -->
 
-    <TTGlyph name=".notdef" xMin="50" yMin="-200" xMax="450" yMax="800">
+    <TTGlyph name=".notdef" xMin="50" yMin="-200" xMax="450" yMax="1000">
       <contour>
         <pt x="50" y="-200" on="1"/>
         <pt x="450" y="-200" on="1"/>
-        <pt x="450" y="800" on="1"/>
-        <pt x="50" y="800" on="1"/>
+        <pt x="450" y="1000" on="1"/>
+        <pt x="50" y="1000" on="1"/>
       </contour>
       <contour>
         <pt x="100" y="-150" on="1"/>
-        <pt x="100" y="750" on="1"/>
-        <pt x="400" y="750" on="1"/>
+        <pt x="100" y="950" on="1"/>
+        <pt x="400" y="950" on="1"/>
         <pt x="400" y="-150" on="1"/>
       </contour>
       <instructions/>
@@ -572,6 +572,12 @@
     </namerecord>
     <namerecord nameID="6" platformID="3" platEncID="1" langID="0x409">
       Valid-Regular
+    </namerecord>
+    <namerecord nameID="13" platformID="3" platEncID="1" langID="0x409">
+      This Font Software is licensed under the SIL Open Font License, Version 1.1.
+    </namerecord>
+    <namerecord nameID="14" platformID="3" platEncID="1" langID="0x409">
+      https://github.com/source-foundry/Valid/blob/master/LICENSE
     </namerecord>
   </name>
 

@@ -76,16 +76,16 @@
     <!-- Most of this table will be recalculated by the compiler -->
     <tableVersion value="1.0"/>
     <fontRevision value="1.0"/>
-    <checkSumAdjustment value="0x2d683169"/>
+    <checkSumAdjustment value="0xbbaf6e79"/>
     <magicNumber value="0x5f0f3cf5"/>
     <flags value="00000000 00000011"/>
     <unitsPerEm value="1000"/>
     <created value="Sat Dec  7 16:33:03 2019"/>
-    <modified value="Sat Dec  7 20:27:30 2019"/>
+    <modified value="Sat Dec  7 22:33:06 2019"/>
     <xMin value="50"/>
     <yMin value="-200"/>
     <xMax value="450"/>
-    <yMax value="800"/>
+    <yMax value="1000"/>
     <macStyle value="00000000 00000000"/>
     <lowestRecPPEM value="6"/>
     <fontDirectionHint value="2"/>
@@ -154,12 +154,12 @@
     <ulUnicodeRange3 value="00000000 00000000 00000000 00000000"/>
     <ulUnicodeRange4 value="00000000 00000000 00000000 00000000"/>
     <achVendID value="NONE"/>
-    <fsSelection value="00000000 01000000"/>
+    <fsSelection value="00000000 11000000"/>
     <usFirstCharIndex value="32"/>
     <usLastCharIndex value="122"/>
-    <sTypoAscender value="800"/>
+    <sTypoAscender value="1000"/>
     <sTypoDescender value="-200"/>
-    <sTypoLineGap value="200"/>
+    <sTypoLineGap value="0"/>
     <usWinAscent value="1000"/>
     <usWinDescent value="200"/>
     <ulCodePageRange1 value="00000000 00000000 00000000 00000001"/>
@@ -189,6 +189,12 @@
     </namerecord>
     <namerecord nameID="6" platformID="3" platEncID="1" langID="0x409">
       Valid-Regular
+    </namerecord>
+    <namerecord nameID="13" platformID="3" platEncID="1" langID="0x409">
+      This Font Software is licensed under the SIL Open Font License, Version 1.1.
+    </namerecord>
+    <namerecord nameID="14" platformID="3" platEncID="1" langID="0x409">
+      https://github.com/source-foundry/Valid/blob/master/LICENSE
     </namerecord>
   </name>
 
@@ -360,7 +366,7 @@
       <PaintType value="0"/>
       <CharstringType value="2"/>
       <FontMatrix value="0.001 0 0 0.001 0 0"/>
-      <FontBBox value="50 -200 450 800"/>
+      <FontBBox value="50 -200 450 1000"/>
       <StrokeWidth value="0"/>
       <!-- charset is dumped separately as the 'GlyphOrder' element -->
       <Encoding name="StandardEncoding"/>
@@ -378,9 +384,9 @@
       <CharStrings>
         <CharString name=".notdef">
           0 50 -200 rmoveto
-          400 1000 -400 -1000 hlineto
+          400 1200 -400 -1200 hlineto
           50 50 rmoveto
-          900 300 -900 -300 vlineto
+          1100 300 -1100 -300 vlineto
           endchar
         </CharString>
         <CharString name="A">

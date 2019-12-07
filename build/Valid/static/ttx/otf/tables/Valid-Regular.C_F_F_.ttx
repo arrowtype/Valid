@@ -17,7 +17,7 @@
       <PaintType value="0"/>
       <CharstringType value="2"/>
       <FontMatrix value="0.001 0 0 0.001 0 0"/>
-      <FontBBox value="50 -200 450 800"/>
+      <FontBBox value="50 -200 450 1000"/>
       <StrokeWidth value="0"/>
       <!-- charset is dumped separately as the 'GlyphOrder' element -->
       <Encoding name="StandardEncoding"/>
@@ -35,9 +35,9 @@
       <CharStrings>
         <CharString name=".notdef">
           0 50 -200 rmoveto
-          400 1000 -400 -1000 hlineto
+          400 1200 -400 -1200 hlineto
           50 50 rmoveto
-          900 300 -900 -300 vlineto
+          1100 300 -1100 -300 vlineto
           endchar
         </CharString>
         <CharString name="A">

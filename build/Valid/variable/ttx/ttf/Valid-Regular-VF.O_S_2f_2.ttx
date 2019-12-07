@@ -37,12 +37,12 @@
     <ulUnicodeRange3 value="00000000 00000000 00000000 00000000"/>
     <ulUnicodeRange4 value="00000000 00000000 00000000 00000000"/>
     <achVendID value="NONE"/>
-    <fsSelection value="00000000 01000000"/>
+    <fsSelection value="00000000 11000000"/>
     <usFirstCharIndex value="32"/>
     <usLastCharIndex value="122"/>
-    <sTypoAscender value="800"/>
+    <sTypoAscender value="1000"/>
     <sTypoDescender value="-200"/>
-    <sTypoLineGap value="200"/>
+    <sTypoLineGap value="0"/>
     <usWinAscent value="1000"/>
     <usWinDescent value="200"/>
     <ulCodePageRange1 value="00000000 00000000 00000000 00000001"/>
