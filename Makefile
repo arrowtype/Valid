@@ -10,7 +10,7 @@ clean-venv:
 	rm -rf "$(VENV_DIR)"
 
 # ------------------------------
-# Build dependency management
+# Build targets
 # ------------------------------
 
 static vf:
@@ -44,4 +44,38 @@ update-deps:
 	pip-compile -U
 
 
-.PHONY: all clean-venv list-deps setup static sync-deps update-deps vf
+# ------------------------------
+# Test
+# ------------------------------
+
+test: test-fontbakery test-ftxvalidator
+
+
+test-fontbakery: test-fontbakery-static-ttf test-fontbakery-static-otf test-fontbakery-variable-ttf
+
+test-fontbakery-static-ttf:
+	fontbakery check-universal --loglevel WARN build/Valid/static/*.ttf
+
+test-fontbakery-static-otf:
+	fontbakery check-universal --loglevel WARN build/Valid/static/*.otf
+
+test-fontbakery-variable-ttf:
+	fontbakery check-universal --loglevel WARN build/Valid/variable/*.ttf
+
+
+test-ftxvalidator: test-ftxvalidator-static-ttf test-ftxvalidator-static-otf test-ftxvalidator-static-woff2 test-ftxvalidator-variable-ttf
+
+test-ftxvalidator-static-ttf:
+	ftxvalidator -t all build/Valid/static/*.ttf
+
+test-ftxvalidator-static-otf:
+	ftxvalidator -t all build/Valid/static/*.otf
+
+test-ftxvalidator-static-woff2:
+	ftxvalidator -t all build/Valid/static/*.woff2
+
+test-ftxvalidator-variable-ttf:
+	ftxvalidator -t all build/Valid/variable/*.ttf
+
+
+.PHONY: all clean-venv list-deps setup static sync-deps test test-fontbakery test-ftxvalidator update-deps vf
