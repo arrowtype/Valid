@@ -16,19 +16,19 @@ matrix:
       script:
         - make static
         - fontbakery --version
-        - fontbakery check-universal build/Valid/static/*.ttf
+        - fontbakery check-universal --loglevel WARN build/Valid/static/*.ttf
     - dist: bionic
       env: TOX_ENV=static-otf-tests
       script:
         - make static
         - fontbakery --version
-        - fontbakery check-universal build/Valid/static/*.otf
+        - fontbakery check-universal --loglevel WARN build/Valid/static/*.otf
     - dist: bionic
       env: TOX_ENV=variable-tests
       script:
         - make vf
         - fontbakery --version
-        - fontbakery check-universal build/Valid/variable/*.ttf
+        - fontbakery check-universal --loglevel WARN build/Valid/variable/*.ttf
 
 notifications:
   email: false
