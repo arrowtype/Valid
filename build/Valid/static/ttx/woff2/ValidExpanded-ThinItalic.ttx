@@ -77,12 +77,12 @@
     <!-- Most of this table will be recalculated by the compiler -->
     <tableVersion value="1.0"/>
     <fontRevision value="1.0"/>
-    <checkSumAdjustment value="0x6721ca5d"/>
+    <checkSumAdjustment value="0x6721c94f"/>
     <magicNumber value="0x5f0f3cf5"/>
     <flags value="00001000 00000011"/>
     <unitsPerEm value="1000"/>
     <created value="Sat Dec  7 16:33:03 2019"/>
-    <modified value="Sun Dec  8 06:03:50 2019"/>
+    <modified value="Sun Dec  8 06:06:05 2019"/>
     <xMin value="50"/>
     <yMin value="-200"/>
     <xMax value="550"/>
