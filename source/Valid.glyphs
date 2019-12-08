@@ -221,7 +221,7 @@ xHeight = 600;
 glyphs = (
 {
 glyphname = A;
-lastChange = "2019-12-08 04:28:17 +0000";
+lastChange = "2019-12-08 15:33:58 +0000";
 layers = (
 {
 layerId = "8FE94AFF-78E5-4BAD-B162-F5B7FD0FDE43";
@@ -241,34 +241,34 @@ width = 600;
 },
 {
 layerId = "C1381135-CB61-4B49-BC8B-09FD310384D4";
-width = 600;
+width = 400;
 },
 {
 layerId = "CFE90BE0-6A0F-4BB5-9239-F4590AF935C6";
-width = 600;
+width = 400;
 },
 {
 layerId = "AF2B4B2F-44AE-4712-9E88-47400FAA756E";
-width = 600;
+width = 400;
 },
 {
 layerId = "CF372A38-CCF0-4ECF-A851-D0EDF62DAC52";
-width = 600;
+width = 400;
 },
 {
 layerId = "69BD4473-2759-473D-A5F2-6927F6EF0D4B";
-width = 600;
+width = 500;
 },
 {
 layerId = "C4212F7E-DB9E-4B8A-AD61-FBEB6E0E008A";
-width = 600;
+width = 500;
 }
 );
 unicode = 0041;
 },
 {
 glyphname = B;
-lastChange = "2019-12-08 04:28:17 +0000";
+lastChange = "2019-12-08 15:33:58 +0000";
 layers = (
 {
 layerId = "8FE94AFF-78E5-4BAD-B162-F5B7FD0FDE43";
@@ -284,11 +284,11 @@ width = 600;
 },
 {
 layerId = "C1381135-CB61-4B49-BC8B-09FD310384D4";
-width = 600;
+width = 400;
 },
 {
 layerId = "CFE90BE0-6A0F-4BB5-9239-F4590AF935C6";
-width = 600;
+width = 400;
 },
 {
 layerId = "E3545ABF-CA3D-424B-BC89-2119FBD997C7";
@@ -296,26 +296,26 @@ width = 600;
 },
 {
 layerId = "AF2B4B2F-44AE-4712-9E88-47400FAA756E";
-width = 600;
+width = 400;
 },
 {
 layerId = "CF372A38-CCF0-4ECF-A851-D0EDF62DAC52";
-width = 600;
+width = 400;
 },
 {
 layerId = "69BD4473-2759-473D-A5F2-6927F6EF0D4B";
-width = 600;
+width = 500;
 },
 {
 layerId = "C4212F7E-DB9E-4B8A-AD61-FBEB6E0E008A";
-width = 600;
+width = 500;
 }
 );
 unicode = 0042;
 },
 {
 glyphname = C;
-lastChange = "2019-12-08 04:28:17 +0000";
+lastChange = "2019-12-08 15:33:58 +0000";
 layers = (
 {
 layerId = "8FE94AFF-78E5-4BAD-B162-F5B7FD0FDE43";
@@ -331,11 +331,11 @@ width = 600;
 },
 {
 layerId = "C1381135-CB61-4B49-BC8B-09FD310384D4";
-width = 600;
+width = 400;
 },
 {
 layerId = "CFE90BE0-6A0F-4BB5-9239-F4590AF935C6";
-width = 600;
+width = 400;
 },
 {
 layerId = "E3545ABF-CA3D-424B-BC89-2119FBD997C7";
@@ -343,26 +343,26 @@ width = 600;
 },
 {
 layerId = "AF2B4B2F-44AE-4712-9E88-47400FAA756E";
-width = 600;
+width = 400;
 },
 {
 layerId = "CF372A38-CCF0-4ECF-A851-D0EDF62DAC52";
-width = 600;
+width = 400;
 },
 {
 layerId = "69BD4473-2759-473D-A5F2-6927F6EF0D4B";
-width = 600;
+width = 500;
 },
 {
 layerId = "C4212F7E-DB9E-4B8A-AD61-FBEB6E0E008A";
-width = 600;
+width = 500;
 }
 );
 unicode = 0043;
 },
 {
 glyphname = D;
-lastChange = "2019-12-08 04:28:17 +0000";
+lastChange = "2019-12-08 15:33:58 +0000";
 layers = (
 {
 layerId = "8FE94AFF-78E5-4BAD-B162-F5B7FD0FDE43";
@@ -378,11 +378,11 @@ width = 600;
 },
 {
 layerId = "C1381135-CB61-4B49-BC8B-09FD310384D4";
-width = 600;
+width = 400;
 },
 {
 layerId = "CFE90BE0-6A0F-4BB5-9239-F4590AF935C6";
-width = 600;
+width = 400;
 },
 {
 layerId = "E3545ABF-CA3D-424B-BC89-2119FBD997C7";
@@ -390,26 +390,26 @@ width = 600;
 },
 {
 layerId = "AF2B4B2F-44AE-4712-9E88-47400FAA756E";
-width = 600;
+width = 400;
 },
 {
 layerId = "CF372A38-CCF0-4ECF-A851-D0EDF62DAC52";
-width = 600;
+width = 400;
 },
 {
 layerId = "69BD4473-2759-473D-A5F2-6927F6EF0D4B";
-width = 600;
+width = 500;
 },
 {
 layerId = "C4212F7E-DB9E-4B8A-AD61-FBEB6E0E008A";
-width = 600;
+width = 500;
 }
 );
 unicode = 0044;
 },
 {
 glyphname = E;
-lastChange = "2019-12-08 04:28:17 +0000";
+lastChange = "2019-12-08 15:33:58 +0000";
 layers = (
 {
 layerId = "8FE94AFF-78E5-4BAD-B162-F5B7FD0FDE43";
@@ -425,11 +425,11 @@ width = 600;
 },
 {
 layerId = "C1381135-CB61-4B49-BC8B-09FD310384D4";
-width = 600;
+width = 400;
 },
 {
 layerId = "CFE90BE0-6A0F-4BB5-9239-F4590AF935C6";
-width = 600;
+width = 400;
 },
 {
 layerId = "E3545ABF-CA3D-424B-BC89-2119FBD997C7";
@@ -437,26 +437,26 @@ width = 600;
 },
 {
 layerId = "AF2B4B2F-44AE-4712-9E88-47400FAA756E";
-width = 600;
+width = 400;
 },
 {
 layerId = "CF372A38-CCF0-4ECF-A851-D0EDF62DAC52";
-width = 600;
+width = 400;
 },
 {
 layerId = "69BD4473-2759-473D-A5F2-6927F6EF0D4B";
-width = 600;
+width = 500;
 },
 {
 layerId = "C4212F7E-DB9E-4B8A-AD61-FBEB6E0E008A";
-width = 600;
+width = 500;
 }
 );
 unicode = 0045;
 },
 {
 glyphname = F;
-lastChange = "2019-12-08 04:28:17 +0000";
+lastChange = "2019-12-08 15:33:58 +0000";
 layers = (
 {
 layerId = "8FE94AFF-78E5-4BAD-B162-F5B7FD0FDE43";
@@ -472,11 +472,11 @@ width = 600;
 },
 {
 layerId = "C1381135-CB61-4B49-BC8B-09FD310384D4";
-width = 600;
+width = 400;
 },
 {
 layerId = "CFE90BE0-6A0F-4BB5-9239-F4590AF935C6";
-width = 600;
+width = 400;
 },
 {
 layerId = "E3545ABF-CA3D-424B-BC89-2119FBD997C7";
@@ -484,26 +484,26 @@ width = 600;
 },
 {
 layerId = "AF2B4B2F-44AE-4712-9E88-47400FAA756E";
-width = 600;
+width = 400;
 },
 {
 layerId = "CF372A38-CCF0-4ECF-A851-D0EDF62DAC52";
-width = 600;
+width = 400;
 },
 {
 layerId = "69BD4473-2759-473D-A5F2-6927F6EF0D4B";
-width = 600;
+width = 500;
 },
 {
 layerId = "C4212F7E-DB9E-4B8A-AD61-FBEB6E0E008A";
-width = 600;
+width = 500;
 }
 );
 unicode = 0046;
 },
 {
 glyphname = G;
-lastChange = "2019-12-08 04:28:17 +0000";
+lastChange = "2019-12-08 15:33:58 +0000";
 layers = (
 {
 layerId = "8FE94AFF-78E5-4BAD-B162-F5B7FD0FDE43";
@@ -519,11 +519,11 @@ width = 600;
 },
 {
 layerId = "C1381135-CB61-4B49-BC8B-09FD310384D4";
-width = 600;
+width = 400;
 },
 {
 layerId = "CFE90BE0-6A0F-4BB5-9239-F4590AF935C6";
-width = 600;
+width = 400;
 },
 {
 layerId = "E3545ABF-CA3D-424B-BC89-2119FBD997C7";
@@ -531,26 +531,26 @@ width = 600;
 },
 {
 layerId = "AF2B4B2F-44AE-4712-9E88-47400FAA756E";
-width = 600;
+width = 400;
 },
 {
 layerId = "CF372A38-CCF0-4ECF-A851-D0EDF62DAC52";
-width = 600;
+width = 400;
 },
 {
 layerId = "69BD4473-2759-473D-A5F2-6927F6EF0D4B";
-width = 600;
+width = 500;
 },
 {
 layerId = "C4212F7E-DB9E-4B8A-AD61-FBEB6E0E008A";
-width = 600;
+width = 500;
 }
 );
 unicode = 0047;
 },
 {
 glyphname = H;
-lastChange = "2019-12-08 04:28:17 +0000";
+lastChange = "2019-12-08 15:33:04 +0000";
 layers = (
 {
 layerId = "8FE94AFF-78E5-4BAD-B162-F5B7FD0FDE43";
@@ -630,19 +630,19 @@ paths = (
 {
 closed = 1;
 nodes = (
-"114 0 LINE",
-"144 0 LINE",
-"286 800 LINE",
-"256 800 LINE"
+"117 0 LINE",
+"147 0 LINE",
+"289 800 LINE",
+"259 800 LINE"
 );
 },
 {
 closed = 1;
 nodes = (
-"60 285 LINE",
-"340 285 LINE",
-"340 315 LINE",
-"60 315 LINE"
+"63 285 LINE",
+"343 285 LINE",
+"343 315 LINE",
+"63 315 LINE"
 );
 }
 );
@@ -774,19 +774,19 @@ paths = (
 {
 closed = 1;
 nodes = (
-"136 0 LINE",
-"222 0 LINE",
-"364 800 LINE",
-"278 800 LINE"
+"144 0 LINE",
+"230 0 LINE",
+"372 800 LINE",
+"286 800 LINE"
 );
 },
 {
 closed = 1;
 nodes = (
-"52 257 LINE",
-"448 257 LINE",
-"448 343 LINE",
-"52 343 LINE"
+"60 257 LINE",
+"456 257 LINE",
+"456 343 LINE",
+"60 343 LINE"
 );
 }
 );
@@ -797,7 +797,7 @@ unicode = 0048;
 },
 {
 glyphname = I;
-lastChange = "2019-12-08 04:28:17 +0000";
+lastChange = "2019-12-08 15:33:58 +0000";
 layers = (
 {
 layerId = "8FE94AFF-78E5-4BAD-B162-F5B7FD0FDE43";
@@ -813,11 +813,11 @@ width = 600;
 },
 {
 layerId = "C1381135-CB61-4B49-BC8B-09FD310384D4";
-width = 600;
+width = 400;
 },
 {
 layerId = "CFE90BE0-6A0F-4BB5-9239-F4590AF935C6";
-width = 600;
+width = 400;
 },
 {
 layerId = "E3545ABF-CA3D-424B-BC89-2119FBD997C7";
@@ -825,26 +825,26 @@ width = 600;
 },
 {
 layerId = "AF2B4B2F-44AE-4712-9E88-47400FAA756E";
-width = 600;
+width = 400;
 },
 {
 layerId = "CF372A38-CCF0-4ECF-A851-D0EDF62DAC52";
-width = 600;
+width = 400;
 },
 {
 layerId = "69BD4473-2759-473D-A5F2-6927F6EF0D4B";
-width = 600;
+width = 500;
 },
 {
 layerId = "C4212F7E-DB9E-4B8A-AD61-FBEB6E0E008A";
-width = 600;
+width = 500;
 }
 );
 unicode = 0049;
 },
 {
 glyphname = J;
-lastChange = "2019-12-08 04:28:17 +0000";
+lastChange = "2019-12-08 15:33:58 +0000";
 layers = (
 {
 layerId = "8FE94AFF-78E5-4BAD-B162-F5B7FD0FDE43";
@@ -860,11 +860,11 @@ width = 600;
 },
 {
 layerId = "C1381135-CB61-4B49-BC8B-09FD310384D4";
-width = 600;
+width = 400;
 },
 {
 layerId = "CFE90BE0-6A0F-4BB5-9239-F4590AF935C6";
-width = 600;
+width = 400;
 },
 {
 layerId = "E3545ABF-CA3D-424B-BC89-2119FBD997C7";
@@ -872,26 +872,26 @@ width = 600;
 },
 {
 layerId = "AF2B4B2F-44AE-4712-9E88-47400FAA756E";
-width = 600;
+width = 400;
 },
 {
 layerId = "CF372A38-CCF0-4ECF-A851-D0EDF62DAC52";
-width = 600;
+width = 400;
 },
 {
 layerId = "69BD4473-2759-473D-A5F2-6927F6EF0D4B";
-width = 600;
+width = 500;
 },
 {
 layerId = "C4212F7E-DB9E-4B8A-AD61-FBEB6E0E008A";
-width = 600;
+width = 500;
 }
 );
 unicode = 004A;
 },
 {
 glyphname = K;
-lastChange = "2019-12-08 04:28:17 +0000";
+lastChange = "2019-12-08 15:33:58 +0000";
 layers = (
 {
 layerId = "8FE94AFF-78E5-4BAD-B162-F5B7FD0FDE43";
@@ -907,11 +907,11 @@ width = 600;
 },
 {
 layerId = "C1381135-CB61-4B49-BC8B-09FD310384D4";
-width = 600;
+width = 400;
 },
 {
 layerId = "CFE90BE0-6A0F-4BB5-9239-F4590AF935C6";
-width = 600;
+width = 400;
 },
 {
 layerId = "E3545ABF-CA3D-424B-BC89-2119FBD997C7";
@@ -919,26 +919,26 @@ width = 600;
 },
 {
 layerId = "AF2B4B2F-44AE-4712-9E88-47400FAA756E";
-width = 600;
+width = 400;
 },
 {
 layerId = "CF372A38-CCF0-4ECF-A851-D0EDF62DAC52";
-width = 600;
+width = 400;
 },
 {
 layerId = "69BD4473-2759-473D-A5F2-6927F6EF0D4B";
-width = 600;
+width = 500;
 },
 {
 layerId = "C4212F7E-DB9E-4B8A-AD61-FBEB6E0E008A";
-width = 600;
+width = 500;
 }
 );
 unicode = 004B;
 },
 {
 glyphname = L;
-lastChange = "2019-12-08 04:28:17 +0000";
+lastChange = "2019-12-08 15:33:58 +0000";
 layers = (
 {
 layerId = "8FE94AFF-78E5-4BAD-B162-F5B7FD0FDE43";
@@ -954,11 +954,11 @@ width = 600;
 },
 {
 layerId = "C1381135-CB61-4B49-BC8B-09FD310384D4";
-width = 600;
+width = 400;
 },
 {
 layerId = "CFE90BE0-6A0F-4BB5-9239-F4590AF935C6";
-width = 600;
+width = 400;
 },
 {
 layerId = "E3545ABF-CA3D-424B-BC89-2119FBD997C7";
@@ -966,26 +966,26 @@ width = 600;
 },
 {
 layerId = "AF2B4B2F-44AE-4712-9E88-47400FAA756E";
-width = 600;
+width = 400;
 },
 {
 layerId = "CF372A38-CCF0-4ECF-A851-D0EDF62DAC52";
-width = 600;
+width = 400;
 },
 {
 layerId = "69BD4473-2759-473D-A5F2-6927F6EF0D4B";
-width = 600;
+width = 500;
 },
 {
 layerId = "C4212F7E-DB9E-4B8A-AD61-FBEB6E0E008A";
-width = 600;
+width = 500;
 }
 );
 unicode = 004C;
 },
 {
 glyphname = M;
-lastChange = "2019-12-08 04:28:17 +0000";
+lastChange = "2019-12-08 15:33:58 +0000";
 layers = (
 {
 layerId = "8FE94AFF-78E5-4BAD-B162-F5B7FD0FDE43";
@@ -1001,11 +1001,11 @@ width = 600;
 },
 {
 layerId = "C1381135-CB61-4B49-BC8B-09FD310384D4";
-width = 600;
+width = 400;
 },
 {
 layerId = "CFE90BE0-6A0F-4BB5-9239-F4590AF935C6";
-width = 600;
+width = 400;
 },
 {
 layerId = "E3545ABF-CA3D-424B-BC89-2119FBD997C7";
@@ -1013,26 +1013,26 @@ width = 600;
 },
 {
 layerId = "AF2B4B2F-44AE-4712-9E88-47400FAA756E";
-width = 600;
+width = 400;
 },
 {
 layerId = "CF372A38-CCF0-4ECF-A851-D0EDF62DAC52";
-width = 600;
+width = 400;
 },
 {
 layerId = "69BD4473-2759-473D-A5F2-6927F6EF0D4B";
-width = 600;
+width = 500;
 },
 {
 layerId = "C4212F7E-DB9E-4B8A-AD61-FBEB6E0E008A";
-width = 600;
+width = 500;
 }
 );
 unicode = 004D;
 },
 {
 glyphname = N;
-lastChange = "2019-12-08 04:28:17 +0000";
+lastChange = "2019-12-08 15:33:58 +0000";
 layers = (
 {
 layerId = "8FE94AFF-78E5-4BAD-B162-F5B7FD0FDE43";
@@ -1048,11 +1048,11 @@ width = 600;
 },
 {
 layerId = "C1381135-CB61-4B49-BC8B-09FD310384D4";
-width = 600;
+width = 400;
 },
 {
 layerId = "CFE90BE0-6A0F-4BB5-9239-F4590AF935C6";
-width = 600;
+width = 400;
 },
 {
 layerId = "E3545ABF-CA3D-424B-BC89-2119FBD997C7";
@@ -1060,26 +1060,26 @@ width = 600;
 },
 {
 layerId = "AF2B4B2F-44AE-4712-9E88-47400FAA756E";
-width = 600;
+width = 400;
 },
 {
 layerId = "CF372A38-CCF0-4ECF-A851-D0EDF62DAC52";
-width = 600;
+width = 400;
 },
 {
 layerId = "69BD4473-2759-473D-A5F2-6927F6EF0D4B";
-width = 600;
+width = 500;
 },
 {
 layerId = "C4212F7E-DB9E-4B8A-AD61-FBEB6E0E008A";
-width = 600;
+width = 500;
 }
 );
 unicode = 004E;
 },
 {
 glyphname = O;
-lastChange = "2019-12-08 04:28:17 +0000";
+lastChange = "2019-12-08 15:33:58 +0000";
 layers = (
 {
 layerId = "8FE94AFF-78E5-4BAD-B162-F5B7FD0FDE43";
@@ -1095,11 +1095,11 @@ width = 600;
 },
 {
 layerId = "C1381135-CB61-4B49-BC8B-09FD310384D4";
-width = 600;
+width = 400;
 },
 {
 layerId = "CFE90BE0-6A0F-4BB5-9239-F4590AF935C6";
-width = 600;
+width = 400;
 },
 {
 layerId = "E3545ABF-CA3D-424B-BC89-2119FBD997C7";
@@ -1107,26 +1107,26 @@ width = 600;
 },
 {
 layerId = "AF2B4B2F-44AE-4712-9E88-47400FAA756E";
-width = 600;
+width = 400;
 },
 {
 layerId = "CF372A38-CCF0-4ECF-A851-D0EDF62DAC52";
-width = 600;
+width = 400;
 },
 {
 layerId = "69BD4473-2759-473D-A5F2-6927F6EF0D4B";
-width = 600;
+width = 500;
 },
 {
 layerId = "C4212F7E-DB9E-4B8A-AD61-FBEB6E0E008A";
-width = 600;
+width = 500;
 }
 );
 unicode = 004F;
 },
 {
 glyphname = P;
-lastChange = "2019-12-08 04:28:17 +0000";
+lastChange = "2019-12-08 15:33:58 +0000";
 layers = (
 {
 layerId = "8FE94AFF-78E5-4BAD-B162-F5B7FD0FDE43";
@@ -1142,11 +1142,11 @@ width = 600;
 },
 {
 layerId = "C1381135-CB61-4B49-BC8B-09FD310384D4";
-width = 600;
+width = 400;
 },
 {
 layerId = "CFE90BE0-6A0F-4BB5-9239-F4590AF935C6";
-width = 600;
+width = 400;
 },
 {
 layerId = "E3545ABF-CA3D-424B-BC89-2119FBD997C7";
@@ -1154,26 +1154,26 @@ width = 600;
 },
 {
 layerId = "AF2B4B2F-44AE-4712-9E88-47400FAA756E";
-width = 600;
+width = 400;
 },
 {
 layerId = "CF372A38-CCF0-4ECF-A851-D0EDF62DAC52";
-width = 600;
+width = 400;
 },
 {
 layerId = "69BD4473-2759-473D-A5F2-6927F6EF0D4B";
-width = 600;
+width = 500;
 },
 {
 layerId = "C4212F7E-DB9E-4B8A-AD61-FBEB6E0E008A";
-width = 600;
+width = 500;
 }
 );
 unicode = 0050;
 },
 {
 glyphname = Q;
-lastChange = "2019-12-08 04:28:17 +0000";
+lastChange = "2019-12-08 15:33:58 +0000";
 layers = (
 {
 layerId = "8FE94AFF-78E5-4BAD-B162-F5B7FD0FDE43";
@@ -1189,11 +1189,11 @@ width = 600;
 },
 {
 layerId = "C1381135-CB61-4B49-BC8B-09FD310384D4";
-width = 600;
+width = 400;
 },
 {
 layerId = "CFE90BE0-6A0F-4BB5-9239-F4590AF935C6";
-width = 600;
+width = 400;
 },
 {
 layerId = "E3545ABF-CA3D-424B-BC89-2119FBD997C7";
@@ -1201,26 +1201,26 @@ width = 600;
 },
 {
 layerId = "AF2B4B2F-44AE-4712-9E88-47400FAA756E";
-width = 600;
+width = 400;
 },
 {
 layerId = "CF372A38-CCF0-4ECF-A851-D0EDF62DAC52";
-width = 600;
+width = 400;
 },
 {
 layerId = "69BD4473-2759-473D-A5F2-6927F6EF0D4B";
-width = 600;
+width = 500;
 },
 {
 layerId = "C4212F7E-DB9E-4B8A-AD61-FBEB6E0E008A";
-width = 600;
+width = 500;
 }
 );
 unicode = 0051;
 },
 {
 glyphname = R;
-lastChange = "2019-12-08 04:28:17 +0000";
+lastChange = "2019-12-08 15:33:58 +0000";
 layers = (
 {
 layerId = "8FE94AFF-78E5-4BAD-B162-F5B7FD0FDE43";
@@ -1236,11 +1236,11 @@ width = 600;
 },
 {
 layerId = "C1381135-CB61-4B49-BC8B-09FD310384D4";
-width = 600;
+width = 400;
 },
 {
 layerId = "CFE90BE0-6A0F-4BB5-9239-F4590AF935C6";
-width = 600;
+width = 400;
 },
 {
 layerId = "E3545ABF-CA3D-424B-BC89-2119FBD997C7";
@@ -1248,26 +1248,26 @@ width = 600;
 },
 {
 layerId = "AF2B4B2F-44AE-4712-9E88-47400FAA756E";
-width = 600;
+width = 400;
 },
 {
 layerId = "CF372A38-CCF0-4ECF-A851-D0EDF62DAC52";
-width = 600;
+width = 400;
 },
 {
 layerId = "69BD4473-2759-473D-A5F2-6927F6EF0D4B";
-width = 600;
+width = 500;
 },
 {
 layerId = "C4212F7E-DB9E-4B8A-AD61-FBEB6E0E008A";
-width = 600;
+width = 500;
 }
 );
 unicode = 0052;
 },
 {
 glyphname = S;
-lastChange = "2019-12-08 04:28:17 +0000";
+lastChange = "2019-12-08 15:33:58 +0000";
 layers = (
 {
 layerId = "8FE94AFF-78E5-4BAD-B162-F5B7FD0FDE43";
@@ -1283,11 +1283,11 @@ width = 600;
 },
 {
 layerId = "C1381135-CB61-4B49-BC8B-09FD310384D4";
-width = 600;
+width = 400;
 },
 {
 layerId = "CFE90BE0-6A0F-4BB5-9239-F4590AF935C6";
-width = 600;
+width = 400;
 },
 {
 layerId = "E3545ABF-CA3D-424B-BC89-2119FBD997C7";
@@ -1295,26 +1295,26 @@ width = 600;
 },
 {
 layerId = "AF2B4B2F-44AE-4712-9E88-47400FAA756E";
-width = 600;
+width = 400;
 },
 {
 layerId = "CF372A38-CCF0-4ECF-A851-D0EDF62DAC52";
-width = 600;
+width = 400;
 },
 {
 layerId = "69BD4473-2759-473D-A5F2-6927F6EF0D4B";
-width = 600;
+width = 500;
 },
 {
 layerId = "C4212F7E-DB9E-4B8A-AD61-FBEB6E0E008A";
-width = 600;
+width = 500;
 }
 );
 unicode = 0053;
 },
 {
 glyphname = T;
-lastChange = "2019-12-08 04:28:17 +0000";
+lastChange = "2019-12-08 15:33:58 +0000";
 layers = (
 {
 layerId = "8FE94AFF-78E5-4BAD-B162-F5B7FD0FDE43";
@@ -1330,11 +1330,11 @@ width = 600;
 },
 {
 layerId = "C1381135-CB61-4B49-BC8B-09FD310384D4";
-width = 600;
+width = 400;
 },
 {
 layerId = "CFE90BE0-6A0F-4BB5-9239-F4590AF935C6";
-width = 600;
+width = 400;
 },
 {
 layerId = "E3545ABF-CA3D-424B-BC89-2119FBD997C7";
@@ -1342,26 +1342,26 @@ width = 600;
 },
 {
 layerId = "AF2B4B2F-44AE-4712-9E88-47400FAA756E";
-width = 600;
+width = 400;
 },
 {
 layerId = "CF372A38-CCF0-4ECF-A851-D0EDF62DAC52";
-width = 600;
+width = 400;
 },
 {
 layerId = "69BD4473-2759-473D-A5F2-6927F6EF0D4B";
-width = 600;
+width = 500;
 },
 {
 layerId = "C4212F7E-DB9E-4B8A-AD61-FBEB6E0E008A";
-width = 600;
+width = 500;
 }
 );
 unicode = 0054;
 },
 {
 glyphname = U;
-lastChange = "2019-12-08 04:28:17 +0000";
+lastChange = "2019-12-08 15:33:58 +0000";
 layers = (
 {
 layerId = "8FE94AFF-78E5-4BAD-B162-F5B7FD0FDE43";
@@ -1377,11 +1377,11 @@ width = 600;
 },
 {
 layerId = "C1381135-CB61-4B49-BC8B-09FD310384D4";
-width = 600;
+width = 400;
 },
 {
 layerId = "CFE90BE0-6A0F-4BB5-9239-F4590AF935C6";
-width = 600;
+width = 400;
 },
 {
 layerId = "E3545ABF-CA3D-424B-BC89-2119FBD997C7";
@@ -1389,26 +1389,26 @@ width = 600;
 },
 {
 layerId = "AF2B4B2F-44AE-4712-9E88-47400FAA756E";
-width = 600;
+width = 400;
 },
 {
 layerId = "CF372A38-CCF0-4ECF-A851-D0EDF62DAC52";
-width = 600;
+width = 400;
 },
 {
 layerId = "69BD4473-2759-473D-A5F2-6927F6EF0D4B";
-width = 600;
+width = 500;
 },
 {
 layerId = "C4212F7E-DB9E-4B8A-AD61-FBEB6E0E008A";
-width = 600;
+width = 500;
 }
 );
 unicode = 0055;
 },
 {
 glyphname = V;
-lastChange = "2019-12-08 04:28:17 +0000";
+lastChange = "2019-12-08 15:33:58 +0000";
 layers = (
 {
 layerId = "8FE94AFF-78E5-4BAD-B162-F5B7FD0FDE43";
@@ -1424,11 +1424,11 @@ width = 600;
 },
 {
 layerId = "C1381135-CB61-4B49-BC8B-09FD310384D4";
-width = 600;
+width = 400;
 },
 {
 layerId = "CFE90BE0-6A0F-4BB5-9239-F4590AF935C6";
-width = 600;
+width = 400;
 },
 {
 layerId = "E3545ABF-CA3D-424B-BC89-2119FBD997C7";
@@ -1436,26 +1436,26 @@ width = 600;
 },
 {
 layerId = "AF2B4B2F-44AE-4712-9E88-47400FAA756E";
-width = 600;
+width = 400;
 },
 {
 layerId = "CF372A38-CCF0-4ECF-A851-D0EDF62DAC52";
-width = 600;
+width = 400;
 },
 {
 layerId = "69BD4473-2759-473D-A5F2-6927F6EF0D4B";
-width = 600;
+width = 500;
 },
 {
 layerId = "C4212F7E-DB9E-4B8A-AD61-FBEB6E0E008A";
-width = 600;
+width = 500;
 }
 );
 unicode = 0056;
 },
 {
 glyphname = W;
-lastChange = "2019-12-08 04:28:17 +0000";
+lastChange = "2019-12-08 15:33:58 +0000";
 layers = (
 {
 layerId = "8FE94AFF-78E5-4BAD-B162-F5B7FD0FDE43";
@@ -1471,11 +1471,11 @@ width = 600;
 },
 {
 layerId = "C1381135-CB61-4B49-BC8B-09FD310384D4";
-width = 600;
+width = 400;
 },
 {
 layerId = "CFE90BE0-6A0F-4BB5-9239-F4590AF935C6";
-width = 600;
+width = 400;
 },
 {
 layerId = "E3545ABF-CA3D-424B-BC89-2119FBD997C7";
@@ -1483,26 +1483,26 @@ width = 600;
 },
 {
 layerId = "AF2B4B2F-44AE-4712-9E88-47400FAA756E";
-width = 600;
+width = 400;
 },
 {
 layerId = "CF372A38-CCF0-4ECF-A851-D0EDF62DAC52";
-width = 600;
+width = 400;
 },
 {
 layerId = "69BD4473-2759-473D-A5F2-6927F6EF0D4B";
-width = 600;
+width = 500;
 },
 {
 layerId = "C4212F7E-DB9E-4B8A-AD61-FBEB6E0E008A";
-width = 600;
+width = 500;
 }
 );
 unicode = 0057;
 },
 {
 glyphname = X;
-lastChange = "2019-12-08 04:28:17 +0000";
+lastChange = "2019-12-08 15:33:58 +0000";
 layers = (
 {
 layerId = "8FE94AFF-78E5-4BAD-B162-F5B7FD0FDE43";
@@ -1518,11 +1518,11 @@ width = 600;
 },
 {
 layerId = "C1381135-CB61-4B49-BC8B-09FD310384D4";
-width = 600;
+width = 400;
 },
 {
 layerId = "CFE90BE0-6A0F-4BB5-9239-F4590AF935C6";
-width = 600;
+width = 400;
 },
 {
 layerId = "E3545ABF-CA3D-424B-BC89-2119FBD997C7";
@@ -1530,26 +1530,26 @@ width = 600;
 },
 {
 layerId = "AF2B4B2F-44AE-4712-9E88-47400FAA756E";
-width = 600;
+width = 400;
 },
 {
 layerId = "CF372A38-CCF0-4ECF-A851-D0EDF62DAC52";
-width = 600;
+width = 400;
 },
 {
 layerId = "69BD4473-2759-473D-A5F2-6927F6EF0D4B";
-width = 600;
+width = 500;
 },
 {
 layerId = "C4212F7E-DB9E-4B8A-AD61-FBEB6E0E008A";
-width = 600;
+width = 500;
 }
 );
 unicode = 0058;
 },
 {
 glyphname = Y;
-lastChange = "2019-12-08 04:28:17 +0000";
+lastChange = "2019-12-08 15:33:58 +0000";
 layers = (
 {
 layerId = "8FE94AFF-78E5-4BAD-B162-F5B7FD0FDE43";
@@ -1565,11 +1565,11 @@ width = 600;
 },
 {
 layerId = "C1381135-CB61-4B49-BC8B-09FD310384D4";
-width = 600;
+width = 400;
 },
 {
 layerId = "CFE90BE0-6A0F-4BB5-9239-F4590AF935C6";
-width = 600;
+width = 400;
 },
 {
 layerId = "E3545ABF-CA3D-424B-BC89-2119FBD997C7";
@@ -1577,26 +1577,26 @@ width = 600;
 },
 {
 layerId = "AF2B4B2F-44AE-4712-9E88-47400FAA756E";
-width = 600;
+width = 400;
 },
 {
 layerId = "CF372A38-CCF0-4ECF-A851-D0EDF62DAC52";
-width = 600;
+width = 400;
 },
 {
 layerId = "69BD4473-2759-473D-A5F2-6927F6EF0D4B";
-width = 600;
+width = 500;
 },
 {
 layerId = "C4212F7E-DB9E-4B8A-AD61-FBEB6E0E008A";
-width = 600;
+width = 500;
 }
 );
 unicode = 0059;
 },
 {
 glyphname = Z;
-lastChange = "2019-12-08 04:28:17 +0000";
+lastChange = "2019-12-08 15:33:58 +0000";
 layers = (
 {
 layerId = "8FE94AFF-78E5-4BAD-B162-F5B7FD0FDE43";
@@ -1612,11 +1612,11 @@ width = 600;
 },
 {
 layerId = "C1381135-CB61-4B49-BC8B-09FD310384D4";
-width = 600;
+width = 400;
 },
 {
 layerId = "CFE90BE0-6A0F-4BB5-9239-F4590AF935C6";
-width = 600;
+width = 400;
 },
 {
 layerId = "E3545ABF-CA3D-424B-BC89-2119FBD997C7";
@@ -1624,1107 +1624,1107 @@ width = 600;
 },
 {
 layerId = "AF2B4B2F-44AE-4712-9E88-47400FAA756E";
-width = 600;
+width = 400;
 },
 {
 layerId = "CF372A38-CCF0-4ECF-A851-D0EDF62DAC52";
-width = 600;
+width = 400;
 },
 {
 layerId = "69BD4473-2759-473D-A5F2-6927F6EF0D4B";
-width = 600;
+width = 500;
 },
 {
 layerId = "C4212F7E-DB9E-4B8A-AD61-FBEB6E0E008A";
-width = 600;
+width = 500;
 }
 );
 unicode = 005A;
 },
 {
 glyphname = a;
-lastChange = "2019-12-08 04:28:17 +0000";
+lastChange = "2019-12-08 15:33:58 +0000";
 layers = (
 {
 layerId = "8FE94AFF-78E5-4BAD-B162-F5B7FD0FDE43";
-width = 600;
+width = 550;
 },
 {
 layerId = "A09845BB-8E95-46CB-99B9-51A1DA7E3EA7";
-width = 600;
+width = 550;
 },
 {
 layerId = "E3545ABF-CA3D-424B-BC89-2119FBD997C7";
-width = 600;
+width = 550;
 },
 {
 layerId = "F5E46B06-E4B2-40BB-8600-C630C9F37E2D";
-width = 600;
+width = 550;
 },
 {
 layerId = "AF2B4B2F-44AE-4712-9E88-47400FAA756E";
-width = 600;
+width = 380;
 },
 {
 layerId = "C1381135-CB61-4B49-BC8B-09FD310384D4";
-width = 600;
+width = 380;
 },
 {
 layerId = "CF372A38-CCF0-4ECF-A851-D0EDF62DAC52";
-width = 600;
+width = 380;
 },
 {
 layerId = "CFE90BE0-6A0F-4BB5-9239-F4590AF935C6";
-width = 600;
+width = 380;
 },
 {
 layerId = "69BD4473-2759-473D-A5F2-6927F6EF0D4B";
-width = 600;
+width = 465;
 },
 {
 layerId = "C4212F7E-DB9E-4B8A-AD61-FBEB6E0E008A";
-width = 600;
+width = 465;
 }
 );
 unicode = 0061;
 },
 {
 glyphname = b;
-lastChange = "2019-12-08 04:28:17 +0000";
+lastChange = "2019-12-08 15:33:58 +0000";
 layers = (
 {
 layerId = "8FE94AFF-78E5-4BAD-B162-F5B7FD0FDE43";
-width = 600;
+width = 550;
 },
 {
 layerId = "A09845BB-8E95-46CB-99B9-51A1DA7E3EA7";
-width = 600;
+width = 550;
 },
 {
 layerId = "F5E46B06-E4B2-40BB-8600-C630C9F37E2D";
-width = 600;
+width = 550;
 },
 {
 layerId = "C1381135-CB61-4B49-BC8B-09FD310384D4";
-width = 600;
+width = 380;
 },
 {
 layerId = "CFE90BE0-6A0F-4BB5-9239-F4590AF935C6";
-width = 600;
+width = 380;
 },
 {
 layerId = "E3545ABF-CA3D-424B-BC89-2119FBD997C7";
-width = 600;
+width = 550;
 },
 {
 layerId = "AF2B4B2F-44AE-4712-9E88-47400FAA756E";
-width = 600;
+width = 380;
 },
 {
 layerId = "CF372A38-CCF0-4ECF-A851-D0EDF62DAC52";
-width = 600;
+width = 380;
 },
 {
 layerId = "69BD4473-2759-473D-A5F2-6927F6EF0D4B";
-width = 600;
+width = 465;
 },
 {
 layerId = "C4212F7E-DB9E-4B8A-AD61-FBEB6E0E008A";
-width = 600;
+width = 465;
 }
 );
 unicode = 0062;
 },
 {
 glyphname = c;
-lastChange = "2019-12-08 04:28:17 +0000";
+lastChange = "2019-12-08 15:33:58 +0000";
 layers = (
 {
 layerId = "8FE94AFF-78E5-4BAD-B162-F5B7FD0FDE43";
-width = 600;
+width = 550;
 },
 {
 layerId = "A09845BB-8E95-46CB-99B9-51A1DA7E3EA7";
-width = 600;
+width = 550;
 },
 {
 layerId = "F5E46B06-E4B2-40BB-8600-C630C9F37E2D";
-width = 600;
+width = 550;
 },
 {
 layerId = "C1381135-CB61-4B49-BC8B-09FD310384D4";
-width = 600;
+width = 380;
 },
 {
 layerId = "CFE90BE0-6A0F-4BB5-9239-F4590AF935C6";
-width = 600;
+width = 380;
 },
 {
 layerId = "E3545ABF-CA3D-424B-BC89-2119FBD997C7";
-width = 600;
+width = 550;
 },
 {
 layerId = "AF2B4B2F-44AE-4712-9E88-47400FAA756E";
-width = 600;
+width = 380;
 },
 {
 layerId = "CF372A38-CCF0-4ECF-A851-D0EDF62DAC52";
-width = 600;
+width = 380;
 },
 {
 layerId = "69BD4473-2759-473D-A5F2-6927F6EF0D4B";
-width = 600;
+width = 465;
 },
 {
 layerId = "C4212F7E-DB9E-4B8A-AD61-FBEB6E0E008A";
-width = 600;
+width = 465;
 }
 );
 unicode = 0063;
 },
 {
 glyphname = d;
-lastChange = "2019-12-08 04:28:17 +0000";
+lastChange = "2019-12-08 15:33:58 +0000";
 layers = (
 {
 layerId = "8FE94AFF-78E5-4BAD-B162-F5B7FD0FDE43";
-width = 600;
+width = 550;
 },
 {
 layerId = "A09845BB-8E95-46CB-99B9-51A1DA7E3EA7";
-width = 600;
+width = 550;
 },
 {
 layerId = "F5E46B06-E4B2-40BB-8600-C630C9F37E2D";
-width = 600;
+width = 550;
 },
 {
 layerId = "C1381135-CB61-4B49-BC8B-09FD310384D4";
-width = 600;
+width = 380;
 },
 {
 layerId = "CFE90BE0-6A0F-4BB5-9239-F4590AF935C6";
-width = 600;
+width = 380;
 },
 {
 layerId = "E3545ABF-CA3D-424B-BC89-2119FBD997C7";
-width = 600;
+width = 550;
 },
 {
 layerId = "AF2B4B2F-44AE-4712-9E88-47400FAA756E";
-width = 600;
+width = 380;
 },
 {
 layerId = "CF372A38-CCF0-4ECF-A851-D0EDF62DAC52";
-width = 600;
+width = 380;
 },
 {
 layerId = "69BD4473-2759-473D-A5F2-6927F6EF0D4B";
-width = 600;
+width = 465;
 },
 {
 layerId = "C4212F7E-DB9E-4B8A-AD61-FBEB6E0E008A";
-width = 600;
+width = 465;
 }
 );
 unicode = 0064;
 },
 {
 glyphname = e;
-lastChange = "2019-12-08 04:28:17 +0000";
+lastChange = "2019-12-08 15:33:58 +0000";
 layers = (
 {
 layerId = "8FE94AFF-78E5-4BAD-B162-F5B7FD0FDE43";
-width = 600;
+width = 550;
 },
 {
 layerId = "A09845BB-8E95-46CB-99B9-51A1DA7E3EA7";
-width = 600;
+width = 550;
 },
 {
 layerId = "F5E46B06-E4B2-40BB-8600-C630C9F37E2D";
-width = 600;
+width = 550;
 },
 {
 layerId = "C1381135-CB61-4B49-BC8B-09FD310384D4";
-width = 600;
+width = 380;
 },
 {
 layerId = "CFE90BE0-6A0F-4BB5-9239-F4590AF935C6";
-width = 600;
+width = 380;
 },
 {
 layerId = "E3545ABF-CA3D-424B-BC89-2119FBD997C7";
-width = 600;
+width = 550;
 },
 {
 layerId = "AF2B4B2F-44AE-4712-9E88-47400FAA756E";
-width = 600;
+width = 380;
 },
 {
 layerId = "CF372A38-CCF0-4ECF-A851-D0EDF62DAC52";
-width = 600;
+width = 380;
 },
 {
 layerId = "69BD4473-2759-473D-A5F2-6927F6EF0D4B";
-width = 600;
+width = 465;
 },
 {
 layerId = "C4212F7E-DB9E-4B8A-AD61-FBEB6E0E008A";
-width = 600;
+width = 465;
 }
 );
 unicode = 0065;
 },
 {
 glyphname = f;
-lastChange = "2019-12-08 04:28:17 +0000";
+lastChange = "2019-12-08 15:33:58 +0000";
 layers = (
 {
 layerId = "8FE94AFF-78E5-4BAD-B162-F5B7FD0FDE43";
-width = 600;
+width = 550;
 },
 {
 layerId = "A09845BB-8E95-46CB-99B9-51A1DA7E3EA7";
-width = 600;
+width = 550;
 },
 {
 layerId = "F5E46B06-E4B2-40BB-8600-C630C9F37E2D";
-width = 600;
+width = 550;
 },
 {
 layerId = "C1381135-CB61-4B49-BC8B-09FD310384D4";
-width = 600;
+width = 380;
 },
 {
 layerId = "CFE90BE0-6A0F-4BB5-9239-F4590AF935C6";
-width = 600;
+width = 380;
 },
 {
 layerId = "E3545ABF-CA3D-424B-BC89-2119FBD997C7";
-width = 600;
+width = 550;
 },
 {
 layerId = "AF2B4B2F-44AE-4712-9E88-47400FAA756E";
-width = 600;
+width = 380;
 },
 {
 layerId = "CF372A38-CCF0-4ECF-A851-D0EDF62DAC52";
-width = 600;
+width = 380;
 },
 {
 layerId = "69BD4473-2759-473D-A5F2-6927F6EF0D4B";
-width = 600;
+width = 465;
 },
 {
 layerId = "C4212F7E-DB9E-4B8A-AD61-FBEB6E0E008A";
-width = 600;
+width = 465;
 }
 );
 unicode = 0066;
 },
 {
 glyphname = g;
-lastChange = "2019-12-08 04:28:17 +0000";
+lastChange = "2019-12-08 15:33:58 +0000";
 layers = (
 {
 layerId = "8FE94AFF-78E5-4BAD-B162-F5B7FD0FDE43";
-width = 600;
+width = 550;
 },
 {
 layerId = "A09845BB-8E95-46CB-99B9-51A1DA7E3EA7";
-width = 600;
+width = 550;
 },
 {
 layerId = "F5E46B06-E4B2-40BB-8600-C630C9F37E2D";
-width = 600;
+width = 550;
 },
 {
 layerId = "E3545ABF-CA3D-424B-BC89-2119FBD997C7";
-width = 600;
+width = 550;
 },
 {
 layerId = "C1381135-CB61-4B49-BC8B-09FD310384D4";
-width = 600;
+width = 380;
 },
 {
 layerId = "CFE90BE0-6A0F-4BB5-9239-F4590AF935C6";
-width = 600;
+width = 380;
 },
 {
 layerId = "AF2B4B2F-44AE-4712-9E88-47400FAA756E";
-width = 600;
+width = 380;
 },
 {
 layerId = "CF372A38-CCF0-4ECF-A851-D0EDF62DAC52";
-width = 600;
+width = 380;
 },
 {
 layerId = "69BD4473-2759-473D-A5F2-6927F6EF0D4B";
-width = 600;
+width = 465;
 },
 {
 layerId = "C4212F7E-DB9E-4B8A-AD61-FBEB6E0E008A";
-width = 600;
+width = 465;
 }
 );
 unicode = 0067;
 },
 {
 glyphname = h;
-lastChange = "2019-12-08 04:28:17 +0000";
+lastChange = "2019-12-08 15:33:58 +0000";
 layers = (
 {
 layerId = "8FE94AFF-78E5-4BAD-B162-F5B7FD0FDE43";
-width = 600;
+width = 550;
 },
 {
 layerId = "A09845BB-8E95-46CB-99B9-51A1DA7E3EA7";
-width = 600;
+width = 550;
 },
 {
 layerId = "F5E46B06-E4B2-40BB-8600-C630C9F37E2D";
-width = 600;
+width = 550;
 },
 {
 layerId = "C1381135-CB61-4B49-BC8B-09FD310384D4";
-width = 600;
+width = 380;
 },
 {
 layerId = "CFE90BE0-6A0F-4BB5-9239-F4590AF935C6";
-width = 600;
+width = 380;
 },
 {
 layerId = "E3545ABF-CA3D-424B-BC89-2119FBD997C7";
-width = 600;
+width = 550;
 },
 {
 layerId = "AF2B4B2F-44AE-4712-9E88-47400FAA756E";
-width = 600;
+width = 380;
 },
 {
 layerId = "CF372A38-CCF0-4ECF-A851-D0EDF62DAC52";
-width = 600;
+width = 380;
 },
 {
 layerId = "69BD4473-2759-473D-A5F2-6927F6EF0D4B";
-width = 600;
+width = 465;
 },
 {
 layerId = "C4212F7E-DB9E-4B8A-AD61-FBEB6E0E008A";
-width = 600;
+width = 465;
 }
 );
 unicode = 0068;
 },
 {
 glyphname = i;
-lastChange = "2019-12-08 04:28:17 +0000";
+lastChange = "2019-12-08 15:33:58 +0000";
 layers = (
 {
 layerId = "8FE94AFF-78E5-4BAD-B162-F5B7FD0FDE43";
-width = 600;
+width = 550;
 },
 {
 layerId = "A09845BB-8E95-46CB-99B9-51A1DA7E3EA7";
-width = 600;
+width = 550;
 },
 {
 layerId = "F5E46B06-E4B2-40BB-8600-C630C9F37E2D";
-width = 600;
+width = 550;
 },
 {
 layerId = "C1381135-CB61-4B49-BC8B-09FD310384D4";
-width = 600;
+width = 380;
 },
 {
 layerId = "CFE90BE0-6A0F-4BB5-9239-F4590AF935C6";
-width = 600;
+width = 380;
 },
 {
 layerId = "E3545ABF-CA3D-424B-BC89-2119FBD997C7";
-width = 600;
+width = 550;
 },
 {
 layerId = "AF2B4B2F-44AE-4712-9E88-47400FAA756E";
-width = 600;
+width = 380;
 },
 {
 layerId = "CF372A38-CCF0-4ECF-A851-D0EDF62DAC52";
-width = 600;
+width = 380;
 },
 {
 layerId = "69BD4473-2759-473D-A5F2-6927F6EF0D4B";
-width = 600;
+width = 465;
 },
 {
 layerId = "C4212F7E-DB9E-4B8A-AD61-FBEB6E0E008A";
-width = 600;
+width = 465;
 }
 );
 unicode = 0069;
 },
 {
 glyphname = j;
-lastChange = "2019-12-08 04:28:17 +0000";
+lastChange = "2019-12-08 15:33:58 +0000";
 layers = (
 {
 layerId = "8FE94AFF-78E5-4BAD-B162-F5B7FD0FDE43";
-width = 600;
+width = 550;
 },
 {
 layerId = "A09845BB-8E95-46CB-99B9-51A1DA7E3EA7";
-width = 600;
+width = 550;
 },
 {
 layerId = "F5E46B06-E4B2-40BB-8600-C630C9F37E2D";
-width = 600;
+width = 550;
 },
 {
 layerId = "C1381135-CB61-4B49-BC8B-09FD310384D4";
-width = 600;
+width = 380;
 },
 {
 layerId = "CFE90BE0-6A0F-4BB5-9239-F4590AF935C6";
-width = 600;
+width = 380;
 },
 {
 layerId = "E3545ABF-CA3D-424B-BC89-2119FBD997C7";
-width = 600;
+width = 550;
 },
 {
 layerId = "AF2B4B2F-44AE-4712-9E88-47400FAA756E";
-width = 600;
+width = 380;
 },
 {
 layerId = "CF372A38-CCF0-4ECF-A851-D0EDF62DAC52";
-width = 600;
+width = 380;
 },
 {
 layerId = "69BD4473-2759-473D-A5F2-6927F6EF0D4B";
-width = 600;
+width = 465;
 },
 {
 layerId = "C4212F7E-DB9E-4B8A-AD61-FBEB6E0E008A";
-width = 600;
+width = 465;
 }
 );
 unicode = 006A;
 },
 {
 glyphname = k;
-lastChange = "2019-12-08 04:28:17 +0000";
+lastChange = "2019-12-08 15:33:58 +0000";
 layers = (
 {
 layerId = "8FE94AFF-78E5-4BAD-B162-F5B7FD0FDE43";
-width = 600;
+width = 550;
 },
 {
 layerId = "A09845BB-8E95-46CB-99B9-51A1DA7E3EA7";
-width = 600;
+width = 550;
 },
 {
 layerId = "F5E46B06-E4B2-40BB-8600-C630C9F37E2D";
-width = 600;
+width = 550;
 },
 {
 layerId = "C1381135-CB61-4B49-BC8B-09FD310384D4";
-width = 600;
+width = 380;
 },
 {
 layerId = "CFE90BE0-6A0F-4BB5-9239-F4590AF935C6";
-width = 600;
+width = 380;
 },
 {
 layerId = "E3545ABF-CA3D-424B-BC89-2119FBD997C7";
-width = 600;
+width = 550;
 },
 {
 layerId = "AF2B4B2F-44AE-4712-9E88-47400FAA756E";
-width = 600;
+width = 380;
 },
 {
 layerId = "CF372A38-CCF0-4ECF-A851-D0EDF62DAC52";
-width = 600;
+width = 380;
 },
 {
 layerId = "69BD4473-2759-473D-A5F2-6927F6EF0D4B";
-width = 600;
+width = 465;
 },
 {
 layerId = "C4212F7E-DB9E-4B8A-AD61-FBEB6E0E008A";
-width = 600;
+width = 465;
 }
 );
 unicode = 006B;
 },
 {
 glyphname = l;
-lastChange = "2019-12-08 04:28:17 +0000";
+lastChange = "2019-12-08 15:33:58 +0000";
 layers = (
 {
 layerId = "8FE94AFF-78E5-4BAD-B162-F5B7FD0FDE43";
-width = 600;
+width = 550;
 },
 {
 layerId = "A09845BB-8E95-46CB-99B9-51A1DA7E3EA7";
-width = 600;
+width = 550;
 },
 {
 layerId = "F5E46B06-E4B2-40BB-8600-C630C9F37E2D";
-width = 600;
+width = 550;
 },
 {
 layerId = "C1381135-CB61-4B49-BC8B-09FD310384D4";
-width = 600;
+width = 380;
 },
 {
 layerId = "CFE90BE0-6A0F-4BB5-9239-F4590AF935C6";
-width = 600;
+width = 380;
 },
 {
 layerId = "E3545ABF-CA3D-424B-BC89-2119FBD997C7";
-width = 600;
+width = 550;
 },
 {
 layerId = "AF2B4B2F-44AE-4712-9E88-47400FAA756E";
-width = 600;
+width = 380;
 },
 {
 layerId = "CF372A38-CCF0-4ECF-A851-D0EDF62DAC52";
-width = 600;
+width = 380;
 },
 {
 layerId = "69BD4473-2759-473D-A5F2-6927F6EF0D4B";
-width = 600;
+width = 465;
 },
 {
 layerId = "C4212F7E-DB9E-4B8A-AD61-FBEB6E0E008A";
-width = 600;
+width = 465;
 }
 );
 unicode = 006C;
 },
 {
 glyphname = m;
-lastChange = "2019-12-08 04:28:17 +0000";
+lastChange = "2019-12-08 15:33:58 +0000";
 layers = (
 {
 layerId = "8FE94AFF-78E5-4BAD-B162-F5B7FD0FDE43";
-width = 600;
+width = 550;
 },
 {
 layerId = "A09845BB-8E95-46CB-99B9-51A1DA7E3EA7";
-width = 600;
+width = 550;
 },
 {
 layerId = "F5E46B06-E4B2-40BB-8600-C630C9F37E2D";
-width = 600;
+width = 550;
 },
 {
 layerId = "C1381135-CB61-4B49-BC8B-09FD310384D4";
-width = 600;
+width = 380;
 },
 {
 layerId = "CFE90BE0-6A0F-4BB5-9239-F4590AF935C6";
-width = 600;
+width = 380;
 },
 {
 layerId = "E3545ABF-CA3D-424B-BC89-2119FBD997C7";
-width = 600;
+width = 550;
 },
 {
 layerId = "AF2B4B2F-44AE-4712-9E88-47400FAA756E";
-width = 600;
+width = 380;
 },
 {
 layerId = "CF372A38-CCF0-4ECF-A851-D0EDF62DAC52";
-width = 600;
+width = 380;
 },
 {
 layerId = "69BD4473-2759-473D-A5F2-6927F6EF0D4B";
-width = 600;
+width = 465;
 },
 {
 layerId = "C4212F7E-DB9E-4B8A-AD61-FBEB6E0E008A";
-width = 600;
+width = 465;
 }
 );
 unicode = 006D;
 },
 {
 glyphname = n;
-lastChange = "2019-12-08 04:28:17 +0000";
+lastChange = "2019-12-08 15:33:58 +0000";
 layers = (
 {
 layerId = "8FE94AFF-78E5-4BAD-B162-F5B7FD0FDE43";
-width = 600;
+width = 550;
 },
 {
 layerId = "A09845BB-8E95-46CB-99B9-51A1DA7E3EA7";
-width = 600;
+width = 550;
 },
 {
 layerId = "F5E46B06-E4B2-40BB-8600-C630C9F37E2D";
-width = 600;
+width = 550;
 },
 {
 layerId = "E3545ABF-CA3D-424B-BC89-2119FBD997C7";
-width = 600;
+width = 550;
 },
 {
 layerId = "C1381135-CB61-4B49-BC8B-09FD310384D4";
-width = 600;
+width = 380;
 },
 {
 layerId = "CFE90BE0-6A0F-4BB5-9239-F4590AF935C6";
-width = 600;
+width = 380;
 },
 {
 layerId = "AF2B4B2F-44AE-4712-9E88-47400FAA756E";
-width = 600;
+width = 380;
 },
 {
 layerId = "CF372A38-CCF0-4ECF-A851-D0EDF62DAC52";
-width = 600;
+width = 380;
 },
 {
 layerId = "69BD4473-2759-473D-A5F2-6927F6EF0D4B";
-width = 600;
+width = 465;
 },
 {
 layerId = "C4212F7E-DB9E-4B8A-AD61-FBEB6E0E008A";
-width = 600;
+width = 465;
 }
 );
 unicode = 006E;
 },
 {
 glyphname = o;
-lastChange = "2019-12-08 04:28:17 +0000";
+lastChange = "2019-12-08 15:33:58 +0000";
 layers = (
 {
 layerId = "8FE94AFF-78E5-4BAD-B162-F5B7FD0FDE43";
-width = 600;
+width = 550;
 },
 {
 layerId = "A09845BB-8E95-46CB-99B9-51A1DA7E3EA7";
-width = 600;
+width = 550;
 },
 {
 layerId = "F5E46B06-E4B2-40BB-8600-C630C9F37E2D";
-width = 600;
+width = 550;
 },
 {
 layerId = "C1381135-CB61-4B49-BC8B-09FD310384D4";
-width = 600;
+width = 380;
 },
 {
 layerId = "CFE90BE0-6A0F-4BB5-9239-F4590AF935C6";
-width = 600;
+width = 380;
 },
 {
 layerId = "E3545ABF-CA3D-424B-BC89-2119FBD997C7";
-width = 600;
+width = 550;
 },
 {
 layerId = "AF2B4B2F-44AE-4712-9E88-47400FAA756E";
-width = 600;
+width = 380;
 },
 {
 layerId = "CF372A38-CCF0-4ECF-A851-D0EDF62DAC52";
-width = 600;
+width = 380;
 },
 {
 layerId = "69BD4473-2759-473D-A5F2-6927F6EF0D4B";
-width = 600;
+width = 465;
 },
 {
 layerId = "C4212F7E-DB9E-4B8A-AD61-FBEB6E0E008A";
-width = 600;
+width = 465;
 }
 );
 unicode = 006F;
 },
 {
 glyphname = p;
-lastChange = "2019-12-08 04:28:17 +0000";
+lastChange = "2019-12-08 15:33:58 +0000";
 layers = (
 {
 layerId = "8FE94AFF-78E5-4BAD-B162-F5B7FD0FDE43";
-width = 600;
+width = 550;
 },
 {
 layerId = "A09845BB-8E95-46CB-99B9-51A1DA7E3EA7";
-width = 600;
+width = 550;
 },
 {
 layerId = "F5E46B06-E4B2-40BB-8600-C630C9F37E2D";
-width = 600;
+width = 550;
 },
 {
 layerId = "C1381135-CB61-4B49-BC8B-09FD310384D4";
-width = 600;
+width = 380;
 },
 {
 layerId = "CFE90BE0-6A0F-4BB5-9239-F4590AF935C6";
-width = 600;
+width = 380;
 },
 {
 layerId = "E3545ABF-CA3D-424B-BC89-2119FBD997C7";
-width = 600;
+width = 550;
 },
 {
 layerId = "AF2B4B2F-44AE-4712-9E88-47400FAA756E";
-width = 600;
+width = 380;
 },
 {
 layerId = "CF372A38-CCF0-4ECF-A851-D0EDF62DAC52";
-width = 600;
+width = 380;
 },
 {
 layerId = "69BD4473-2759-473D-A5F2-6927F6EF0D4B";
-width = 600;
+width = 465;
 },
 {
 layerId = "C4212F7E-DB9E-4B8A-AD61-FBEB6E0E008A";
-width = 600;
+width = 465;
 }
 );
 unicode = 0070;
 },
 {
 glyphname = q;
-lastChange = "2019-12-08 04:28:17 +0000";
+lastChange = "2019-12-08 15:33:58 +0000";
 layers = (
 {
 layerId = "8FE94AFF-78E5-4BAD-B162-F5B7FD0FDE43";
-width = 600;
+width = 550;
 },
 {
 layerId = "A09845BB-8E95-46CB-99B9-51A1DA7E3EA7";
-width = 600;
+width = 550;
 },
 {
 layerId = "F5E46B06-E4B2-40BB-8600-C630C9F37E2D";
-width = 600;
+width = 550;
 },
 {
 layerId = "C1381135-CB61-4B49-BC8B-09FD310384D4";
-width = 600;
+width = 380;
 },
 {
 layerId = "CFE90BE0-6A0F-4BB5-9239-F4590AF935C6";
-width = 600;
+width = 380;
 },
 {
 layerId = "E3545ABF-CA3D-424B-BC89-2119FBD997C7";
-width = 600;
+width = 550;
 },
 {
 layerId = "AF2B4B2F-44AE-4712-9E88-47400FAA756E";
-width = 600;
+width = 380;
 },
 {
 layerId = "CF372A38-CCF0-4ECF-A851-D0EDF62DAC52";
-width = 600;
+width = 380;
 },
 {
 layerId = "69BD4473-2759-473D-A5F2-6927F6EF0D4B";
-width = 600;
+width = 465;
 },
 {
 layerId = "C4212F7E-DB9E-4B8A-AD61-FBEB6E0E008A";
-width = 600;
+width = 465;
 }
 );
 unicode = 0071;
 },
 {
 glyphname = r;
-lastChange = "2019-12-08 04:28:17 +0000";
+lastChange = "2019-12-08 15:33:58 +0000";
 layers = (
 {
 layerId = "8FE94AFF-78E5-4BAD-B162-F5B7FD0FDE43";
-width = 600;
+width = 550;
 },
 {
 layerId = "A09845BB-8E95-46CB-99B9-51A1DA7E3EA7";
-width = 600;
+width = 550;
 },
 {
 layerId = "F5E46B06-E4B2-40BB-8600-C630C9F37E2D";
-width = 600;
+width = 550;
 },
 {
 layerId = "C1381135-CB61-4B49-BC8B-09FD310384D4";
-width = 600;
+width = 380;
 },
 {
 layerId = "CFE90BE0-6A0F-4BB5-9239-F4590AF935C6";
-width = 600;
+width = 380;
 },
 {
 layerId = "E3545ABF-CA3D-424B-BC89-2119FBD997C7";
-width = 600;
+width = 550;
 },
 {
 layerId = "AF2B4B2F-44AE-4712-9E88-47400FAA756E";
-width = 600;
+width = 380;
 },
 {
 layerId = "CF372A38-CCF0-4ECF-A851-D0EDF62DAC52";
-width = 600;
+width = 380;
 },
 {
 layerId = "69BD4473-2759-473D-A5F2-6927F6EF0D4B";
-width = 600;
+width = 465;
 },
 {
 layerId = "C4212F7E-DB9E-4B8A-AD61-FBEB6E0E008A";
-width = 600;
+width = 465;
 }
 );
 unicode = 0072;
 },
 {
 glyphname = s;
-lastChange = "2019-12-08 04:28:17 +0000";
+lastChange = "2019-12-08 15:33:58 +0000";
 layers = (
 {
 layerId = "8FE94AFF-78E5-4BAD-B162-F5B7FD0FDE43";
-width = 600;
+width = 550;
 },
 {
 layerId = "A09845BB-8E95-46CB-99B9-51A1DA7E3EA7";
-width = 600;
+width = 550;
 },
 {
 layerId = "F5E46B06-E4B2-40BB-8600-C630C9F37E2D";
-width = 600;
+width = 550;
 },
 {
 layerId = "C1381135-CB61-4B49-BC8B-09FD310384D4";
-width = 600;
+width = 380;
 },
 {
 layerId = "CFE90BE0-6A0F-4BB5-9239-F4590AF935C6";
-width = 600;
+width = 380;
 },
 {
 layerId = "E3545ABF-CA3D-424B-BC89-2119FBD997C7";
-width = 600;
+width = 550;
 },
 {
 layerId = "AF2B4B2F-44AE-4712-9E88-47400FAA756E";
-width = 600;
+width = 380;
 },
 {
 layerId = "CF372A38-CCF0-4ECF-A851-D0EDF62DAC52";
-width = 600;
+width = 380;
 },
 {
 layerId = "69BD4473-2759-473D-A5F2-6927F6EF0D4B";
-width = 600;
+width = 465;
 },
 {
 layerId = "C4212F7E-DB9E-4B8A-AD61-FBEB6E0E008A";
-width = 600;
+width = 465;
 }
 );
 unicode = 0073;
 },
 {
 glyphname = t;
-lastChange = "2019-12-08 04:28:17 +0000";
+lastChange = "2019-12-08 15:33:58 +0000";
 layers = (
 {
 layerId = "8FE94AFF-78E5-4BAD-B162-F5B7FD0FDE43";
-width = 600;
+width = 550;
 },
 {
 layerId = "A09845BB-8E95-46CB-99B9-51A1DA7E3EA7";
-width = 600;
+width = 550;
 },
 {
 layerId = "F5E46B06-E4B2-40BB-8600-C630C9F37E2D";
-width = 600;
+width = 550;
 },
 {
 layerId = "C1381135-CB61-4B49-BC8B-09FD310384D4";
-width = 600;
+width = 380;
 },
 {
 layerId = "CFE90BE0-6A0F-4BB5-9239-F4590AF935C6";
-width = 600;
+width = 380;
 },
 {
 layerId = "E3545ABF-CA3D-424B-BC89-2119FBD997C7";
-width = 600;
+width = 550;
 },
 {
 layerId = "AF2B4B2F-44AE-4712-9E88-47400FAA756E";
-width = 600;
+width = 380;
 },
 {
 layerId = "CF372A38-CCF0-4ECF-A851-D0EDF62DAC52";
-width = 600;
+width = 380;
 },
 {
 layerId = "69BD4473-2759-473D-A5F2-6927F6EF0D4B";
-width = 600;
+width = 465;
 },
 {
 layerId = "C4212F7E-DB9E-4B8A-AD61-FBEB6E0E008A";
-width = 600;
+width = 465;
 }
 );
 unicode = 0074;
 },
 {
 glyphname = u;
-lastChange = "2019-12-08 04:28:17 +0000";
+lastChange = "2019-12-08 15:33:58 +0000";
 layers = (
 {
 layerId = "8FE94AFF-78E5-4BAD-B162-F5B7FD0FDE43";
-width = 600;
+width = 550;
 },
 {
 layerId = "A09845BB-8E95-46CB-99B9-51A1DA7E3EA7";
-width = 600;
+width = 550;
 },
 {
 layerId = "F5E46B06-E4B2-40BB-8600-C630C9F37E2D";
-width = 600;
+width = 550;
 },
 {
 layerId = "C1381135-CB61-4B49-BC8B-09FD310384D4";
-width = 600;
+width = 380;
 },
 {
 layerId = "CFE90BE0-6A0F-4BB5-9239-F4590AF935C6";
-width = 600;
+width = 380;
 },
 {
 layerId = "E3545ABF-CA3D-424B-BC89-2119FBD997C7";
-width = 600;
+width = 550;
 },
 {
 layerId = "AF2B4B2F-44AE-4712-9E88-47400FAA756E";
-width = 600;
+width = 380;
 },
 {
 layerId = "CF372A38-CCF0-4ECF-A851-D0EDF62DAC52";
-width = 600;
+width = 380;
 },
 {
 layerId = "69BD4473-2759-473D-A5F2-6927F6EF0D4B";
-width = 600;
+width = 465;
 },
 {
 layerId = "C4212F7E-DB9E-4B8A-AD61-FBEB6E0E008A";
-width = 600;
+width = 465;
 }
 );
 unicode = 0075;
 },
 {
 glyphname = v;
-lastChange = "2019-12-08 04:28:17 +0000";
+lastChange = "2019-12-08 15:33:58 +0000";
 layers = (
 {
 layerId = "8FE94AFF-78E5-4BAD-B162-F5B7FD0FDE43";
-width = 600;
+width = 550;
 },
 {
 layerId = "A09845BB-8E95-46CB-99B9-51A1DA7E3EA7";
-width = 600;
+width = 550;
 },
 {
 layerId = "F5E46B06-E4B2-40BB-8600-C630C9F37E2D";
-width = 600;
+width = 550;
 },
 {
 layerId = "C1381135-CB61-4B49-BC8B-09FD310384D4";
-width = 600;
+width = 380;
 },
 {
 layerId = "CFE90BE0-6A0F-4BB5-9239-F4590AF935C6";
-width = 600;
+width = 380;
 },
 {
 layerId = "E3545ABF-CA3D-424B-BC89-2119FBD997C7";
-width = 600;
+width = 550;
 },
 {
 layerId = "AF2B4B2F-44AE-4712-9E88-47400FAA756E";
-width = 600;
+width = 380;
 },
 {
 layerId = "CF372A38-CCF0-4ECF-A851-D0EDF62DAC52";
-width = 600;
+width = 380;
 },
 {
 layerId = "69BD4473-2759-473D-A5F2-6927F6EF0D4B";
-width = 600;
+width = 465;
 },
 {
 layerId = "C4212F7E-DB9E-4B8A-AD61-FBEB6E0E008A";
-width = 600;
+width = 465;
 }
 );
 unicode = 0076;
 },
 {
 glyphname = w;
-lastChange = "2019-12-08 04:28:17 +0000";
+lastChange = "2019-12-08 15:33:58 +0000";
 layers = (
 {
 layerId = "8FE94AFF-78E5-4BAD-B162-F5B7FD0FDE43";
-width = 600;
+width = 550;
 },
 {
 layerId = "A09845BB-8E95-46CB-99B9-51A1DA7E3EA7";
-width = 600;
+width = 550;
 },
 {
 layerId = "F5E46B06-E4B2-40BB-8600-C630C9F37E2D";
-width = 600;
+width = 550;
 },
 {
 layerId = "C1381135-CB61-4B49-BC8B-09FD310384D4";
-width = 600;
+width = 380;
 },
 {
 layerId = "CFE90BE0-6A0F-4BB5-9239-F4590AF935C6";
-width = 600;
+width = 380;
 },
 {
 layerId = "E3545ABF-CA3D-424B-BC89-2119FBD997C7";
-width = 600;
+width = 550;
 },
 {
 layerId = "AF2B4B2F-44AE-4712-9E88-47400FAA756E";
-width = 600;
+width = 380;
 },
 {
 layerId = "CF372A38-CCF0-4ECF-A851-D0EDF62DAC52";
-width = 600;
+width = 380;
 },
 {
 layerId = "69BD4473-2759-473D-A5F2-6927F6EF0D4B";
-width = 600;
+width = 465;
 },
 {
 layerId = "C4212F7E-DB9E-4B8A-AD61-FBEB6E0E008A";
-width = 600;
+width = 465;
 }
 );
 unicode = 0077;
 },
 {
 glyphname = x;
-lastChange = "2019-12-08 04:28:17 +0000";
+lastChange = "2019-12-08 15:33:05 +0000";
 layers = (
 {
 layerId = "8FE94AFF-78E5-4BAD-B162-F5B7FD0FDE43";
@@ -2828,19 +2828,19 @@ paths = (
 {
 closed = 1;
 nodes = (
-"122 0 LINE",
-"152 0 LINE",
-"258 600 LINE",
-"228 600 LINE"
+"125 0 LINE",
+"155 0 LINE",
+"261 600 LINE",
+"231 600 LINE"
 );
 },
 {
 closed = 1;
 nodes = (
-"50 285 LINE",
-"330 285 LINE",
-"330 315 LINE",
-"50 315 LINE"
+"53 285 LINE",
+"333 285 LINE",
+"333 315 LINE",
+"53 315 LINE"
 );
 }
 );
@@ -2948,19 +2948,19 @@ paths = (
 {
 closed = 1;
 nodes = (
-"136 0 LINE",
-"223 0 LINE",
-"329 600 LINE",
-"242 600 LINE"
+"143 0 LINE",
+"230 0 LINE",
+"336 600 LINE",
+"249 600 LINE"
 );
 },
 {
 closed = 1;
 nodes = (
-"78 257 LINE",
-"387 257 LINE",
-"387 343 LINE",
-"78 343 LINE"
+"85 257 LINE",
+"394 257 LINE",
+"394 343 LINE",
+"85 343 LINE"
 );
 }
 );
@@ -2971,799 +2971,799 @@ unicode = 0078;
 },
 {
 glyphname = y;
-lastChange = "2019-12-08 04:28:17 +0000";
+lastChange = "2019-12-08 15:33:58 +0000";
 layers = (
 {
 layerId = "8FE94AFF-78E5-4BAD-B162-F5B7FD0FDE43";
-width = 600;
+width = 550;
 },
 {
 layerId = "A09845BB-8E95-46CB-99B9-51A1DA7E3EA7";
-width = 600;
+width = 550;
 },
 {
 layerId = "F5E46B06-E4B2-40BB-8600-C630C9F37E2D";
-width = 600;
+width = 550;
 },
 {
 layerId = "C1381135-CB61-4B49-BC8B-09FD310384D4";
-width = 600;
+width = 380;
 },
 {
 layerId = "CFE90BE0-6A0F-4BB5-9239-F4590AF935C6";
-width = 600;
+width = 380;
 },
 {
 layerId = "E3545ABF-CA3D-424B-BC89-2119FBD997C7";
-width = 600;
+width = 550;
 },
 {
 layerId = "AF2B4B2F-44AE-4712-9E88-47400FAA756E";
-width = 600;
+width = 380;
 },
 {
 layerId = "CF372A38-CCF0-4ECF-A851-D0EDF62DAC52";
-width = 600;
+width = 380;
 },
 {
 layerId = "69BD4473-2759-473D-A5F2-6927F6EF0D4B";
-width = 600;
+width = 465;
 },
 {
 layerId = "C4212F7E-DB9E-4B8A-AD61-FBEB6E0E008A";
-width = 600;
+width = 465;
 }
 );
 unicode = 0079;
 },
 {
 glyphname = z;
-lastChange = "2019-12-08 04:28:17 +0000";
+lastChange = "2019-12-08 15:33:58 +0000";
 layers = (
 {
 layerId = "8FE94AFF-78E5-4BAD-B162-F5B7FD0FDE43";
-width = 600;
+width = 550;
 },
 {
 layerId = "A09845BB-8E95-46CB-99B9-51A1DA7E3EA7";
-width = 600;
+width = 550;
 },
 {
 layerId = "F5E46B06-E4B2-40BB-8600-C630C9F37E2D";
-width = 600;
+width = 550;
 },
 {
 layerId = "C1381135-CB61-4B49-BC8B-09FD310384D4";
-width = 600;
+width = 380;
 },
 {
 layerId = "CFE90BE0-6A0F-4BB5-9239-F4590AF935C6";
-width = 600;
+width = 380;
 },
 {
 layerId = "E3545ABF-CA3D-424B-BC89-2119FBD997C7";
-width = 600;
+width = 550;
 },
 {
 layerId = "AF2B4B2F-44AE-4712-9E88-47400FAA756E";
-width = 600;
+width = 380;
 },
 {
 layerId = "CF372A38-CCF0-4ECF-A851-D0EDF62DAC52";
-width = 600;
+width = 380;
 },
 {
 layerId = "69BD4473-2759-473D-A5F2-6927F6EF0D4B";
-width = 600;
+width = 465;
 },
 {
 layerId = "C4212F7E-DB9E-4B8A-AD61-FBEB6E0E008A";
-width = 600;
+width = 465;
 }
 );
 unicode = 007A;
 },
 {
 glyphname = zero;
-lastChange = "2019-12-08 04:28:17 +0000";
+lastChange = "2019-12-08 15:33:58 +0000";
 layers = (
 {
 layerId = "8FE94AFF-78E5-4BAD-B162-F5B7FD0FDE43";
-width = 600;
+width = 575;
 },
 {
 layerId = "A09845BB-8E95-46CB-99B9-51A1DA7E3EA7";
-width = 600;
+width = 575;
 },
 {
 layerId = "F5E46B06-E4B2-40BB-8600-C630C9F37E2D";
-width = 600;
+width = 575;
 },
 {
 layerId = "C1381135-CB61-4B49-BC8B-09FD310384D4";
-width = 600;
+width = 390;
 },
 {
 layerId = "CFE90BE0-6A0F-4BB5-9239-F4590AF935C6";
-width = 600;
+width = 390;
 },
 {
 layerId = "E3545ABF-CA3D-424B-BC89-2119FBD997C7";
-width = 600;
+width = 575;
 },
 {
 layerId = "AF2B4B2F-44AE-4712-9E88-47400FAA756E";
-width = 600;
+width = 390;
 },
 {
 layerId = "CF372A38-CCF0-4ECF-A851-D0EDF62DAC52";
-width = 600;
+width = 390;
 },
 {
 layerId = "69BD4473-2759-473D-A5F2-6927F6EF0D4B";
-width = 600;
+width = 470;
 },
 {
 layerId = "C4212F7E-DB9E-4B8A-AD61-FBEB6E0E008A";
-width = 600;
+width = 470;
 }
 );
 unicode = 0030;
 },
 {
 glyphname = one;
-lastChange = "2019-12-08 04:28:17 +0000";
+lastChange = "2019-12-08 15:33:58 +0000";
 layers = (
 {
 layerId = "8FE94AFF-78E5-4BAD-B162-F5B7FD0FDE43";
-width = 600;
+width = 575;
 },
 {
 layerId = "A09845BB-8E95-46CB-99B9-51A1DA7E3EA7";
-width = 600;
+width = 575;
 },
 {
 layerId = "F5E46B06-E4B2-40BB-8600-C630C9F37E2D";
-width = 600;
+width = 575;
 },
 {
 layerId = "E3545ABF-CA3D-424B-BC89-2119FBD997C7";
-width = 600;
+width = 575;
 },
 {
 layerId = "C1381135-CB61-4B49-BC8B-09FD310384D4";
-width = 600;
+width = 390;
 },
 {
 layerId = "CFE90BE0-6A0F-4BB5-9239-F4590AF935C6";
-width = 600;
+width = 390;
 },
 {
 layerId = "AF2B4B2F-44AE-4712-9E88-47400FAA756E";
-width = 600;
+width = 390;
 },
 {
 layerId = "CF372A38-CCF0-4ECF-A851-D0EDF62DAC52";
-width = 600;
+width = 390;
 },
 {
 layerId = "69BD4473-2759-473D-A5F2-6927F6EF0D4B";
-width = 600;
+width = 470;
 },
 {
 layerId = "C4212F7E-DB9E-4B8A-AD61-FBEB6E0E008A";
-width = 600;
+width = 470;
 }
 );
 unicode = 0031;
 },
 {
 glyphname = two;
-lastChange = "2019-12-08 04:28:17 +0000";
+lastChange = "2019-12-08 15:33:58 +0000";
 layers = (
 {
 layerId = "8FE94AFF-78E5-4BAD-B162-F5B7FD0FDE43";
-width = 600;
+width = 575;
 },
 {
 layerId = "A09845BB-8E95-46CB-99B9-51A1DA7E3EA7";
-width = 600;
+width = 575;
 },
 {
 layerId = "F5E46B06-E4B2-40BB-8600-C630C9F37E2D";
-width = 600;
+width = 575;
 },
 {
 layerId = "E3545ABF-CA3D-424B-BC89-2119FBD997C7";
-width = 600;
+width = 575;
 },
 {
 layerId = "C1381135-CB61-4B49-BC8B-09FD310384D4";
-width = 600;
+width = 390;
 },
 {
 layerId = "CFE90BE0-6A0F-4BB5-9239-F4590AF935C6";
-width = 600;
+width = 390;
 },
 {
 layerId = "AF2B4B2F-44AE-4712-9E88-47400FAA756E";
-width = 600;
+width = 390;
 },
 {
 layerId = "CF372A38-CCF0-4ECF-A851-D0EDF62DAC52";
-width = 600;
+width = 390;
 },
 {
 layerId = "69BD4473-2759-473D-A5F2-6927F6EF0D4B";
-width = 600;
+width = 470;
 },
 {
 layerId = "C4212F7E-DB9E-4B8A-AD61-FBEB6E0E008A";
-width = 600;
+width = 470;
 }
 );
 unicode = 0032;
 },
 {
 glyphname = three;
-lastChange = "2019-12-08 04:28:17 +0000";
+lastChange = "2019-12-08 15:33:58 +0000";
 layers = (
 {
 layerId = "8FE94AFF-78E5-4BAD-B162-F5B7FD0FDE43";
-width = 600;
+width = 575;
 },
 {
 layerId = "A09845BB-8E95-46CB-99B9-51A1DA7E3EA7";
-width = 600;
+width = 575;
 },
 {
 layerId = "F5E46B06-E4B2-40BB-8600-C630C9F37E2D";
-width = 600;
+width = 575;
 },
 {
 layerId = "C1381135-CB61-4B49-BC8B-09FD310384D4";
-width = 600;
+width = 390;
 },
 {
 layerId = "CFE90BE0-6A0F-4BB5-9239-F4590AF935C6";
-width = 600;
+width = 390;
 },
 {
 layerId = "E3545ABF-CA3D-424B-BC89-2119FBD997C7";
-width = 600;
+width = 575;
 },
 {
 layerId = "AF2B4B2F-44AE-4712-9E88-47400FAA756E";
-width = 600;
+width = 390;
 },
 {
 layerId = "CF372A38-CCF0-4ECF-A851-D0EDF62DAC52";
-width = 600;
+width = 390;
 },
 {
 layerId = "69BD4473-2759-473D-A5F2-6927F6EF0D4B";
-width = 600;
+width = 470;
 },
 {
 layerId = "C4212F7E-DB9E-4B8A-AD61-FBEB6E0E008A";
-width = 600;
+width = 470;
 }
 );
 unicode = 0033;
 },
 {
 glyphname = four;
-lastChange = "2019-12-08 04:28:17 +0000";
+lastChange = "2019-12-08 15:33:58 +0000";
 layers = (
 {
 layerId = "8FE94AFF-78E5-4BAD-B162-F5B7FD0FDE43";
-width = 600;
+width = 575;
 },
 {
 layerId = "A09845BB-8E95-46CB-99B9-51A1DA7E3EA7";
-width = 600;
+width = 575;
 },
 {
 layerId = "F5E46B06-E4B2-40BB-8600-C630C9F37E2D";
-width = 600;
+width = 575;
 },
 {
 layerId = "C1381135-CB61-4B49-BC8B-09FD310384D4";
-width = 600;
+width = 390;
 },
 {
 layerId = "CFE90BE0-6A0F-4BB5-9239-F4590AF935C6";
-width = 600;
+width = 390;
 },
 {
 layerId = "E3545ABF-CA3D-424B-BC89-2119FBD997C7";
-width = 600;
+width = 575;
 },
 {
 layerId = "AF2B4B2F-44AE-4712-9E88-47400FAA756E";
-width = 600;
+width = 390;
 },
 {
 layerId = "CF372A38-CCF0-4ECF-A851-D0EDF62DAC52";
-width = 600;
+width = 390;
 },
 {
 layerId = "69BD4473-2759-473D-A5F2-6927F6EF0D4B";
-width = 600;
+width = 470;
 },
 {
 layerId = "C4212F7E-DB9E-4B8A-AD61-FBEB6E0E008A";
-width = 600;
+width = 470;
 }
 );
 unicode = 0034;
 },
 {
 glyphname = five;
-lastChange = "2019-12-08 04:28:17 +0000";
+lastChange = "2019-12-08 15:33:58 +0000";
 layers = (
 {
 layerId = "8FE94AFF-78E5-4BAD-B162-F5B7FD0FDE43";
-width = 600;
+width = 575;
 },
 {
 layerId = "A09845BB-8E95-46CB-99B9-51A1DA7E3EA7";
-width = 600;
+width = 575;
 },
 {
 layerId = "F5E46B06-E4B2-40BB-8600-C630C9F37E2D";
-width = 600;
+width = 575;
 },
 {
 layerId = "C1381135-CB61-4B49-BC8B-09FD310384D4";
-width = 600;
+width = 390;
 },
 {
 layerId = "CFE90BE0-6A0F-4BB5-9239-F4590AF935C6";
-width = 600;
+width = 390;
 },
 {
 layerId = "E3545ABF-CA3D-424B-BC89-2119FBD997C7";
-width = 600;
+width = 575;
 },
 {
 layerId = "AF2B4B2F-44AE-4712-9E88-47400FAA756E";
-width = 600;
+width = 390;
 },
 {
 layerId = "CF372A38-CCF0-4ECF-A851-D0EDF62DAC52";
-width = 600;
+width = 390;
 },
 {
 layerId = "69BD4473-2759-473D-A5F2-6927F6EF0D4B";
-width = 600;
+width = 470;
 },
 {
 layerId = "C4212F7E-DB9E-4B8A-AD61-FBEB6E0E008A";
-width = 600;
+width = 470;
 }
 );
 unicode = 0035;
 },
 {
 glyphname = six;
-lastChange = "2019-12-08 04:28:17 +0000";
+lastChange = "2019-12-08 15:33:58 +0000";
 layers = (
 {
 layerId = "8FE94AFF-78E5-4BAD-B162-F5B7FD0FDE43";
-width = 600;
+width = 575;
 },
 {
 layerId = "A09845BB-8E95-46CB-99B9-51A1DA7E3EA7";
-width = 600;
+width = 575;
 },
 {
 layerId = "F5E46B06-E4B2-40BB-8600-C630C9F37E2D";
-width = 600;
+width = 575;
 },
 {
 layerId = "E3545ABF-CA3D-424B-BC89-2119FBD997C7";
-width = 600;
+width = 575;
 },
 {
 layerId = "C1381135-CB61-4B49-BC8B-09FD310384D4";
-width = 600;
+width = 390;
 },
 {
 layerId = "CFE90BE0-6A0F-4BB5-9239-F4590AF935C6";
-width = 600;
+width = 390;
 },
 {
 layerId = "AF2B4B2F-44AE-4712-9E88-47400FAA756E";
-width = 600;
+width = 390;
 },
 {
 layerId = "CF372A38-CCF0-4ECF-A851-D0EDF62DAC52";
-width = 600;
+width = 390;
 },
 {
 layerId = "69BD4473-2759-473D-A5F2-6927F6EF0D4B";
-width = 600;
+width = 470;
 },
 {
 layerId = "C4212F7E-DB9E-4B8A-AD61-FBEB6E0E008A";
-width = 600;
+width = 470;
 }
 );
 unicode = 0036;
 },
 {
 glyphname = seven;
-lastChange = "2019-12-08 04:28:17 +0000";
+lastChange = "2019-12-08 15:33:58 +0000";
 layers = (
 {
 layerId = "8FE94AFF-78E5-4BAD-B162-F5B7FD0FDE43";
-width = 600;
+width = 575;
 },
 {
 layerId = "A09845BB-8E95-46CB-99B9-51A1DA7E3EA7";
-width = 600;
+width = 575;
 },
 {
 layerId = "F5E46B06-E4B2-40BB-8600-C630C9F37E2D";
-width = 600;
+width = 575;
 },
 {
 layerId = "C1381135-CB61-4B49-BC8B-09FD310384D4";
-width = 600;
+width = 390;
 },
 {
 layerId = "CFE90BE0-6A0F-4BB5-9239-F4590AF935C6";
-width = 600;
+width = 390;
 },
 {
 layerId = "E3545ABF-CA3D-424B-BC89-2119FBD997C7";
-width = 600;
+width = 575;
 },
 {
 layerId = "AF2B4B2F-44AE-4712-9E88-47400FAA756E";
-width = 600;
+width = 390;
 },
 {
 layerId = "CF372A38-CCF0-4ECF-A851-D0EDF62DAC52";
-width = 600;
+width = 390;
 },
 {
 layerId = "69BD4473-2759-473D-A5F2-6927F6EF0D4B";
-width = 600;
+width = 470;
 },
 {
 layerId = "C4212F7E-DB9E-4B8A-AD61-FBEB6E0E008A";
-width = 600;
+width = 470;
 }
 );
 unicode = 0037;
 },
 {
 glyphname = eight;
-lastChange = "2019-12-08 04:28:17 +0000";
+lastChange = "2019-12-08 15:33:58 +0000";
 layers = (
 {
 layerId = "8FE94AFF-78E5-4BAD-B162-F5B7FD0FDE43";
-width = 600;
+width = 575;
 },
 {
 layerId = "A09845BB-8E95-46CB-99B9-51A1DA7E3EA7";
-width = 600;
+width = 575;
 },
 {
 layerId = "F5E46B06-E4B2-40BB-8600-C630C9F37E2D";
-width = 600;
+width = 575;
 },
 {
 layerId = "C1381135-CB61-4B49-BC8B-09FD310384D4";
-width = 600;
+width = 390;
 },
 {
 layerId = "CFE90BE0-6A0F-4BB5-9239-F4590AF935C6";
-width = 600;
+width = 390;
 },
 {
 layerId = "E3545ABF-CA3D-424B-BC89-2119FBD997C7";
-width = 600;
+width = 575;
 },
 {
 layerId = "AF2B4B2F-44AE-4712-9E88-47400FAA756E";
-width = 600;
+width = 390;
 },
 {
 layerId = "CF372A38-CCF0-4ECF-A851-D0EDF62DAC52";
-width = 600;
+width = 390;
 },
 {
 layerId = "69BD4473-2759-473D-A5F2-6927F6EF0D4B";
-width = 600;
+width = 470;
 },
 {
 layerId = "C4212F7E-DB9E-4B8A-AD61-FBEB6E0E008A";
-width = 600;
+width = 470;
 }
 );
 unicode = 0038;
 },
 {
 glyphname = nine;
-lastChange = "2019-12-08 04:28:17 +0000";
+lastChange = "2019-12-08 15:33:58 +0000";
 layers = (
 {
 layerId = "8FE94AFF-78E5-4BAD-B162-F5B7FD0FDE43";
-width = 600;
+width = 575;
 },
 {
 layerId = "A09845BB-8E95-46CB-99B9-51A1DA7E3EA7";
-width = 600;
+width = 575;
 },
 {
 layerId = "F5E46B06-E4B2-40BB-8600-C630C9F37E2D";
-width = 600;
+width = 575;
 },
 {
 layerId = "C1381135-CB61-4B49-BC8B-09FD310384D4";
-width = 600;
+width = 390;
 },
 {
 layerId = "CFE90BE0-6A0F-4BB5-9239-F4590AF935C6";
-width = 600;
+width = 390;
 },
 {
 layerId = "E3545ABF-CA3D-424B-BC89-2119FBD997C7";
-width = 600;
+width = 575;
 },
 {
 layerId = "AF2B4B2F-44AE-4712-9E88-47400FAA756E";
-width = 600;
+width = 390;
 },
 {
 layerId = "CF372A38-CCF0-4ECF-A851-D0EDF62DAC52";
-width = 600;
+width = 390;
 },
 {
 layerId = "69BD4473-2759-473D-A5F2-6927F6EF0D4B";
-width = 600;
+width = 470;
 },
 {
 layerId = "C4212F7E-DB9E-4B8A-AD61-FBEB6E0E008A";
-width = 600;
+width = 470;
 }
 );
 unicode = 0039;
 },
 {
 glyphname = period;
-lastChange = "2019-12-08 04:28:17 +0000";
+lastChange = "2019-12-08 15:33:58 +0000";
 layers = (
 {
 layerId = "8FE94AFF-78E5-4BAD-B162-F5B7FD0FDE43";
-width = 600;
+width = 200;
 },
 {
 layerId = "A09845BB-8E95-46CB-99B9-51A1DA7E3EA7";
-width = 600;
+width = 200;
 },
 {
 layerId = "F5E46B06-E4B2-40BB-8600-C630C9F37E2D";
-width = 600;
+width = 200;
 },
 {
 layerId = "C1381135-CB61-4B49-BC8B-09FD310384D4";
-width = 600;
+width = 160;
 },
 {
 layerId = "CFE90BE0-6A0F-4BB5-9239-F4590AF935C6";
-width = 600;
+width = 160;
 },
 {
 layerId = "E3545ABF-CA3D-424B-BC89-2119FBD997C7";
-width = 600;
+width = 200;
 },
 {
 layerId = "AF2B4B2F-44AE-4712-9E88-47400FAA756E";
-width = 600;
+width = 160;
 },
 {
 layerId = "CF372A38-CCF0-4ECF-A851-D0EDF62DAC52";
-width = 600;
+width = 160;
 },
 {
 layerId = "69BD4473-2759-473D-A5F2-6927F6EF0D4B";
-width = 600;
+width = 180;
 },
 {
 layerId = "C4212F7E-DB9E-4B8A-AD61-FBEB6E0E008A";
-width = 600;
+width = 180;
 }
 );
 unicode = 002E;
 },
 {
 glyphname = comma;
-lastChange = "2019-12-08 04:28:17 +0000";
+lastChange = "2019-12-08 15:33:58 +0000";
 layers = (
 {
 layerId = "8FE94AFF-78E5-4BAD-B162-F5B7FD0FDE43";
-width = 600;
+width = 200;
 },
 {
 layerId = "A09845BB-8E95-46CB-99B9-51A1DA7E3EA7";
-width = 600;
+width = 200;
 },
 {
 layerId = "F5E46B06-E4B2-40BB-8600-C630C9F37E2D";
-width = 600;
+width = 200;
 },
 {
 layerId = "C1381135-CB61-4B49-BC8B-09FD310384D4";
-width = 600;
+width = 160;
 },
 {
 layerId = "CFE90BE0-6A0F-4BB5-9239-F4590AF935C6";
-width = 600;
+width = 160;
 },
 {
 layerId = "E3545ABF-CA3D-424B-BC89-2119FBD997C7";
-width = 600;
+width = 200;
 },
 {
 layerId = "AF2B4B2F-44AE-4712-9E88-47400FAA756E";
-width = 600;
+width = 160;
 },
 {
 layerId = "CF372A38-CCF0-4ECF-A851-D0EDF62DAC52";
-width = 600;
+width = 160;
 },
 {
 layerId = "69BD4473-2759-473D-A5F2-6927F6EF0D4B";
-width = 600;
+width = 180;
 },
 {
 layerId = "C4212F7E-DB9E-4B8A-AD61-FBEB6E0E008A";
-width = 600;
+width = 180;
 }
 );
 unicode = 002C;
 },
 {
 glyphname = hyphen;
-lastChange = "2019-12-08 04:28:17 +0000";
+lastChange = "2019-12-08 15:33:58 +0000";
 layers = (
 {
 layerId = "8FE94AFF-78E5-4BAD-B162-F5B7FD0FDE43";
-width = 600;
+width = 200;
 },
 {
 layerId = "A09845BB-8E95-46CB-99B9-51A1DA7E3EA7";
-width = 600;
+width = 200;
 },
 {
 layerId = "F5E46B06-E4B2-40BB-8600-C630C9F37E2D";
-width = 600;
+width = 200;
 },
 {
 layerId = "C1381135-CB61-4B49-BC8B-09FD310384D4";
-width = 600;
+width = 160;
 },
 {
 layerId = "CFE90BE0-6A0F-4BB5-9239-F4590AF935C6";
-width = 600;
+width = 160;
 },
 {
 layerId = "E3545ABF-CA3D-424B-BC89-2119FBD997C7";
-width = 600;
+width = 200;
 },
 {
 layerId = "AF2B4B2F-44AE-4712-9E88-47400FAA756E";
-width = 600;
+width = 160;
 },
 {
 layerId = "CF372A38-CCF0-4ECF-A851-D0EDF62DAC52";
-width = 600;
+width = 160;
 },
 {
 layerId = "69BD4473-2759-473D-A5F2-6927F6EF0D4B";
-width = 600;
+width = 180;
 },
 {
 layerId = "C4212F7E-DB9E-4B8A-AD61-FBEB6E0E008A";
-width = 600;
+width = 180;
 }
 );
 unicode = 002D;
 },
 {
 glyphname = space;
-lastChange = "2019-12-08 04:28:17 +0000";
+lastChange = "2019-12-08 15:33:58 +0000";
 layers = (
 {
 layerId = "8FE94AFF-78E5-4BAD-B162-F5B7FD0FDE43";
-width = 600;
+width = 200;
 },
 {
 layerId = "A09845BB-8E95-46CB-99B9-51A1DA7E3EA7";
-width = 600;
+width = 200;
 },
 {
 layerId = "F5E46B06-E4B2-40BB-8600-C630C9F37E2D";
-width = 600;
+width = 200;
 },
 {
 layerId = "C1381135-CB61-4B49-BC8B-09FD310384D4";
-width = 600;
+width = 160;
 },
 {
 layerId = "CFE90BE0-6A0F-4BB5-9239-F4590AF935C6";
-width = 600;
+width = 160;
 },
 {
 layerId = "E3545ABF-CA3D-424B-BC89-2119FBD997C7";
-width = 600;
+width = 200;
 },
 {
 layerId = "AF2B4B2F-44AE-4712-9E88-47400FAA756E";
-width = 600;
+width = 160;
 },
 {
 layerId = "CF372A38-CCF0-4ECF-A851-D0EDF62DAC52";
-width = 600;
+width = 160;
 },
 {
 layerId = "69BD4473-2759-473D-A5F2-6927F6EF0D4B";
-width = 600;
+width = 180;
 },
 {
 layerId = "C4212F7E-DB9E-4B8A-AD61-FBEB6E0E008A";
-width = 600;
+width = 180;
 }
 );
 unicode = 0020;
 },
 {
 glyphname = nbspace;
-lastChange = "2019-12-08 04:52:42 +0000";
+lastChange = "2019-12-08 15:33:58 +0000";
 layers = (
 {
 layerId = "69BD4473-2759-473D-A5F2-6927F6EF0D4B";
-width = 600;
+width = 180;
 },
 {
 layerId = "8FE94AFF-78E5-4BAD-B162-F5B7FD0FDE43";
-width = 600;
+width = 200;
 },
 {
 layerId = "A09845BB-8E95-46CB-99B9-51A1DA7E3EA7";
-width = 600;
+width = 200;
 },
 {
 layerId = "E3545ABF-CA3D-424B-BC89-2119FBD997C7";
-width = 600;
+width = 200;
 },
 {
 layerId = "F5E46B06-E4B2-40BB-8600-C630C9F37E2D";
-width = 600;
+width = 200;
 },
 {
 layerId = "C4212F7E-DB9E-4B8A-AD61-FBEB6E0E008A";
-width = 600;
+width = 180;
 },
 {
 layerId = "AF2B4B2F-44AE-4712-9E88-47400FAA756E";
-width = 600;
+width = 160;
 },
 {
 layerId = "C1381135-CB61-4B49-BC8B-09FD310384D4";
-width = 600;
+width = 160;
 },
 {
 layerId = "CF372A38-CCF0-4ECF-A851-D0EDF62DAC52";
-width = 600;
+width = 160;
 },
 {
 layerId = "CFE90BE0-6A0F-4BB5-9239-F4590AF935C6";
-width = 600;
+width = 160;
 }
 );
 unicode = 00A0;
