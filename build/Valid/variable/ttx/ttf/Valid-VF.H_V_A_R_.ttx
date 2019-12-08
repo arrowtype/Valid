@@ -162,9 +162,15 @@
           </VarRegionAxis>
         </Region>
       </VarRegionList>
-      <!-- VarDataCount=1 -->
+      <!-- VarDataCount=2 -->
       <VarData index="0">
-        <!-- ItemCount=3 -->
+        <!-- ItemCount=1 -->
+        <NumShorts value="0"/>
+        <!-- VarRegionCount=0 -->
+        <Item index="0" value="[]"/>
+      </VarData>
+      <VarData index="1">
+        <!-- ItemCount=4 -->
         <NumShorts value="0"/>
         <!-- VarRegionCount=4 -->
         <VarRegionIndex index="0" value="1"/>
@@ -173,78 +179,79 @@
         <VarRegionIndex index="3" value="4"/>
         <Item index="0" value="[-100, 100, -100, 100]"/>
         <Item index="1" value="[-85, 85, -85, 85]"/>
-        <Item index="2" value="[0, 0, 0, 0]"/>
+        <Item index="2" value="[-80, 105, -80, 105]"/>
+        <Item index="3" value="[-20, 20, -20, 20]"/>
       </VarData>
     </VarStore>
     <AdvWidthMap>
-      <Map glyph=".notdef" outer="0" inner="2"/>
-      <Map glyph="A" outer="0" inner="2"/>
-      <Map glyph="B" outer="0" inner="2"/>
-      <Map glyph="C" outer="0" inner="2"/>
-      <Map glyph="D" outer="0" inner="2"/>
-      <Map glyph="E" outer="0" inner="2"/>
-      <Map glyph="F" outer="0" inner="2"/>
-      <Map glyph="G" outer="0" inner="2"/>
-      <Map glyph="H" outer="0" inner="0"/>
-      <Map glyph="I" outer="0" inner="2"/>
-      <Map glyph="J" outer="0" inner="2"/>
-      <Map glyph="K" outer="0" inner="2"/>
-      <Map glyph="L" outer="0" inner="2"/>
-      <Map glyph="M" outer="0" inner="2"/>
-      <Map glyph="N" outer="0" inner="2"/>
-      <Map glyph="O" outer="0" inner="2"/>
-      <Map glyph="P" outer="0" inner="2"/>
-      <Map glyph="Q" outer="0" inner="2"/>
-      <Map glyph="R" outer="0" inner="2"/>
-      <Map glyph="S" outer="0" inner="2"/>
-      <Map glyph="T" outer="0" inner="2"/>
-      <Map glyph="U" outer="0" inner="2"/>
-      <Map glyph="V" outer="0" inner="2"/>
-      <Map glyph="W" outer="0" inner="2"/>
-      <Map glyph="X" outer="0" inner="2"/>
-      <Map glyph="Y" outer="0" inner="2"/>
-      <Map glyph="Z" outer="0" inner="2"/>
-      <Map glyph="a" outer="0" inner="2"/>
-      <Map glyph="b" outer="0" inner="2"/>
-      <Map glyph="c" outer="0" inner="2"/>
-      <Map glyph="comma" outer="0" inner="2"/>
-      <Map glyph="d" outer="0" inner="2"/>
-      <Map glyph="e" outer="0" inner="2"/>
-      <Map glyph="eight" outer="0" inner="2"/>
-      <Map glyph="f" outer="0" inner="2"/>
-      <Map glyph="five" outer="0" inner="2"/>
-      <Map glyph="four" outer="0" inner="2"/>
-      <Map glyph="g" outer="0" inner="2"/>
-      <Map glyph="h" outer="0" inner="2"/>
-      <Map glyph="hyphen" outer="0" inner="2"/>
-      <Map glyph="i" outer="0" inner="2"/>
-      <Map glyph="j" outer="0" inner="2"/>
-      <Map glyph="k" outer="0" inner="2"/>
-      <Map glyph="l" outer="0" inner="2"/>
-      <Map glyph="m" outer="0" inner="2"/>
-      <Map glyph="n" outer="0" inner="2"/>
-      <Map glyph="nine" outer="0" inner="2"/>
-      <Map glyph="o" outer="0" inner="2"/>
-      <Map glyph="one" outer="0" inner="2"/>
-      <Map glyph="p" outer="0" inner="2"/>
-      <Map glyph="period" outer="0" inner="2"/>
-      <Map glyph="q" outer="0" inner="2"/>
-      <Map glyph="r" outer="0" inner="2"/>
-      <Map glyph="s" outer="0" inner="2"/>
-      <Map glyph="seven" outer="0" inner="2"/>
-      <Map glyph="six" outer="0" inner="2"/>
-      <Map glyph="space" outer="0" inner="2"/>
-      <Map glyph="t" outer="0" inner="2"/>
-      <Map glyph="three" outer="0" inner="2"/>
-      <Map glyph="two" outer="0" inner="2"/>
-      <Map glyph="u" outer="0" inner="2"/>
-      <Map glyph="uni00A0" outer="0" inner="2"/>
-      <Map glyph="v" outer="0" inner="2"/>
-      <Map glyph="w" outer="0" inner="2"/>
-      <Map glyph="x" outer="0" inner="1"/>
-      <Map glyph="y" outer="0" inner="2"/>
-      <Map glyph="z" outer="0" inner="2"/>
-      <Map glyph="zero" outer="0" inner="2"/>
+      <Map glyph=".notdef" outer="0" inner="0"/>
+      <Map glyph="A" outer="1" inner="0"/>
+      <Map glyph="B" outer="1" inner="0"/>
+      <Map glyph="C" outer="1" inner="0"/>
+      <Map glyph="D" outer="1" inner="0"/>
+      <Map glyph="E" outer="1" inner="0"/>
+      <Map glyph="F" outer="1" inner="0"/>
+      <Map glyph="G" outer="1" inner="0"/>
+      <Map glyph="H" outer="1" inner="0"/>
+      <Map glyph="I" outer="1" inner="0"/>
+      <Map glyph="J" outer="1" inner="0"/>
+      <Map glyph="K" outer="1" inner="0"/>
+      <Map glyph="L" outer="1" inner="0"/>
+      <Map glyph="M" outer="1" inner="0"/>
+      <Map glyph="N" outer="1" inner="0"/>
+      <Map glyph="O" outer="1" inner="0"/>
+      <Map glyph="P" outer="1" inner="0"/>
+      <Map glyph="Q" outer="1" inner="0"/>
+      <Map glyph="R" outer="1" inner="0"/>
+      <Map glyph="S" outer="1" inner="0"/>
+      <Map glyph="T" outer="1" inner="0"/>
+      <Map glyph="U" outer="1" inner="0"/>
+      <Map glyph="V" outer="1" inner="0"/>
+      <Map glyph="W" outer="1" inner="0"/>
+      <Map glyph="X" outer="1" inner="0"/>
+      <Map glyph="Y" outer="1" inner="0"/>
+      <Map glyph="Z" outer="1" inner="0"/>
+      <Map glyph="a" outer="1" inner="1"/>
+      <Map glyph="b" outer="1" inner="1"/>
+      <Map glyph="c" outer="1" inner="1"/>
+      <Map glyph="comma" outer="1" inner="3"/>
+      <Map glyph="d" outer="1" inner="1"/>
+      <Map glyph="e" outer="1" inner="1"/>
+      <Map glyph="eight" outer="1" inner="2"/>
+      <Map glyph="f" outer="1" inner="1"/>
+      <Map glyph="five" outer="1" inner="2"/>
+      <Map glyph="four" outer="1" inner="2"/>
+      <Map glyph="g" outer="1" inner="1"/>
+      <Map glyph="h" outer="1" inner="1"/>
+      <Map glyph="hyphen" outer="1" inner="3"/>
+      <Map glyph="i" outer="1" inner="1"/>
+      <Map glyph="j" outer="1" inner="1"/>
+      <Map glyph="k" outer="1" inner="1"/>
+      <Map glyph="l" outer="1" inner="1"/>
+      <Map glyph="m" outer="1" inner="1"/>
+      <Map glyph="n" outer="1" inner="1"/>
+      <Map glyph="nine" outer="1" inner="2"/>
+      <Map glyph="o" outer="1" inner="1"/>
+      <Map glyph="one" outer="1" inner="2"/>
+      <Map glyph="p" outer="1" inner="1"/>
+      <Map glyph="period" outer="1" inner="3"/>
+      <Map glyph="q" outer="1" inner="1"/>
+      <Map glyph="r" outer="1" inner="1"/>
+      <Map glyph="s" outer="1" inner="1"/>
+      <Map glyph="seven" outer="1" inner="2"/>
+      <Map glyph="six" outer="1" inner="2"/>
+      <Map glyph="space" outer="1" inner="3"/>
+      <Map glyph="t" outer="1" inner="1"/>
+      <Map glyph="three" outer="1" inner="2"/>
+      <Map glyph="two" outer="1" inner="2"/>
+      <Map glyph="u" outer="1" inner="1"/>
+      <Map glyph="uni00A0" outer="1" inner="3"/>
+      <Map glyph="v" outer="1" inner="1"/>
+      <Map glyph="w" outer="1" inner="1"/>
+      <Map glyph="x" outer="1" inner="1"/>
+      <Map glyph="y" outer="1" inner="1"/>
+      <Map glyph="z" outer="1" inner="1"/>
+      <Map glyph="zero" outer="1" inner="2"/>
     </AdvWidthMap>
   </HVAR>
 

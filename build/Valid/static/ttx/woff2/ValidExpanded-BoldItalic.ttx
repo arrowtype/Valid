@@ -77,15 +77,15 @@
     <!-- Most of this table will be recalculated by the compiler -->
     <tableVersion value="1.0"/>
     <fontRevision value="1.0"/>
-    <checkSumAdjustment value="0x24e8ec1b"/>
+    <checkSumAdjustment value="0xb8dd7c9"/>
     <magicNumber value="0x5f0f3cf5"/>
     <flags value="00001000 00000011"/>
     <unitsPerEm value="1000"/>
     <created value="Sat Dec  7 16:33:03 2019"/>
-    <modified value="Sun Dec  8 06:06:05 2019"/>
+    <modified value="Sun Dec  8 15:35:06 2019"/>
     <xMin value="50"/>
     <yMin value="-200"/>
-    <xMax value="499"/>
+    <xMax value="503"/>
     <yMax value="1000"/>
     <macStyle value="00000000 00000011"/>
     <lowestRecPPEM value="6"/>
@@ -99,10 +99,10 @@
     <ascent value="1000"/>
     <descent value="-200"/>
     <lineGap value="0"/>
-    <advanceWidthMax value="600"/>
+    <advanceWidthMax value="550"/>
     <minLeftSideBearing value="50"/>
-    <minRightSideBearing value="50"/>
-    <xMaxExtent value="499"/>
+    <minRightSideBearing value="47"/>
+    <xMaxExtent value="503"/>
     <caretSlopeRise value="1000"/>
     <caretSlopeRun value="176"/>
     <caretOffset value="0"/>
@@ -111,7 +111,7 @@
     <reserved2 value="0"/>
     <reserved3 value="0"/>
     <metricDataFormat value="0"/>
-    <numberOfHMetrics value="52"/>
+    <numberOfHMetrics value="64"/>
   </hhea>
 
   <maxp>
@@ -137,7 +137,7 @@
     <!-- The fields 'usFirstCharIndex' and 'usLastCharIndex'
          will be recalculated by the compiler -->
     <version value="4"/>
-    <xAvgCharWidth value="596"/>
+    <xAvgCharWidth value="503"/>
     <usWeightClass value="700"/>
     <usWidthClass value="7"/>
     <fsType value="00000000 00001000"/>
@@ -188,73 +188,73 @@
 
   <hmtx>
     <mtx name=".notdef" width="500" lsb="50"/>
-    <mtx name="A" width="600" lsb="0"/>
-    <mtx name="B" width="600" lsb="0"/>
-    <mtx name="C" width="600" lsb="0"/>
-    <mtx name="D" width="600" lsb="0"/>
-    <mtx name="E" width="600" lsb="0"/>
-    <mtx name="F" width="600" lsb="0"/>
-    <mtx name="G" width="600" lsb="0"/>
-    <mtx name="H" width="550" lsb="51"/>
-    <mtx name="I" width="600" lsb="0"/>
-    <mtx name="J" width="600" lsb="0"/>
-    <mtx name="K" width="600" lsb="0"/>
-    <mtx name="L" width="600" lsb="0"/>
-    <mtx name="M" width="600" lsb="0"/>
-    <mtx name="N" width="600" lsb="0"/>
-    <mtx name="O" width="600" lsb="0"/>
-    <mtx name="P" width="600" lsb="0"/>
-    <mtx name="Q" width="600" lsb="0"/>
-    <mtx name="R" width="600" lsb="0"/>
-    <mtx name="S" width="600" lsb="0"/>
-    <mtx name="T" width="600" lsb="0"/>
-    <mtx name="U" width="600" lsb="0"/>
-    <mtx name="V" width="600" lsb="0"/>
-    <mtx name="W" width="600" lsb="0"/>
-    <mtx name="X" width="600" lsb="0"/>
-    <mtx name="Y" width="600" lsb="0"/>
-    <mtx name="Z" width="600" lsb="0"/>
-    <mtx name="a" width="600" lsb="0"/>
-    <mtx name="b" width="600" lsb="0"/>
-    <mtx name="c" width="600" lsb="0"/>
-    <mtx name="comma" width="600" lsb="0"/>
-    <mtx name="d" width="600" lsb="0"/>
-    <mtx name="e" width="600" lsb="0"/>
-    <mtx name="eight" width="600" lsb="0"/>
-    <mtx name="f" width="600" lsb="0"/>
-    <mtx name="five" width="600" lsb="0"/>
-    <mtx name="four" width="600" lsb="0"/>
-    <mtx name="g" width="600" lsb="0"/>
-    <mtx name="h" width="600" lsb="0"/>
-    <mtx name="hyphen" width="600" lsb="0"/>
-    <mtx name="i" width="600" lsb="0"/>
-    <mtx name="j" width="600" lsb="0"/>
-    <mtx name="k" width="600" lsb="0"/>
-    <mtx name="l" width="600" lsb="0"/>
-    <mtx name="m" width="600" lsb="0"/>
-    <mtx name="n" width="600" lsb="0"/>
-    <mtx name="nine" width="600" lsb="0"/>
-    <mtx name="o" width="600" lsb="0"/>
-    <mtx name="one" width="600" lsb="0"/>
-    <mtx name="p" width="600" lsb="0"/>
-    <mtx name="period" width="600" lsb="0"/>
-    <mtx name="q" width="600" lsb="0"/>
-    <mtx name="r" width="600" lsb="0"/>
-    <mtx name="s" width="600" lsb="0"/>
-    <mtx name="seven" width="600" lsb="0"/>
-    <mtx name="six" width="600" lsb="0"/>
-    <mtx name="space" width="600" lsb="0"/>
-    <mtx name="t" width="600" lsb="0"/>
-    <mtx name="three" width="600" lsb="0"/>
-    <mtx name="two" width="600" lsb="0"/>
-    <mtx name="u" width="600" lsb="0"/>
-    <mtx name="uni00A0" width="600" lsb="0"/>
-    <mtx name="v" width="600" lsb="0"/>
-    <mtx name="w" width="600" lsb="0"/>
-    <mtx name="x" width="508" lsb="92"/>
-    <mtx name="y" width="600" lsb="0"/>
-    <mtx name="z" width="600" lsb="0"/>
-    <mtx name="zero" width="600" lsb="0"/>
+    <mtx name="A" width="550" lsb="0"/>
+    <mtx name="B" width="550" lsb="0"/>
+    <mtx name="C" width="550" lsb="0"/>
+    <mtx name="D" width="550" lsb="0"/>
+    <mtx name="E" width="550" lsb="0"/>
+    <mtx name="F" width="550" lsb="0"/>
+    <mtx name="G" width="550" lsb="0"/>
+    <mtx name="H" width="550" lsb="55"/>
+    <mtx name="I" width="550" lsb="0"/>
+    <mtx name="J" width="550" lsb="0"/>
+    <mtx name="K" width="550" lsb="0"/>
+    <mtx name="L" width="550" lsb="0"/>
+    <mtx name="M" width="550" lsb="0"/>
+    <mtx name="N" width="550" lsb="0"/>
+    <mtx name="O" width="550" lsb="0"/>
+    <mtx name="P" width="550" lsb="0"/>
+    <mtx name="Q" width="550" lsb="0"/>
+    <mtx name="R" width="550" lsb="0"/>
+    <mtx name="S" width="550" lsb="0"/>
+    <mtx name="T" width="550" lsb="0"/>
+    <mtx name="U" width="550" lsb="0"/>
+    <mtx name="V" width="550" lsb="0"/>
+    <mtx name="W" width="550" lsb="0"/>
+    <mtx name="X" width="550" lsb="0"/>
+    <mtx name="Y" width="550" lsb="0"/>
+    <mtx name="Z" width="550" lsb="0"/>
+    <mtx name="a" width="508" lsb="0"/>
+    <mtx name="b" width="508" lsb="0"/>
+    <mtx name="c" width="508" lsb="0"/>
+    <mtx name="comma" width="190" lsb="0"/>
+    <mtx name="d" width="508" lsb="0"/>
+    <mtx name="e" width="508" lsb="0"/>
+    <mtx name="eight" width="523" lsb="0"/>
+    <mtx name="f" width="508" lsb="0"/>
+    <mtx name="five" width="523" lsb="0"/>
+    <mtx name="four" width="523" lsb="0"/>
+    <mtx name="g" width="508" lsb="0"/>
+    <mtx name="h" width="508" lsb="0"/>
+    <mtx name="hyphen" width="190" lsb="0"/>
+    <mtx name="i" width="508" lsb="0"/>
+    <mtx name="j" width="508" lsb="0"/>
+    <mtx name="k" width="508" lsb="0"/>
+    <mtx name="l" width="508" lsb="0"/>
+    <mtx name="m" width="508" lsb="0"/>
+    <mtx name="n" width="508" lsb="0"/>
+    <mtx name="nine" width="523" lsb="0"/>
+    <mtx name="o" width="508" lsb="0"/>
+    <mtx name="one" width="523" lsb="0"/>
+    <mtx name="p" width="508" lsb="0"/>
+    <mtx name="period" width="190" lsb="0"/>
+    <mtx name="q" width="508" lsb="0"/>
+    <mtx name="r" width="508" lsb="0"/>
+    <mtx name="s" width="508" lsb="0"/>
+    <mtx name="seven" width="523" lsb="0"/>
+    <mtx name="six" width="523" lsb="0"/>
+    <mtx name="space" width="190" lsb="0"/>
+    <mtx name="t" width="508" lsb="0"/>
+    <mtx name="three" width="523" lsb="0"/>
+    <mtx name="two" width="523" lsb="0"/>
+    <mtx name="u" width="508" lsb="0"/>
+    <mtx name="uni00A0" width="190" lsb="0"/>
+    <mtx name="v" width="508" lsb="0"/>
+    <mtx name="w" width="508" lsb="0"/>
+    <mtx name="x" width="508" lsb="95"/>
+    <mtx name="y" width="508" lsb="0"/>
+    <mtx name="z" width="508" lsb="0"/>
+    <mtx name="zero" width="523" lsb="0"/>
   </hmtx>
 
   <cmap>
@@ -438,20 +438,20 @@
 
     <TTGlyph name="G"/><!-- contains no outline data -->
 
-    <TTGlyph name="H" xMin="51" yMin="0" xMax="499" yMax="800">
+    <TTGlyph name="H" xMin="55" yMin="0" xMax="503" yMax="800">
       <contour>
-        <pt x="51" y="372" on="1"/>
-        <pt x="198" y="372" on="1"/>
-        <pt x="275" y="800" on="1"/>
-        <pt x="418" y="800" on="1"/>
-        <pt x="341" y="372" on="1"/>
-        <pt x="499" y="372" on="1"/>
-        <pt x="499" y="229" on="1"/>
-        <pt x="316" y="229" on="1"/>
-        <pt x="276" y="0" on="1"/>
-        <pt x="133" y="0" on="1"/>
-        <pt x="173" y="229" on="1"/>
-        <pt x="51" y="229" on="1"/>
+        <pt x="55" y="372" on="1"/>
+        <pt x="202" y="372" on="1"/>
+        <pt x="279" y="800" on="1"/>
+        <pt x="422" y="800" on="1"/>
+        <pt x="345" y="372" on="1"/>
+        <pt x="503" y="372" on="1"/>
+        <pt x="503" y="229" on="1"/>
+        <pt x="320" y="229" on="1"/>
+        <pt x="280" y="0" on="1"/>
+        <pt x="137" y="0" on="1"/>
+        <pt x="177" y="229" on="1"/>
+        <pt x="55" y="229" on="1"/>
       </contour>
       <instructions/>
     </TTGlyph>
@@ -566,20 +566,20 @@
 
     <TTGlyph name="w"/><!-- contains no outline data -->
 
-    <TTGlyph name="x" xMin="92" yMin="0" xMax="416" yMax="600">
+    <TTGlyph name="x" xMin="95" yMin="0" xMax="420" yMax="600">
       <contour>
-        <pt x="92" y="372" on="1"/>
-        <pt x="195" y="372" on="1"/>
-        <pt x="235" y="600" on="1"/>
-        <pt x="379" y="600" on="1"/>
-        <pt x="338" y="372" on="1"/>
-        <pt x="416" y="372" on="1"/>
-        <pt x="416" y="229" on="1"/>
-        <pt x="313" y="229" on="1"/>
-        <pt x="273" y="0" on="1"/>
-        <pt x="129" y="0" on="1"/>
-        <pt x="169" y="229" on="1"/>
-        <pt x="92" y="229" on="1"/>
+        <pt x="95" y="372" on="1"/>
+        <pt x="198" y="372" on="1"/>
+        <pt x="239" y="600" on="1"/>
+        <pt x="382" y="600" on="1"/>
+        <pt x="342" y="372" on="1"/>
+        <pt x="420" y="372" on="1"/>
+        <pt x="420" y="229" on="1"/>
+        <pt x="316" y="229" on="1"/>
+        <pt x="276" y="0" on="1"/>
+        <pt x="133" y="0" on="1"/>
+        <pt x="173" y="229" on="1"/>
+        <pt x="95" y="229" on="1"/>
       </contour>
       <instructions/>
     </TTGlyph>

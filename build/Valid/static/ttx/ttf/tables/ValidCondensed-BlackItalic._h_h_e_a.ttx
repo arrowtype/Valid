@@ -6,7 +6,7 @@
     <ascent value="1000"/>
     <descent value="-200"/>
     <lineGap value="0"/>
-    <advanceWidthMax value="600"/>
+    <advanceWidthMax value="500"/>
     <minLeftSideBearing value="29"/>
     <minRightSideBearing value="29"/>
     <xMaxExtent value="450"/>
@@ -18,7 +18,7 @@
     <reserved2 value="0"/>
     <reserved3 value="0"/>
     <metricDataFormat value="0"/>
-    <numberOfHMetrics value="52"/>
+    <numberOfHMetrics value="64"/>
   </hhea>
 
 </ttFont>

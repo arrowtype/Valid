@@ -77,12 +77,12 @@
     <!-- Most of this table will be recalculated by the compiler -->
     <tableVersion value="1.0"/>
     <fontRevision value="1.0"/>
-    <checkSumAdjustment value="0x61ffaaaf"/>
+    <checkSumAdjustment value="0xb1555617"/>
     <magicNumber value="0x5f0f3cf5"/>
     <flags value="00000000 00000011"/>
     <unitsPerEm value="1000"/>
     <created value="Sat Dec  7 16:33:03 2019"/>
-    <modified value="Sun Dec  8 06:06:03 2019"/>
+    <modified value="Sun Dec  8 15:35:04 2019"/>
     <xMin value="50"/>
     <yMin value="-200"/>
     <xMax value="450"/>
@@ -99,9 +99,9 @@
     <ascent value="1000"/>
     <descent value="-200"/>
     <lineGap value="0"/>
-    <advanceWidthMax value="600"/>
+    <advanceWidthMax value="500"/>
     <minLeftSideBearing value="50"/>
-    <minRightSideBearing value="50"/>
+    <minRightSideBearing value="47"/>
     <xMaxExtent value="450"/>
     <caretSlopeRise value="1000"/>
     <caretSlopeRun value="176"/>
@@ -111,7 +111,7 @@
     <reserved2 value="0"/>
     <reserved3 value="0"/>
     <metricDataFormat value="0"/>
-    <numberOfHMetrics value="52"/>
+    <numberOfHMetrics value="64"/>
   </hhea>
 
   <maxp>
@@ -123,7 +123,7 @@
     <!-- The fields 'usFirstCharIndex' and 'usLastCharIndex'
          will be recalculated by the compiler -->
     <version value="4"/>
-    <xAvgCharWidth value="592"/>
+    <xAvgCharWidth value="375"/>
     <usWeightClass value="100"/>
     <usWidthClass value="3"/>
     <fsType value="00000000 00001000"/>
@@ -387,7 +387,7 @@
         <LanguageGroup value="0"/>
         <ExpansionFactor value="0.06"/>
         <initialRandomSeed value="0"/>
-        <defaultWidthX value="600"/>
+        <defaultWidthX value="380"/>
         <nominalWidthX value="393"/>
       </Private>
       <CharStrings>
@@ -399,28 +399,28 @@
           endchar
         </CharString>
         <CharString name="A">
-          endchar
+          7 endchar
         </CharString>
         <CharString name="B">
-          endchar
+          7 endchar
         </CharString>
         <CharString name="C">
-          endchar
+          7 endchar
         </CharString>
         <CharString name="D">
-          endchar
+          7 endchar
         </CharString>
         <CharString name="E">
-          endchar
+          7 endchar
         </CharString>
         <CharString name="F">
-          endchar
+          7 endchar
         </CharString>
         <CharString name="G">
-          endchar
+          7 endchar
         </CharString>
         <CharString name="H">
-          7 60 315 rmoveto
+          7 63 315 rmoveto
           -30 105 vlineto
           -51 -285 30 0 51 285 rlineto
           145 30 -140 hlineto
@@ -428,58 +428,58 @@
           endchar
         </CharString>
         <CharString name="I">
-          endchar
+          7 endchar
         </CharString>
         <CharString name="J">
-          endchar
+          7 endchar
         </CharString>
         <CharString name="K">
-          endchar
+          7 endchar
         </CharString>
         <CharString name="L">
-          endchar
+          7 endchar
         </CharString>
         <CharString name="M">
-          endchar
+          7 endchar
         </CharString>
         <CharString name="N">
-          endchar
+          7 endchar
         </CharString>
         <CharString name="O">
-          endchar
+          7 endchar
         </CharString>
         <CharString name="P">
-          endchar
+          7 endchar
         </CharString>
         <CharString name="Q">
-          endchar
+          7 endchar
         </CharString>
         <CharString name="R">
-          endchar
+          7 endchar
         </CharString>
         <CharString name="S">
-          endchar
+          7 endchar
         </CharString>
         <CharString name="T">
-          endchar
+          7 endchar
         </CharString>
         <CharString name="U">
-          endchar
+          7 endchar
         </CharString>
         <CharString name="V">
-          endchar
+          7 endchar
         </CharString>
         <CharString name="W">
-          endchar
+          7 endchar
         </CharString>
         <CharString name="X">
-          endchar
+          7 endchar
         </CharString>
         <CharString name="Y">
-          endchar
+          7 endchar
         </CharString>
         <CharString name="Z">
-          endchar
+          7 endchar
         </CharString>
         <CharString name="a">
           endchar
@@ -491,7 +491,7 @@
           endchar
         </CharString>
         <CharString name="comma">
-          endchar
+          -233 endchar
         </CharString>
         <CharString name="d">
           endchar
@@ -500,16 +500,16 @@
           endchar
         </CharString>
         <CharString name="eight">
-          endchar
+          -3 endchar
         </CharString>
         <CharString name="f">
           endchar
         </CharString>
         <CharString name="five">
-          endchar
+          -3 endchar
         </CharString>
         <CharString name="four">
-          endchar
+          -3 endchar
         </CharString>
         <CharString name="g">
           endchar
@@ -518,7 +518,7 @@
           endchar
         </CharString>
         <CharString name="hyphen">
-          endchar
+          -233 endchar
         </CharString>
         <CharString name="i">
           endchar
@@ -539,19 +539,19 @@
           endchar
         </CharString>
         <CharString name="nine">
-          endchar
+          -3 endchar
         </CharString>
         <CharString name="o">
           endchar
         </CharString>
         <CharString name="one">
-          endchar
+          -3 endchar
         </CharString>
         <CharString name="p">
           endchar
         </CharString>
         <CharString name="period">
-          endchar
+          -233 endchar
         </CharString>
         <CharString name="q">
           endchar
@@ -563,28 +563,28 @@
           endchar
         </CharString>
         <CharString name="seven">
-          endchar
+          -3 endchar
         </CharString>
         <CharString name="six">
-          endchar
+          -3 endchar
         </CharString>
         <CharString name="space">
-          endchar
+          -233 endchar
         </CharString>
         <CharString name="t">
           endchar
         </CharString>
         <CharString name="three">
-          endchar
+          -3 endchar
         </CharString>
         <CharString name="two">
-          endchar
+          -3 endchar
         </CharString>
         <CharString name="u">
           endchar
         </CharString>
         <CharString name="uni00A0">
-          endchar
+          -233 endchar
         </CharString>
         <CharString name="v">
           endchar
@@ -593,7 +593,7 @@
           endchar
         </CharString>
         <CharString name="x">
-          -13 50 315 rmoveto
+          53 315 rmoveto
           -30 122 vlineto
           -50 -285 30 0 50 285 rlineto
           128 30 -122 hlineto
@@ -607,7 +607,7 @@
           endchar
         </CharString>
         <CharString name="zero">
-          endchar
+          -3 endchar
         </CharString>
       </CharStrings>
     </CFFFont>
@@ -619,73 +619,73 @@
 
   <hmtx>
     <mtx name=".notdef" width="500" lsb="50"/>
-    <mtx name="A" width="600" lsb="0"/>
-    <mtx name="B" width="600" lsb="0"/>
-    <mtx name="C" width="600" lsb="0"/>
-    <mtx name="D" width="600" lsb="0"/>
-    <mtx name="E" width="600" lsb="0"/>
-    <mtx name="F" width="600" lsb="0"/>
-    <mtx name="G" width="600" lsb="0"/>
-    <mtx name="H" width="400" lsb="60"/>
-    <mtx name="I" width="600" lsb="0"/>
-    <mtx name="J" width="600" lsb="0"/>
-    <mtx name="K" width="600" lsb="0"/>
-    <mtx name="L" width="600" lsb="0"/>
-    <mtx name="M" width="600" lsb="0"/>
-    <mtx name="N" width="600" lsb="0"/>
-    <mtx name="O" width="600" lsb="0"/>
-    <mtx name="P" width="600" lsb="0"/>
-    <mtx name="Q" width="600" lsb="0"/>
-    <mtx name="R" width="600" lsb="0"/>
-    <mtx name="S" width="600" lsb="0"/>
-    <mtx name="T" width="600" lsb="0"/>
-    <mtx name="U" width="600" lsb="0"/>
-    <mtx name="V" width="600" lsb="0"/>
-    <mtx name="W" width="600" lsb="0"/>
-    <mtx name="X" width="600" lsb="0"/>
-    <mtx name="Y" width="600" lsb="0"/>
-    <mtx name="Z" width="600" lsb="0"/>
-    <mtx name="a" width="600" lsb="0"/>
-    <mtx name="b" width="600" lsb="0"/>
-    <mtx name="c" width="600" lsb="0"/>
-    <mtx name="comma" width="600" lsb="0"/>
-    <mtx name="d" width="600" lsb="0"/>
-    <mtx name="e" width="600" lsb="0"/>
-    <mtx name="eight" width="600" lsb="0"/>
-    <mtx name="f" width="600" lsb="0"/>
-    <mtx name="five" width="600" lsb="0"/>
-    <mtx name="four" width="600" lsb="0"/>
-    <mtx name="g" width="600" lsb="0"/>
-    <mtx name="h" width="600" lsb="0"/>
-    <mtx name="hyphen" width="600" lsb="0"/>
-    <mtx name="i" width="600" lsb="0"/>
-    <mtx name="j" width="600" lsb="0"/>
-    <mtx name="k" width="600" lsb="0"/>
-    <mtx name="l" width="600" lsb="0"/>
-    <mtx name="m" width="600" lsb="0"/>
-    <mtx name="n" width="600" lsb="0"/>
-    <mtx name="nine" width="600" lsb="0"/>
-    <mtx name="o" width="600" lsb="0"/>
-    <mtx name="one" width="600" lsb="0"/>
-    <mtx name="p" width="600" lsb="0"/>
-    <mtx name="period" width="600" lsb="0"/>
-    <mtx name="q" width="600" lsb="0"/>
-    <mtx name="r" width="600" lsb="0"/>
-    <mtx name="s" width="600" lsb="0"/>
-    <mtx name="seven" width="600" lsb="0"/>
-    <mtx name="six" width="600" lsb="0"/>
-    <mtx name="space" width="600" lsb="0"/>
-    <mtx name="t" width="600" lsb="0"/>
-    <mtx name="three" width="600" lsb="0"/>
-    <mtx name="two" width="600" lsb="0"/>
-    <mtx name="u" width="600" lsb="0"/>
-    <mtx name="uni00A0" width="600" lsb="0"/>
-    <mtx name="v" width="600" lsb="0"/>
-    <mtx name="w" width="600" lsb="0"/>
-    <mtx name="x" width="380" lsb="50"/>
-    <mtx name="y" width="600" lsb="0"/>
-    <mtx name="z" width="600" lsb="0"/>
-    <mtx name="zero" width="600" lsb="0"/>
+    <mtx name="A" width="400" lsb="0"/>
+    <mtx name="B" width="400" lsb="0"/>
+    <mtx name="C" width="400" lsb="0"/>
+    <mtx name="D" width="400" lsb="0"/>
+    <mtx name="E" width="400" lsb="0"/>
+    <mtx name="F" width="400" lsb="0"/>
+    <mtx name="G" width="400" lsb="0"/>
+    <mtx name="H" width="400" lsb="63"/>
+    <mtx name="I" width="400" lsb="0"/>
+    <mtx name="J" width="400" lsb="0"/>
+    <mtx name="K" width="400" lsb="0"/>
+    <mtx name="L" width="400" lsb="0"/>
+    <mtx name="M" width="400" lsb="0"/>
+    <mtx name="N" width="400" lsb="0"/>
+    <mtx name="O" width="400" lsb="0"/>
+    <mtx name="P" width="400" lsb="0"/>
+    <mtx name="Q" width="400" lsb="0"/>
+    <mtx name="R" width="400" lsb="0"/>
+    <mtx name="S" width="400" lsb="0"/>
+    <mtx name="T" width="400" lsb="0"/>
+    <mtx name="U" width="400" lsb="0"/>
+    <mtx name="V" width="400" lsb="0"/>
+    <mtx name="W" width="400" lsb="0"/>
+    <mtx name="X" width="400" lsb="0"/>
+    <mtx name="Y" width="400" lsb="0"/>
+    <mtx name="Z" width="400" lsb="0"/>
+    <mtx name="a" width="380" lsb="0"/>
+    <mtx name="b" width="380" lsb="0"/>
+    <mtx name="c" width="380" lsb="0"/>
+    <mtx name="comma" width="160" lsb="0"/>
+    <mtx name="d" width="380" lsb="0"/>
+    <mtx name="e" width="380" lsb="0"/>
+    <mtx name="eight" width="390" lsb="0"/>
+    <mtx name="f" width="380" lsb="0"/>
+    <mtx name="five" width="390" lsb="0"/>
+    <mtx name="four" width="390" lsb="0"/>
+    <mtx name="g" width="380" lsb="0"/>
+    <mtx name="h" width="380" lsb="0"/>
+    <mtx name="hyphen" width="160" lsb="0"/>
+    <mtx name="i" width="380" lsb="0"/>
+    <mtx name="j" width="380" lsb="0"/>
+    <mtx name="k" width="380" lsb="0"/>
+    <mtx name="l" width="380" lsb="0"/>
+    <mtx name="m" width="380" lsb="0"/>
+    <mtx name="n" width="380" lsb="0"/>
+    <mtx name="nine" width="390" lsb="0"/>
+    <mtx name="o" width="380" lsb="0"/>
+    <mtx name="one" width="390" lsb="0"/>
+    <mtx name="p" width="380" lsb="0"/>
+    <mtx name="period" width="160" lsb="0"/>
+    <mtx name="q" width="380" lsb="0"/>
+    <mtx name="r" width="380" lsb="0"/>
+    <mtx name="s" width="380" lsb="0"/>
+    <mtx name="seven" width="390" lsb="0"/>
+    <mtx name="six" width="390" lsb="0"/>
+    <mtx name="space" width="160" lsb="0"/>
+    <mtx name="t" width="380" lsb="0"/>
+    <mtx name="three" width="390" lsb="0"/>
+    <mtx name="two" width="390" lsb="0"/>
+    <mtx name="u" width="380" lsb="0"/>
+    <mtx name="uni00A0" width="160" lsb="0"/>
+    <mtx name="v" width="380" lsb="0"/>
+    <mtx name="w" width="380" lsb="0"/>
+    <mtx name="x" width="380" lsb="53"/>
+    <mtx name="y" width="380" lsb="0"/>
+    <mtx name="z" width="380" lsb="0"/>
+    <mtx name="zero" width="390" lsb="0"/>
   </hmtx>
 
 </ttFont>

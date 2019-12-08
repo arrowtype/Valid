@@ -29,12 +29,12 @@
         <LanguageGroup value="0"/>
         <ExpansionFactor value="0.06"/>
         <initialRandomSeed value="0"/>
-        <defaultWidthX value="600"/>
-        <nominalWidthX value="465"/>
+        <defaultWidthX value="500"/>
+        <nominalWidthX value="363"/>
       </Private>
       <CharStrings>
         <CharString name=".notdef">
-          35 50 -200 rmoveto
+          50 -200 rmoveto
           400 1200 -400 -1200 hlineto
           50 50 rmoveto
           1100 300 -1100 -300 vlineto
@@ -62,7 +62,7 @@
           endchar
         </CharString>
         <CharString name="H">
-          35 52 343 rmoveto
+          52 343 rmoveto
           -86 155 -257 86 257 155 86 -155 457 -86 -457 vlineto
           endchar
         </CharString>
@@ -121,129 +121,129 @@
           endchar
         </CharString>
         <CharString name="a">
-          endchar
+          102 endchar
         </CharString>
         <CharString name="b">
-          endchar
+          102 endchar
         </CharString>
         <CharString name="c">
-          endchar
+          102 endchar
         </CharString>
         <CharString name="comma">
-          endchar
+          -183 endchar
         </CharString>
         <CharString name="d">
-          endchar
+          102 endchar
         </CharString>
         <CharString name="e">
-          endchar
+          102 endchar
         </CharString>
         <CharString name="eight">
-          endchar
+          107 endchar
         </CharString>
         <CharString name="f">
-          endchar
+          102 endchar
         </CharString>
         <CharString name="five">
-          endchar
+          107 endchar
         </CharString>
         <CharString name="four">
-          endchar
+          107 endchar
         </CharString>
         <CharString name="g">
-          endchar
+          102 endchar
         </CharString>
         <CharString name="h">
-          endchar
+          102 endchar
         </CharString>
         <CharString name="hyphen">
-          endchar
+          -183 endchar
         </CharString>
         <CharString name="i">
-          endchar
+          102 endchar
         </CharString>
         <CharString name="j">
-          endchar
+          102 endchar
         </CharString>
         <CharString name="k">
-          endchar
+          102 endchar
         </CharString>
         <CharString name="l">
-          endchar
+          102 endchar
         </CharString>
         <CharString name="m">
-          endchar
+          102 endchar
         </CharString>
         <CharString name="n">
-          endchar
+          102 endchar
         </CharString>
         <CharString name="nine">
-          endchar
+          107 endchar
         </CharString>
         <CharString name="o">
-          endchar
+          102 endchar
         </CharString>
         <CharString name="one">
-          endchar
+          107 endchar
         </CharString>
         <CharString name="p">
-          endchar
+          102 endchar
         </CharString>
         <CharString name="period">
-          endchar
+          -183 endchar
         </CharString>
         <CharString name="q">
-          endchar
+          102 endchar
         </CharString>
         <CharString name="r">
-          endchar
+          102 endchar
         </CharString>
         <CharString name="s">
-          endchar
+          102 endchar
         </CharString>
         <CharString name="seven">
-          endchar
+          107 endchar
         </CharString>
         <CharString name="six">
-          endchar
+          107 endchar
         </CharString>
         <CharString name="space">
-          endchar
+          -183 endchar
         </CharString>
         <CharString name="t">
-          endchar
+          102 endchar
         </CharString>
         <CharString name="three">
-          endchar
+          107 endchar
         </CharString>
         <CharString name="two">
-          endchar
+          107 endchar
         </CharString>
         <CharString name="u">
-          endchar
+          102 endchar
         </CharString>
         <CharString name="uni00A0">
-          endchar
+          -183 endchar
         </CharString>
         <CharString name="v">
-          endchar
+          102 endchar
         </CharString>
         <CharString name="w">
-          endchar
+          102 endchar
         </CharString>
         <CharString name="x">
-          0 77 343 rmoveto
+          102 77 343 rmoveto
           -86 112 -257 87 257 112 86 -112 257 -87 -257 vlineto
           endchar
         </CharString>
         <CharString name="y">
-          endchar
+          102 endchar
         </CharString>
         <CharString name="z">
-          endchar
+          102 endchar
         </CharString>
         <CharString name="zero">
-          endchar
+          107 endchar
         </CharString>
       </CharStrings>
     </CFFFont>

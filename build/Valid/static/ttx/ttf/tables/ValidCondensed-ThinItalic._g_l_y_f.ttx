@@ -36,20 +36,20 @@
 
     <TTGlyph name="G"/><!-- contains no outline data -->
 
-    <TTGlyph name="H" xMin="60" yMin="0" xMax="340" yMax="800">
+    <TTGlyph name="H" xMin="63" yMin="0" xMax="343" yMax="800">
       <contour>
-        <pt x="60" y="315" on="1"/>
-        <pt x="170" y="315" on="1"/>
-        <pt x="256" y="800" on="1"/>
-        <pt x="286" y="800" on="1"/>
-        <pt x="200" y="315" on="1"/>
-        <pt x="340" y="315" on="1"/>
-        <pt x="340" y="285" on="1"/>
-        <pt x="195" y="285" on="1"/>
-        <pt x="144" y="0" on="1"/>
-        <pt x="114" y="0" on="1"/>
-        <pt x="165" y="285" on="1"/>
-        <pt x="60" y="285" on="1"/>
+        <pt x="63" y="315" on="1"/>
+        <pt x="173" y="315" on="1"/>
+        <pt x="259" y="800" on="1"/>
+        <pt x="289" y="800" on="1"/>
+        <pt x="203" y="315" on="1"/>
+        <pt x="343" y="315" on="1"/>
+        <pt x="343" y="285" on="1"/>
+        <pt x="198" y="285" on="1"/>
+        <pt x="147" y="0" on="1"/>
+        <pt x="117" y="0" on="1"/>
+        <pt x="168" y="285" on="1"/>
+        <pt x="63" y="285" on="1"/>
       </contour>
       <instructions/>
     </TTGlyph>
@@ -164,20 +164,20 @@
 
     <TTGlyph name="w"/><!-- contains no outline data -->
 
-    <TTGlyph name="x" xMin="50" yMin="0" xMax="330" yMax="600">
+    <TTGlyph name="x" xMin="53" yMin="0" xMax="333" yMax="600">
       <contour>
-        <pt x="50" y="315" on="1"/>
-        <pt x="178" y="315" on="1"/>
-        <pt x="228" y="600" on="1"/>
-        <pt x="258" y="600" on="1"/>
-        <pt x="208" y="315" on="1"/>
-        <pt x="330" y="315" on="1"/>
-        <pt x="330" y="285" on="1"/>
-        <pt x="202" y="285" on="1"/>
-        <pt x="152" y="0" on="1"/>
-        <pt x="122" y="0" on="1"/>
-        <pt x="172" y="285" on="1"/>
-        <pt x="50" y="285" on="1"/>
+        <pt x="53" y="315" on="1"/>
+        <pt x="181" y="315" on="1"/>
+        <pt x="231" y="600" on="1"/>
+        <pt x="261" y="600" on="1"/>
+        <pt x="211" y="315" on="1"/>
+        <pt x="333" y="315" on="1"/>
+        <pt x="333" y="285" on="1"/>
+        <pt x="205" y="285" on="1"/>
+        <pt x="155" y="0" on="1"/>
+        <pt x="125" y="0" on="1"/>
+        <pt x="175" y="285" on="1"/>
+        <pt x="53" y="285" on="1"/>
       </contour>
       <instructions/>
     </TTGlyph>

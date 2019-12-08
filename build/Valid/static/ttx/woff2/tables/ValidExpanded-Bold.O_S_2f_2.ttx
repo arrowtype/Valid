@@ -5,7 +5,7 @@
     <!-- The fields 'usFirstCharIndex' and 'usLastCharIndex'
          will be recalculated by the compiler -->
     <version value="4"/>
-    <xAvgCharWidth value="596"/>
+    <xAvgCharWidth value="503"/>
     <usWeightClass value="700"/>
     <usWidthClass value="7"/>
     <fsType value="00000000 00001000"/>

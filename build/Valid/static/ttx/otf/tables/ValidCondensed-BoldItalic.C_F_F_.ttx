@@ -17,7 +17,7 @@
       <PaintType value="0"/>
       <CharstringType value="2"/>
       <FontMatrix value="0.001 0 0 0.001 0 0"/>
-      <FontBBox value="46 -200 450 1000"/>
+      <FontBBox value="50 -200 450 1000"/>
       <StrokeWidth value="0"/>
       <!-- charset is dumped separately as the 'GlyphOrder' element -->
       <Encoding name="StandardEncoding"/>
@@ -29,12 +29,12 @@
         <LanguageGroup value="0"/>
         <ExpansionFactor value="0.06"/>
         <initialRandomSeed value="0"/>
-        <defaultWidthX value="600"/>
-        <nominalWidthX value="423"/>
+        <defaultWidthX value="450"/>
+        <nominalWidthX value="393"/>
       </Private>
       <CharStrings>
         <CharString name=".notdef">
-          77 50 -200 rmoveto
+          107 50 -200 rmoveto
           400 1200 -400 -1200 hlineto
           50 50 rmoveto
           1100 300 -1100 -300 vlineto
@@ -62,7 +62,7 @@
           endchar
         </CharString>
         <CharString name="H">
-          27 46 372 rmoveto
+          50 372 rmoveto
           -143 77 vlineto
           -40 -229 143 0 40 229 rlineto
           138 143 -113 hlineto
@@ -124,132 +124,132 @@
           endchar
         </CharString>
         <CharString name="a">
-          endchar
+          30 endchar
         </CharString>
         <CharString name="b">
-          endchar
+          30 endchar
         </CharString>
         <CharString name="c">
-          endchar
+          30 endchar
         </CharString>
         <CharString name="comma">
-          endchar
+          -223 endchar
         </CharString>
         <CharString name="d">
-          endchar
+          30 endchar
         </CharString>
         <CharString name="e">
-          endchar
+          30 endchar
         </CharString>
         <CharString name="eight">
-          endchar
+          37 endchar
         </CharString>
         <CharString name="f">
-          endchar
+          30 endchar
         </CharString>
         <CharString name="five">
-          endchar
+          37 endchar
         </CharString>
         <CharString name="four">
-          endchar
+          37 endchar
         </CharString>
         <CharString name="g">
-          endchar
+          30 endchar
         </CharString>
         <CharString name="h">
-          endchar
+          30 endchar
         </CharString>
         <CharString name="hyphen">
-          endchar
+          -223 endchar
         </CharString>
         <CharString name="i">
-          endchar
+          30 endchar
         </CharString>
         <CharString name="j">
-          endchar
+          30 endchar
         </CharString>
         <CharString name="k">
-          endchar
+          30 endchar
         </CharString>
         <CharString name="l">
-          endchar
+          30 endchar
         </CharString>
         <CharString name="m">
-          endchar
+          30 endchar
         </CharString>
         <CharString name="n">
-          endchar
+          30 endchar
         </CharString>
         <CharString name="nine">
-          endchar
+          37 endchar
         </CharString>
         <CharString name="o">
-          endchar
+          30 endchar
         </CharString>
         <CharString name="one">
-          endchar
+          37 endchar
         </CharString>
         <CharString name="p">
-          endchar
+          30 endchar
         </CharString>
         <CharString name="period">
-          endchar
+          -223 endchar
         </CharString>
         <CharString name="q">
-          endchar
+          30 endchar
         </CharString>
         <CharString name="r">
-          endchar
+          30 endchar
         </CharString>
         <CharString name="s">
-          endchar
+          30 endchar
         </CharString>
         <CharString name="seven">
-          endchar
+          37 endchar
         </CharString>
         <CharString name="six">
-          endchar
+          37 endchar
         </CharString>
         <CharString name="space">
-          endchar
+          -223 endchar
         </CharString>
         <CharString name="t">
-          endchar
+          30 endchar
         </CharString>
         <CharString name="three">
-          endchar
+          37 endchar
         </CharString>
         <CharString name="two">
-          endchar
+          37 endchar
         </CharString>
         <CharString name="u">
-          endchar
+          30 endchar
         </CharString>
         <CharString name="uni00A0">
-          endchar
+          -223 endchar
         </CharString>
         <CharString name="v">
-          endchar
+          30 endchar
         </CharString>
         <CharString name="w">
-          endchar
+          30 endchar
         </CharString>
         <CharString name="x">
-          0 64 372 rmoveto
-          -143 63 vlineto
-          -40 -229 143 0 40 229 rlineto
-          89 143 -63 hlineto
-          40 228 -143 0 -41 -228 rlineto
+          30 68 372 rmoveto
+          -143 62 vlineto
+          -40 -229 144 0 40 229 rlineto
+          88 143 -63 hlineto
+          41 228 -144 0 -40 -228 rlineto
           endchar
         </CharString>
         <CharString name="y">
-          endchar
+          30 endchar
         </CharString>
         <CharString name="z">
-          endchar
+          30 endchar
         </CharString>
         <CharString name="zero">
-          endchar
+          37 endchar
         </CharString>
       </CharStrings>
     </CFFFont>
