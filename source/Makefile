@@ -63,8 +63,8 @@ DESIGNSPACE_PATH=$(MASTER_UFO_DIR)/$(DESIGNSPACE)
 #
 
 static: build-dirs
-	# $(FONTMAKE_EXE) -g $(SOURCE) --interpolate --output otf ttf --output-dir $(STATIC_BUILD_DIR) --master-dir $(MASTER_UFO_DIR) --instance-dir $(INSTANCE_UFO_DIR)
-	$(FONTMAKE_EXE) -g $(SOURCE) --output otf ttf --output-dir $(STATIC_BUILD_DIR) --master-dir $(MASTER_UFO_DIR) --instance-dir $(INSTANCE_UFO_DIR)
+	$(FONTMAKE_EXE) -g $(SOURCE) --interpolate --output otf ttf --output-dir $(STATIC_BUILD_DIR) --master-dir $(MASTER_UFO_DIR) --instance-dir $(INSTANCE_UFO_DIR)
+	# $(FONTMAKE_EXE) -g $(SOURCE) --output otf ttf --output-dir $(STATIC_BUILD_DIR) --master-dir $(MASTER_UFO_DIR) --instance-dir $(INSTANCE_UFO_DIR)
 	
 	$(TTX_EXE) -f -d $(STATIC_TTX_DIR_OTF) $(STATIC_BUILD_DIR)/*.otf
 	$(TTX_EXE) -f -d $(STATIC_TTX_DIR_OTF_TABLES) -s $(STATIC_BUILD_DIR)/*.otf
