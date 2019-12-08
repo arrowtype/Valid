@@ -70,18 +70,19 @@
     <GlyphID id="64" name="comma"/>
     <GlyphID id="65" name="hyphen"/>
     <GlyphID id="66" name="space"/>
+    <GlyphID id="67" name="uni00A0"/>
   </GlyphOrder>
 
   <head>
     <!-- Most of this table will be recalculated by the compiler -->
     <tableVersion value="1.0"/>
     <fontRevision value="1.0"/>
-    <checkSumAdjustment value="0xbbaf6e79"/>
+    <checkSumAdjustment value="0x4ba2ea0c"/>
     <magicNumber value="0x5f0f3cf5"/>
     <flags value="00000000 00000011"/>
     <unitsPerEm value="1000"/>
     <created value="Sat Dec  7 16:33:03 2019"/>
-    <modified value="Sat Dec  7 22:33:06 2019"/>
+    <modified value="Sun Dec  8 05:55:34 2019"/>
     <xMin value="50"/>
     <yMin value="-200"/>
     <xMax value="450"/>
@@ -110,19 +111,19 @@
     <reserved2 value="0"/>
     <reserved3 value="0"/>
     <metricDataFormat value="0"/>
-    <numberOfHMetrics value="2"/>
+    <numberOfHMetrics value="52"/>
   </hhea>
 
   <maxp>
     <tableVersion value="0x5000"/>
-    <numGlyphs value="67"/>
+    <numGlyphs value="68"/>
   </maxp>
 
   <OS_2>
     <!-- The fields 'usFirstCharIndex' and 'usLastCharIndex'
          will be recalculated by the compiler -->
     <version value="4"/>
-    <xAvgCharWidth value="599"/>
+    <xAvgCharWidth value="595"/>
     <usWeightClass value="400"/>
     <usWidthClass value="5"/>
     <fsType value="00000000 00001000"/>
@@ -135,7 +136,7 @@
     <ySuperscriptXOffset value="0"/>
     <ySuperscriptYOffset value="350"/>
     <yStrikeoutSize value="50"/>
-    <yStrikeoutPosition value="300"/>
+    <yStrikeoutPosition value="360"/>
     <sFamilyClass value="0"/>
     <panose>
       <bFamilyType value="0"/>
@@ -149,14 +150,14 @@
       <bMidline value="0"/>
       <bXHeight value="0"/>
     </panose>
-    <ulUnicodeRange1 value="00000000 00000000 00000000 00000001"/>
+    <ulUnicodeRange1 value="00000000 00000000 00000000 00000011"/>
     <ulUnicodeRange2 value="00000000 00000000 00000000 00000000"/>
     <ulUnicodeRange3 value="00000000 00000000 00000000 00000000"/>
     <ulUnicodeRange4 value="00000000 00000000 00000000 00000000"/>
     <achVendID value="NONE"/>
     <fsSelection value="00000000 11000000"/>
     <usFirstCharIndex value="32"/>
-    <usLastCharIndex value="122"/>
+    <usLastCharIndex value="160"/>
     <sTypoAscender value="1000"/>
     <sTypoDescender value="-200"/>
     <sTypoLineGap value="0"/>
@@ -164,8 +165,8 @@
     <usWinDescent value="200"/>
     <ulCodePageRange1 value="00000000 00000000 00000000 00000001"/>
     <ulCodePageRange2 value="00000000 00000000 00000000 00000000"/>
-    <sxHeight value="500"/>
-    <sCapHeight value="700"/>
+    <sxHeight value="600"/>
+    <sCapHeight value="800"/>
     <usDefaultChar value="0"/>
     <usBreakChar value="32"/>
     <usMaxContext value="0"/>
@@ -267,6 +268,7 @@
       <map code="0x78" name="x"/><!-- LATIN SMALL LETTER X -->
       <map code="0x79" name="y"/><!-- LATIN SMALL LETTER Y -->
       <map code="0x7a" name="z"/><!-- LATIN SMALL LETTER Z -->
+      <map code="0xa0" name="uni00A0"/><!-- NO-BREAK SPACE -->
     </cmap_format_4>
     <cmap_format_4 platformID="3" platEncID="1" language="0">
       <map code="0x20" name="space"/><!-- SPACE -->
@@ -335,6 +337,7 @@
       <map code="0x78" name="x"/><!-- LATIN SMALL LETTER X -->
       <map code="0x79" name="y"/><!-- LATIN SMALL LETTER Y -->
       <map code="0x7a" name="z"/><!-- LATIN SMALL LETTER Z -->
+      <map code="0xa0" name="uni00A0"/><!-- NO-BREAK SPACE -->
     </cmap_format_4>
   </cmap>
 
@@ -379,11 +382,11 @@
         <ExpansionFactor value="0.06"/>
         <initialRandomSeed value="0"/>
         <defaultWidthX value="600"/>
-        <nominalWidthX value="500"/>
+        <nominalWidthX value="465"/>
       </Private>
       <CharStrings>
         <CharString name=".notdef">
-          0 50 -200 rmoveto
+          35 50 -200 rmoveto
           400 1200 -400 -1200 hlineto
           50 50 rmoveto
           1100 300 -1100 -300 vlineto
@@ -411,6 +414,8 @@
           endchar
         </CharString>
         <CharString name="H">
+          35 52 343 rmoveto
+          -86 155 -257 86 257 155 86 -155 457 -86 -457 vlineto
           endchar
         </CharString>
         <CharString name="I">
@@ -569,6 +574,9 @@
         <CharString name="u">
           endchar
         </CharString>
+        <CharString name="uni00A0">
+          endchar
+        </CharString>
         <CharString name="v">
           endchar
         </CharString>
@@ -576,6 +584,8 @@
           endchar
         </CharString>
         <CharString name="x">
+          0 77 343 rmoveto
+          -86 112 -257 87 257 112 86 -112 257 -87 -257 vlineto
           endchar
         </CharString>
         <CharString name="y">
@@ -604,7 +614,7 @@
     <mtx name="E" width="600" lsb="0"/>
     <mtx name="F" width="600" lsb="0"/>
     <mtx name="G" width="600" lsb="0"/>
-    <mtx name="H" width="600" lsb="0"/>
+    <mtx name="H" width="500" lsb="52"/>
     <mtx name="I" width="600" lsb="0"/>
     <mtx name="J" width="600" lsb="0"/>
     <mtx name="K" width="600" lsb="0"/>
@@ -657,9 +667,10 @@
     <mtx name="three" width="600" lsb="0"/>
     <mtx name="two" width="600" lsb="0"/>
     <mtx name="u" width="600" lsb="0"/>
+    <mtx name="uni00A0" width="600" lsb="0"/>
     <mtx name="v" width="600" lsb="0"/>
     <mtx name="w" width="600" lsb="0"/>
-    <mtx name="x" width="600" lsb="0"/>
+    <mtx name="x" width="465" lsb="77"/>
     <mtx name="y" width="600" lsb="0"/>
     <mtx name="z" width="600" lsb="0"/>
     <mtx name="zero" width="600" lsb="0"/>

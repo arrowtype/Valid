@@ -4,8 +4,31 @@
   <dict>
     <key>com.schriftgestaltung.appVersion</key>
     <string>1271</string>
+    <key>com.schriftgestaltung.customParameter.GSFont.Axes</key>
+    <array>
+      <dict>
+        <key>Name</key>
+        <string>Weight</string>
+        <key>Tag</key>
+        <string>wght</string>
+      </dict>
+      <dict>
+        <key>Name</key>
+        <string>Width</string>
+        <key>Tag</key>
+        <string>wdth</string>
+      </dict>
+      <dict>
+        <key>Name</key>
+        <string>Slant</string>
+        <key>Tag</key>
+        <string>slnt</string>
+      </dict>
+    </array>
     <key>com.schriftgestaltung.customParameter.GSFont.DisplayStrings</key>
     <string></string>
+    <key>com.schriftgestaltung.customParameter.GSFont.Enforce Compatibility Check</key>
+    <integer>1</integer>
     <key>com.schriftgestaltung.customParameter.GSFont.disablesAutomaticAlignment</key>
     <false/>
     <key>com.schriftgestaltung.customParameter.GSFont.useNiceNames</key>
@@ -21,11 +44,11 @@
     <key>com.schriftgestaltung.customParameter.GSFontMaster.iconName</key>
     <string></string>
     <key>com.schriftgestaltung.customParameter.GSFontMaster.weightValue</key>
-    <integer>100</integer>
+    <integer>80</integer>
     <key>com.schriftgestaltung.customParameter.GSFontMaster.widthValue</key>
     <integer>100</integer>
     <key>com.schriftgestaltung.fontMasterOrder</key>
-    <integer>0</integer>
+    <integer>4</integer>
     <key>com.schriftgestaltung.glyphOrder</key>
     <false/>
     <key>com.schriftgestaltung.keyboardIncrement</key>
@@ -33,7 +56,7 @@
     <key>com.schriftgestaltung.weight</key>
     <string>Regular</string>
     <key>com.schriftgestaltung.weightValue</key>
-    <integer>100</integer>
+    <integer>80</integer>
     <key>com.schriftgestaltung.width</key>
     <string>Regular</string>
     <key>com.schriftgestaltung.widthValue</key>
@@ -106,6 +129,12 @@
       <string>comma</string>
       <string>hyphen</string>
       <string>space</string>
+      <string>nbspace</string>
     </array>
+    <key>public.postscriptNames</key>
+    <dict>
+      <key>nbspace</key>
+      <string>uni00A0</string>
+    </dict>
   </dict>
 </plist>

@@ -5,7 +5,7 @@
     <key>ascender</key>
     <integer>1000</integer>
     <key>capHeight</key>
-    <integer>700</integer>
+    <integer>800</integer>
     <key>descender</key>
     <integer>-200</integer>
     <key>familyName</key>
@@ -49,6 +49,6 @@
     <key>versionMinor</key>
     <integer>0</integer>
     <key>xHeight</key>
-    <integer>500</integer>
+    <integer>600</integer>
   </dict>
 </plist>

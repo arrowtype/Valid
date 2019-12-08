@@ -10,7 +10,7 @@
     <mtx name="E" width="600" lsb="0"/>
     <mtx name="F" width="600" lsb="0"/>
     <mtx name="G" width="600" lsb="0"/>
-    <mtx name="H" width="600" lsb="0"/>
+    <mtx name="H" width="500" lsb="52"/>
     <mtx name="I" width="600" lsb="0"/>
     <mtx name="J" width="600" lsb="0"/>
     <mtx name="K" width="600" lsb="0"/>
@@ -63,9 +63,10 @@
     <mtx name="three" width="600" lsb="0"/>
     <mtx name="two" width="600" lsb="0"/>
     <mtx name="u" width="600" lsb="0"/>
+    <mtx name="uni00A0" width="600" lsb="0"/>
     <mtx name="v" width="600" lsb="0"/>
     <mtx name="w" width="600" lsb="0"/>
-    <mtx name="x" width="600" lsb="0"/>
+    <mtx name="x" width="465" lsb="77"/>
     <mtx name="y" width="600" lsb="0"/>
     <mtx name="z" width="600" lsb="0"/>
     <mtx name="zero" width="600" lsb="0"/>

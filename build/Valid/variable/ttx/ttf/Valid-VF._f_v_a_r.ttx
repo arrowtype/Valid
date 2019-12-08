@@ -1,0 +1,205 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ttFont ttLibVersion="4.2">
+
+  <fvar>
+
+    <!-- Weight -->
+    <Axis>
+      <AxisTag>wght</AxisTag>
+      <Flags>0x0</Flags>
+      <MinValue>100.0</MinValue>
+      <DefaultValue>400.0</DefaultValue>
+      <MaxValue>900.0</MaxValue>
+      <AxisNameID>256</AxisNameID>
+    </Axis>
+
+    <!-- Width -->
+    <Axis>
+      <AxisTag>wdth</AxisTag>
+      <Flags>0x0</Flags>
+      <MinValue>75.0</MinValue>
+      <DefaultValue>100.0</DefaultValue>
+      <MaxValue>125.0</MaxValue>
+      <AxisNameID>257</AxisNameID>
+    </Axis>
+
+    <!-- Slant -->
+    <Axis>
+      <AxisTag>slnt</AxisTag>
+      <Flags>0x0</Flags>
+      <MinValue>-10.0</MinValue>
+      <DefaultValue>0.0</DefaultValue>
+      <MaxValue>0.0</MaxValue>
+      <AxisNameID>258</AxisNameID>
+    </Axis>
+
+    <!-- Thin -->
+    <NamedInstance flags="0x0" subfamilyNameID="259">
+      <coord axis="wght" value="100.0"/>
+      <coord axis="wdth" value="125.0"/>
+      <coord axis="slnt" value="0.0"/>
+    </NamedInstance>
+
+    <!-- Thin Italic -->
+    <NamedInstance flags="0x0" subfamilyNameID="260">
+      <coord axis="wght" value="100.0"/>
+      <coord axis="wdth" value="125.0"/>
+      <coord axis="slnt" value="-10.0"/>
+    </NamedInstance>
+
+    <!-- Regular -->
+    <NamedInstance flags="0x0" subfamilyNameID="261">
+      <coord axis="wght" value="400.0"/>
+      <coord axis="wdth" value="125.0"/>
+      <coord axis="slnt" value="0.0"/>
+    </NamedInstance>
+
+    <!-- Italic -->
+    <NamedInstance flags="0x0" subfamilyNameID="262">
+      <coord axis="wght" value="400.0"/>
+      <coord axis="wdth" value="125.0"/>
+      <coord axis="slnt" value="-10.0"/>
+    </NamedInstance>
+
+    <!-- Bold -->
+    <NamedInstance flags="0x0" subfamilyNameID="263">
+      <coord axis="wght" value="700.0"/>
+      <coord axis="wdth" value="125.0"/>
+      <coord axis="slnt" value="0.0"/>
+    </NamedInstance>
+
+    <!-- Bold Italic -->
+    <NamedInstance flags="0x0" subfamilyNameID="264">
+      <coord axis="wght" value="700.0"/>
+      <coord axis="wdth" value="125.0"/>
+      <coord axis="slnt" value="-10.0"/>
+    </NamedInstance>
+
+    <!-- Black -->
+    <NamedInstance flags="0x0" subfamilyNameID="265">
+      <coord axis="wght" value="900.0"/>
+      <coord axis="wdth" value="125.0"/>
+      <coord axis="slnt" value="0.0"/>
+    </NamedInstance>
+
+    <!-- Black Italic -->
+    <NamedInstance flags="0x0" subfamilyNameID="266">
+      <coord axis="wght" value="900.0"/>
+      <coord axis="wdth" value="125.0"/>
+      <coord axis="slnt" value="-10.0"/>
+    </NamedInstance>
+
+    <!-- Thin -->
+    <NamedInstance flags="0x0" subfamilyNameID="267">
+      <coord axis="wght" value="100.0"/>
+      <coord axis="wdth" value="100.0"/>
+      <coord axis="slnt" value="0.0"/>
+    </NamedInstance>
+
+    <!-- Thin Italic -->
+    <NamedInstance flags="0x0" subfamilyNameID="268">
+      <coord axis="wght" value="100.0"/>
+      <coord axis="wdth" value="100.0"/>
+      <coord axis="slnt" value="-10.0"/>
+    </NamedInstance>
+
+    <!-- Regular -->
+    <NamedInstance flags="0x0" subfamilyNameID="269">
+      <coord axis="wght" value="400.0"/>
+      <coord axis="wdth" value="100.0"/>
+      <coord axis="slnt" value="0.0"/>
+    </NamedInstance>
+
+    <!-- Italic -->
+    <NamedInstance flags="0x0" subfamilyNameID="270">
+      <coord axis="wght" value="400.0"/>
+      <coord axis="wdth" value="100.0"/>
+      <coord axis="slnt" value="-10.0"/>
+    </NamedInstance>
+
+    <!-- Bold -->
+    <NamedInstance flags="0x0" subfamilyNameID="271">
+      <coord axis="wght" value="700.0"/>
+      <coord axis="wdth" value="100.0"/>
+      <coord axis="slnt" value="0.0"/>
+    </NamedInstance>
+
+    <!-- Bold Italic -->
+    <NamedInstance flags="0x0" subfamilyNameID="272">
+      <coord axis="wght" value="700.0"/>
+      <coord axis="wdth" value="100.0"/>
+      <coord axis="slnt" value="-10.0"/>
+    </NamedInstance>
+
+    <!-- Black -->
+    <NamedInstance flags="0x0" subfamilyNameID="273">
+      <coord axis="wght" value="900.0"/>
+      <coord axis="wdth" value="100.0"/>
+      <coord axis="slnt" value="0.0"/>
+    </NamedInstance>
+
+    <!-- Black Italic -->
+    <NamedInstance flags="0x0" subfamilyNameID="274">
+      <coord axis="wght" value="900.0"/>
+      <coord axis="wdth" value="100.0"/>
+      <coord axis="slnt" value="-10.0"/>
+    </NamedInstance>
+
+    <!-- Thin -->
+    <NamedInstance flags="0x0" subfamilyNameID="275">
+      <coord axis="wght" value="100.0"/>
+      <coord axis="wdth" value="75.0"/>
+      <coord axis="slnt" value="0.0"/>
+    </NamedInstance>
+
+    <!-- Thin Italic -->
+    <NamedInstance flags="0x0" subfamilyNameID="276">
+      <coord axis="wght" value="100.0"/>
+      <coord axis="wdth" value="75.0"/>
+      <coord axis="slnt" value="-10.0"/>
+    </NamedInstance>
+
+    <!-- Regular -->
+    <NamedInstance flags="0x0" subfamilyNameID="277">
+      <coord axis="wght" value="400.0"/>
+      <coord axis="wdth" value="75.0"/>
+      <coord axis="slnt" value="0.0"/>
+    </NamedInstance>
+
+    <!-- Italic -->
+    <NamedInstance flags="0x0" subfamilyNameID="278">
+      <coord axis="wght" value="400.0"/>
+      <coord axis="wdth" value="75.0"/>
+      <coord axis="slnt" value="-10.0"/>
+    </NamedInstance>
+
+    <!-- Bold -->
+    <NamedInstance flags="0x0" subfamilyNameID="279">
+      <coord axis="wght" value="700.0"/>
+      <coord axis="wdth" value="75.0"/>
+      <coord axis="slnt" value="0.0"/>
+    </NamedInstance>
+
+    <!-- Bold Italic -->
+    <NamedInstance flags="0x0" subfamilyNameID="280">
+      <coord axis="wght" value="700.0"/>
+      <coord axis="wdth" value="75.0"/>
+      <coord axis="slnt" value="-10.0"/>
+    </NamedInstance>
+
+    <!-- Black -->
+    <NamedInstance flags="0x0" subfamilyNameID="281">
+      <coord axis="wght" value="900.0"/>
+      <coord axis="wdth" value="75.0"/>
+      <coord axis="slnt" value="0.0"/>
+    </NamedInstance>
+
+    <!-- Black Italic -->
+    <NamedInstance flags="0x0" subfamilyNameID="282">
+      <coord axis="wght" value="900.0"/>
+      <coord axis="wdth" value="75.0"/>
+      <coord axis="slnt" value="-10.0"/>
+    </NamedInstance>
+  </fvar>
+
+</ttFont>

@@ -22,6 +22,8 @@
     </psNames>
     <extraNames>
       <!-- following are the name that are not taken from the standard Mac glyph order -->
+      <psName name="nbspace"/>
+      <psName name="uni00A0"/>
     </extraNames>
   </post>
 

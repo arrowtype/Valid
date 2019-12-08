@@ -70,18 +70,19 @@
     <GlyphID id="64" name="comma"/>
     <GlyphID id="65" name="hyphen"/>
     <GlyphID id="66" name="space"/>
+    <GlyphID id="67" name="uni00A0"/>
   </GlyphOrder>
 
   <head>
     <!-- Most of this table will be recalculated by the compiler -->
     <tableVersion value="1.0"/>
     <fontRevision value="1.0"/>
-    <checkSumAdjustment value="0xa5966425"/>
+    <checkSumAdjustment value="0xff2c3a4d"/>
     <magicNumber value="0x5f0f3cf5"/>
     <flags value="00000000 00000011"/>
     <unitsPerEm value="1000"/>
     <created value="Sat Dec  7 16:33:03 2019"/>
-    <modified value="Sat Dec  7 22:33:06 2019"/>
+    <modified value="Sun Dec  8 05:55:34 2019"/>
     <xMin value="50"/>
     <yMin value="-200"/>
     <xMax value="450"/>
@@ -110,14 +111,14 @@
     <reserved2 value="0"/>
     <reserved3 value="0"/>
     <metricDataFormat value="0"/>
-    <numberOfHMetrics value="2"/>
+    <numberOfHMetrics value="52"/>
   </hhea>
 
   <maxp>
     <!-- Most of this table will be recalculated by the compiler -->
     <tableVersion value="0x10000"/>
-    <numGlyphs value="67"/>
-    <maxPoints value="8"/>
+    <numGlyphs value="68"/>
+    <maxPoints value="12"/>
     <maxContours value="2"/>
     <maxCompositePoints value="0"/>
     <maxCompositeContours value="0"/>
@@ -136,7 +137,7 @@
     <!-- The fields 'usFirstCharIndex' and 'usLastCharIndex'
          will be recalculated by the compiler -->
     <version value="4"/>
-    <xAvgCharWidth value="599"/>
+    <xAvgCharWidth value="595"/>
     <usWeightClass value="400"/>
     <usWidthClass value="5"/>
     <fsType value="00000000 00001000"/>
@@ -149,7 +150,7 @@
     <ySuperscriptXOffset value="0"/>
     <ySuperscriptYOffset value="350"/>
     <yStrikeoutSize value="50"/>
-    <yStrikeoutPosition value="300"/>
+    <yStrikeoutPosition value="360"/>
     <sFamilyClass value="0"/>
     <panose>
       <bFamilyType value="0"/>
@@ -163,14 +164,14 @@
       <bMidline value="0"/>
       <bXHeight value="0"/>
     </panose>
-    <ulUnicodeRange1 value="00000000 00000000 00000000 00000001"/>
+    <ulUnicodeRange1 value="00000000 00000000 00000000 00000011"/>
     <ulUnicodeRange2 value="00000000 00000000 00000000 00000000"/>
     <ulUnicodeRange3 value="00000000 00000000 00000000 00000000"/>
     <ulUnicodeRange4 value="00000000 00000000 00000000 00000000"/>
     <achVendID value="NONE"/>
     <fsSelection value="00000000 11000000"/>
     <usFirstCharIndex value="32"/>
-    <usLastCharIndex value="122"/>
+    <usLastCharIndex value="160"/>
     <sTypoAscender value="1000"/>
     <sTypoDescender value="-200"/>
     <sTypoLineGap value="0"/>
@@ -178,8 +179,8 @@
     <usWinDescent value="200"/>
     <ulCodePageRange1 value="00000000 00000000 00000000 00000001"/>
     <ulCodePageRange2 value="00000000 00000000 00000000 00000000"/>
-    <sxHeight value="500"/>
-    <sCapHeight value="700"/>
+    <sxHeight value="600"/>
+    <sCapHeight value="800"/>
     <usDefaultChar value="0"/>
     <usBreakChar value="32"/>
     <usMaxContext value="0"/>
@@ -194,7 +195,7 @@
     <mtx name="E" width="600" lsb="0"/>
     <mtx name="F" width="600" lsb="0"/>
     <mtx name="G" width="600" lsb="0"/>
-    <mtx name="H" width="600" lsb="0"/>
+    <mtx name="H" width="500" lsb="52"/>
     <mtx name="I" width="600" lsb="0"/>
     <mtx name="J" width="600" lsb="0"/>
     <mtx name="K" width="600" lsb="0"/>
@@ -247,9 +248,10 @@
     <mtx name="three" width="600" lsb="0"/>
     <mtx name="two" width="600" lsb="0"/>
     <mtx name="u" width="600" lsb="0"/>
+    <mtx name="uni00A0" width="600" lsb="0"/>
     <mtx name="v" width="600" lsb="0"/>
     <mtx name="w" width="600" lsb="0"/>
-    <mtx name="x" width="600" lsb="0"/>
+    <mtx name="x" width="465" lsb="77"/>
     <mtx name="y" width="600" lsb="0"/>
     <mtx name="z" width="600" lsb="0"/>
     <mtx name="zero" width="600" lsb="0"/>
@@ -324,6 +326,7 @@
       <map code="0x78" name="x"/><!-- LATIN SMALL LETTER X -->
       <map code="0x79" name="y"/><!-- LATIN SMALL LETTER Y -->
       <map code="0x7a" name="z"/><!-- LATIN SMALL LETTER Z -->
+      <map code="0xa0" name="uni00A0"/><!-- NO-BREAK SPACE -->
     </cmap_format_4>
     <cmap_format_4 platformID="3" platEncID="1" language="0">
       <map code="0x20" name="space"/><!-- SPACE -->
@@ -392,6 +395,7 @@
       <map code="0x78" name="x"/><!-- LATIN SMALL LETTER X -->
       <map code="0x79" name="y"/><!-- LATIN SMALL LETTER Y -->
       <map code="0x7a" name="z"/><!-- LATIN SMALL LETTER Z -->
+      <map code="0xa0" name="uni00A0"/><!-- NO-BREAK SPACE -->
     </cmap_format_4>
   </cmap>
 
@@ -434,7 +438,23 @@
 
     <TTGlyph name="G"/><!-- contains no outline data -->
 
-    <TTGlyph name="H"/><!-- contains no outline data -->
+    <TTGlyph name="H" xMin="52" yMin="0" xMax="448" yMax="800">
+      <contour>
+        <pt x="52" y="343" on="1"/>
+        <pt x="207" y="343" on="1"/>
+        <pt x="207" y="800" on="1"/>
+        <pt x="293" y="800" on="1"/>
+        <pt x="293" y="343" on="1"/>
+        <pt x="448" y="343" on="1"/>
+        <pt x="448" y="257" on="1"/>
+        <pt x="293" y="257" on="1"/>
+        <pt x="293" y="0" on="1"/>
+        <pt x="207" y="0" on="1"/>
+        <pt x="207" y="257" on="1"/>
+        <pt x="52" y="257" on="1"/>
+      </contour>
+      <instructions/>
+    </TTGlyph>
 
     <TTGlyph name="I"/><!-- contains no outline data -->
 
@@ -540,11 +560,29 @@
 
     <TTGlyph name="u"/><!-- contains no outline data -->
 
+    <TTGlyph name="uni00A0"/><!-- contains no outline data -->
+
     <TTGlyph name="v"/><!-- contains no outline data -->
 
     <TTGlyph name="w"/><!-- contains no outline data -->
 
-    <TTGlyph name="x"/><!-- contains no outline data -->
+    <TTGlyph name="x" xMin="77" yMin="0" xMax="388" yMax="600">
+      <contour>
+        <pt x="77" y="343" on="1"/>
+        <pt x="189" y="343" on="1"/>
+        <pt x="189" y="600" on="1"/>
+        <pt x="276" y="600" on="1"/>
+        <pt x="276" y="343" on="1"/>
+        <pt x="388" y="343" on="1"/>
+        <pt x="388" y="257" on="1"/>
+        <pt x="276" y="257" on="1"/>
+        <pt x="276" y="0" on="1"/>
+        <pt x="189" y="0" on="1"/>
+        <pt x="189" y="257" on="1"/>
+        <pt x="77" y="257" on="1"/>
+      </contour>
+      <instructions/>
+    </TTGlyph>
 
     <TTGlyph name="y"/><!-- contains no outline data -->
 
@@ -602,6 +640,8 @@
     </psNames>
     <extraNames>
       <!-- following are the name that are not taken from the standard Mac glyph order -->
+      <psName name="nbspace"/>
+      <psName name="uni00A0"/>
     </extraNames>
   </post>
 

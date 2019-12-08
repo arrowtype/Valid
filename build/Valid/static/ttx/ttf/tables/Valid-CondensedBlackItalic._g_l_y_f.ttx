@@ -1,0 +1,193 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ttFont ttLibVersion="4.2">
+
+  <glyf>
+
+    <!-- The xMin, yMin, xMax and yMax values
+         will be recalculated by the compiler. -->
+
+    <TTGlyph name=".notdef" xMin="50" yMin="-200" xMax="450" yMax="1000">
+      <contour>
+        <pt x="50" y="-200" on="1"/>
+        <pt x="450" y="-200" on="1"/>
+        <pt x="450" y="1000" on="1"/>
+        <pt x="50" y="1000" on="1"/>
+      </contour>
+      <contour>
+        <pt x="100" y="-150" on="1"/>
+        <pt x="100" y="950" on="1"/>
+        <pt x="400" y="950" on="1"/>
+        <pt x="400" y="-150" on="1"/>
+      </contour>
+      <instructions/>
+    </TTGlyph>
+
+    <TTGlyph name="A"/><!-- contains no outline data -->
+
+    <TTGlyph name="B"/><!-- contains no outline data -->
+
+    <TTGlyph name="C"/><!-- contains no outline data -->
+
+    <TTGlyph name="D"/><!-- contains no outline data -->
+
+    <TTGlyph name="E"/><!-- contains no outline data -->
+
+    <TTGlyph name="F"/><!-- contains no outline data -->
+
+    <TTGlyph name="G"/><!-- contains no outline data -->
+
+    <TTGlyph name="H" xMin="29" yMin="0" xMax="371" yMax="800">
+      <contour>
+        <pt x="40" y="400" on="1"/>
+        <pt x="100" y="400" on="1"/>
+        <pt x="171" y="800" on="1"/>
+        <pt x="371" y="800" on="1"/>
+        <pt x="300" y="400" on="1"/>
+        <pt x="360" y="400" on="1"/>
+        <pt x="360" y="200" on="1"/>
+        <pt x="265" y="200" on="1"/>
+        <pt x="229" y="0" on="1"/>
+        <pt x="29" y="0" on="1"/>
+        <pt x="65" y="200" on="1"/>
+        <pt x="40" y="200" on="1"/>
+      </contour>
+      <instructions/>
+    </TTGlyph>
+
+    <TTGlyph name="I"/><!-- contains no outline data -->
+
+    <TTGlyph name="J"/><!-- contains no outline data -->
+
+    <TTGlyph name="K"/><!-- contains no outline data -->
+
+    <TTGlyph name="L"/><!-- contains no outline data -->
+
+    <TTGlyph name="M"/><!-- contains no outline data -->
+
+    <TTGlyph name="N"/><!-- contains no outline data -->
+
+    <TTGlyph name="O"/><!-- contains no outline data -->
+
+    <TTGlyph name="P"/><!-- contains no outline data -->
+
+    <TTGlyph name="Q"/><!-- contains no outline data -->
+
+    <TTGlyph name="R"/><!-- contains no outline data -->
+
+    <TTGlyph name="S"/><!-- contains no outline data -->
+
+    <TTGlyph name="T"/><!-- contains no outline data -->
+
+    <TTGlyph name="U"/><!-- contains no outline data -->
+
+    <TTGlyph name="V"/><!-- contains no outline data -->
+
+    <TTGlyph name="W"/><!-- contains no outline data -->
+
+    <TTGlyph name="X"/><!-- contains no outline data -->
+
+    <TTGlyph name="Y"/><!-- contains no outline data -->
+
+    <TTGlyph name="Z"/><!-- contains no outline data -->
+
+    <TTGlyph name="a"/><!-- contains no outline data -->
+
+    <TTGlyph name="b"/><!-- contains no outline data -->
+
+    <TTGlyph name="c"/><!-- contains no outline data -->
+
+    <TTGlyph name="comma"/><!-- contains no outline data -->
+
+    <TTGlyph name="d"/><!-- contains no outline data -->
+
+    <TTGlyph name="e"/><!-- contains no outline data -->
+
+    <TTGlyph name="eight"/><!-- contains no outline data -->
+
+    <TTGlyph name="f"/><!-- contains no outline data -->
+
+    <TTGlyph name="five"/><!-- contains no outline data -->
+
+    <TTGlyph name="four"/><!-- contains no outline data -->
+
+    <TTGlyph name="g"/><!-- contains no outline data -->
+
+    <TTGlyph name="h"/><!-- contains no outline data -->
+
+    <TTGlyph name="hyphen"/><!-- contains no outline data -->
+
+    <TTGlyph name="i"/><!-- contains no outline data -->
+
+    <TTGlyph name="j"/><!-- contains no outline data -->
+
+    <TTGlyph name="k"/><!-- contains no outline data -->
+
+    <TTGlyph name="l"/><!-- contains no outline data -->
+
+    <TTGlyph name="m"/><!-- contains no outline data -->
+
+    <TTGlyph name="n"/><!-- contains no outline data -->
+
+    <TTGlyph name="nine"/><!-- contains no outline data -->
+
+    <TTGlyph name="o"/><!-- contains no outline data -->
+
+    <TTGlyph name="one"/><!-- contains no outline data -->
+
+    <TTGlyph name="p"/><!-- contains no outline data -->
+
+    <TTGlyph name="period"/><!-- contains no outline data -->
+
+    <TTGlyph name="q"/><!-- contains no outline data -->
+
+    <TTGlyph name="r"/><!-- contains no outline data -->
+
+    <TTGlyph name="s"/><!-- contains no outline data -->
+
+    <TTGlyph name="seven"/><!-- contains no outline data -->
+
+    <TTGlyph name="six"/><!-- contains no outline data -->
+
+    <TTGlyph name="space"/><!-- contains no outline data -->
+
+    <TTGlyph name="t"/><!-- contains no outline data -->
+
+    <TTGlyph name="three"/><!-- contains no outline data -->
+
+    <TTGlyph name="two"/><!-- contains no outline data -->
+
+    <TTGlyph name="u"/><!-- contains no outline data -->
+
+    <TTGlyph name="uni00A0"/><!-- contains no outline data -->
+
+    <TTGlyph name="v"/><!-- contains no outline data -->
+
+    <TTGlyph name="w"/><!-- contains no outline data -->
+
+    <TTGlyph name="x" xMin="37" yMin="0" xMax="343" yMax="600">
+      <contour>
+        <pt x="50" y="400" on="1"/>
+        <pt x="108" y="400" on="1"/>
+        <pt x="143" y="600" on="1"/>
+        <pt x="343" y="600" on="1"/>
+        <pt x="308" y="400" on="1"/>
+        <pt x="330" y="400" on="1"/>
+        <pt x="330" y="200" on="1"/>
+        <pt x="272" y="200" on="1"/>
+        <pt x="237" y="0" on="1"/>
+        <pt x="37" y="0" on="1"/>
+        <pt x="72" y="200" on="1"/>
+        <pt x="50" y="200" on="1"/>
+      </contour>
+      <instructions/>
+    </TTGlyph>
+
+    <TTGlyph name="y"/><!-- contains no outline data -->
+
+    <TTGlyph name="z"/><!-- contains no outline data -->
+
+    <TTGlyph name="zero"/><!-- contains no outline data -->
+
+  </glyf>
+
+</ttFont>

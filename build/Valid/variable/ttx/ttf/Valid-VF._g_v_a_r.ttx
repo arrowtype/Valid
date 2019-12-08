@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ttFont ttLibVersion="4.2">
+
+  <gvar>
+    <version value="1"/>
+    <reserved value="0"/>
+    <glyphVariations glyph="H">
+      <tuple>
+        <coord axis="slnt" value="-1.0"/>
+        <delta pt="0" x="71" y="0"/>
+        <delta pt="1" x="71" y="0"/>
+        <delta pt="2" x="-71" y="0"/>
+        <delta pt="3" x="-71" y="0"/>
+        <delta pt="4" x="0" y="0"/>
+        <delta pt="5" x="0" y="0"/>
+        <delta pt="6" x="0" y="0"/>
+        <delta pt="7" x="0" y="0"/>
+        <delta pt="8" x="0" y="0"/>
+        <delta pt="9" x="0" y="0"/>
+        <delta pt="10" x="0" y="0"/>
+        <delta pt="11" x="0" y="0"/>
+      </tuple>
+      <tuple>
+        <coord axis="wght" value="-1.0"/>
+        <coord axis="wdth" value="-1.0"/>
+        <delta pt="0" x="-22" y="0"/>
+        <delta pt="2" x="-78" y="0"/>
+        <delta pt="5" x="-108" y="-28"/>
+        <delta pt="7" x="8" y="28"/>
+        <delta pt="9" x="-100" y="0"/>
+      </tuple>
+      <tuple>
+        <coord axis="wght" value="-1.0"/>
+        <coord axis="wdth" value="1.0"/>
+        <delta pt="0" x="78" y="0"/>
+        <delta pt="2" x="22" y="0"/>
+        <delta pt="5" x="102" y="-28"/>
+        <delta pt="7" x="-2" y="28"/>
+        <delta pt="9" x="100" y="0"/>
+      </tuple>
+      <tuple>
+        <coord axis="wght" value="1.0"/>
+        <coord axis="wdth" value="-1.0"/>
+        <delta pt="0" x="-107" y="0"/>
+        <delta pt="2" x="7" y="0"/>
+        <delta pt="5" x="-88" y="57"/>
+        <delta pt="7" x="-12" y="-57"/>
+        <delta pt="9" x="-100" y="0"/>
+      </tuple>
+      <tuple>
+        <coord axis="wght" value="1.0"/>
+        <coord axis="wdth" value="1.0"/>
+        <delta pt="0" x="-7" y="0"/>
+        <delta pt="2" x="107" y="0"/>
+        <delta pt="5" x="102" y="57"/>
+        <delta pt="7" x="-2" y="-57"/>
+        <delta pt="9" x="100" y="0"/>
+      </tuple>
+    </glyphVariations>
+    <glyphVariations glyph="x">
+      <tuple>
+        <coord axis="slnt" value="-1.0"/>
+        <delta pt="0" x="53" y="0"/>
+        <delta pt="1" x="53" y="0"/>
+        <delta pt="2" x="-53" y="0"/>
+        <delta pt="3" x="-53" y="0"/>
+        <delta pt="4" x="1" y="0"/>
+        <delta pt="5" x="-1" y="0"/>
+        <delta pt="6" x="-1" y="0"/>
+        <delta pt="7" x="1" y="0"/>
+        <delta pt="8" x="0" y="0"/>
+        <delta pt="9" x="0" y="0"/>
+        <delta pt="10" x="0" y="0"/>
+        <delta pt="11" x="0" y="0"/>
+      </tuple>
+      <tuple>
+        <coord axis="wght" value="-1.0"/>
+        <coord axis="wdth" value="-1.0"/>
+        <delta pt="0" x="-14" y="0"/>
+        <delta pt="2" x="-71" y="0"/>
+        <delta pt="5" x="-58" y="-28"/>
+        <delta pt="7" x="-27" y="28"/>
+        <delta pt="9" x="-85" y="0"/>
+      </tuple>
+      <tuple>
+        <coord axis="wght" value="-1.0"/>
+        <coord axis="wdth" value="1.0"/>
+        <delta pt="0" x="71" y="0"/>
+        <delta pt="2" x="14" y="0"/>
+        <delta pt="5" x="57" y="-28"/>
+        <delta pt="7" x="28" y="28"/>
+        <delta pt="9" x="85" y="0"/>
+      </tuple>
+      <tuple>
+        <coord axis="wght" value="1.0"/>
+        <coord axis="wdth" value="-1.0"/>
+        <delta pt="0" x="-99" y="0"/>
+        <delta pt="2" x="14" y="0"/>
+        <delta pt="5" x="-58" y="57"/>
+        <delta pt="7" x="-27" y="-57"/>
+        <delta pt="9" x="-85" y="0"/>
+      </tuple>
+      <tuple>
+        <coord axis="wght" value="1.0"/>
+        <coord axis="wdth" value="1.0"/>
+        <delta pt="0" x="-14" y="0"/>
+        <delta pt="2" x="99" y="0"/>
+        <delta pt="5" x="57" y="57"/>
+        <delta pt="7" x="28" y="-57"/>
+        <delta pt="9" x="85" y="0"/>
+      </tuple>
+      <tuple>
+        <coord axis="wght" value="-1.0"/>
+        <coord axis="wdth" value="-1.0"/>
+        <coord axis="slnt" value="-1.0"/>
+        <delta pt="4" x="-1" y="0"/>
+        <delta pt="6" x="1" y="0"/>
+      </tuple>
+      <tuple>
+        <coord axis="wght" value="-1.0"/>
+        <coord axis="wdth" value="1.0"/>
+        <coord axis="slnt" value="-1.0"/>
+        <delta pt="4" x="-1" y="0"/>
+        <delta pt="6" x="1" y="0"/>
+      </tuple>
+      <tuple>
+        <coord axis="wght" value="1.0"/>
+        <coord axis="wdth" value="-1.0"/>
+        <coord axis="slnt" value="-1.0"/>
+        <delta pt="4" x="-1" y="0"/>
+        <delta pt="6" x="1" y="0"/>
+      </tuple>
+      <tuple>
+        <coord axis="wght" value="1.0"/>
+        <coord axis="wdth" value="1.0"/>
+        <coord axis="slnt" value="-1.0"/>
+        <delta pt="4" x="-1" y="0"/>
+        <delta pt="6" x="1" y="0"/>
+      </tuple>
+    </glyphVariations>
+  </gvar>
+
+</ttFont>

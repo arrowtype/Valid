@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ttFont sfntVersion="OTTO" ttLibVersion="4.2">
+  <GlyphOrder src="Valid-CondensedBlackItalic.GlyphOrder.ttx"/>
+  <head src="Valid-CondensedBlackItalic._h_e_a_d.ttx"/>
+  <hhea src="Valid-CondensedBlackItalic._h_h_e_a.ttx"/>
+  <maxp src="Valid-CondensedBlackItalic._m_a_x_p.ttx"/>
+  <OS_2 src="Valid-CondensedBlackItalic.O_S_2f_2.ttx"/>
+  <name src="Valid-CondensedBlackItalic._n_a_m_e.ttx"/>
+  <cmap src="Valid-CondensedBlackItalic._c_m_a_p.ttx"/>
+  <post src="Valid-CondensedBlackItalic._p_o_s_t.ttx"/>
+  <CFF src="Valid-CondensedBlackItalic.C_F_F_.ttx"/>
+  <hmtx src="Valid-CondensedBlackItalic._h_m_t_x.ttx"/>
+</ttFont>

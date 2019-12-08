@@ -70,6 +70,7 @@
     <GlyphID id="64" name="comma"/>
     <GlyphID id="65" name="hyphen"/>
     <GlyphID id="66" name="space"/>
+    <GlyphID id="67" name="uni00A0"/>
   </GlyphOrder>
 
 </ttFont>

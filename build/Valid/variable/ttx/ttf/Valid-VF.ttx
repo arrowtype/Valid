@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ttFont sfntVersion="\x00\x01\x00\x00" ttLibVersion="4.2">
+  <GlyphOrder src="Valid-VF.GlyphOrder.ttx"/>
+  <head src="Valid-VF._h_e_a_d.ttx"/>
+  <hhea src="Valid-VF._h_h_e_a.ttx"/>
+  <maxp src="Valid-VF._m_a_x_p.ttx"/>
+  <OS_2 src="Valid-VF.O_S_2f_2.ttx"/>
+  <hmtx src="Valid-VF._h_m_t_x.ttx"/>
+  <cmap src="Valid-VF._c_m_a_p.ttx"/>
+  <loca src="Valid-VF._l_o_c_a.ttx"/>
+  <glyf src="Valid-VF._g_l_y_f.ttx"/>
+  <name src="Valid-VF._n_a_m_e.ttx"/>
+  <post src="Valid-VF._p_o_s_t.ttx"/>
+  <HVAR src="Valid-VF.H_V_A_R_.ttx"/>
+  <MVAR src="Valid-VF.M_V_A_R_.ttx"/>
+  <STAT src="Valid-VF.S_T_A_T_.ttx"/>
+  <avar src="Valid-VF._a_v_a_r.ttx"/>
+  <fvar src="Valid-VF._f_v_a_r.ttx"/>
+  <gvar src="Valid-VF._g_v_a_r.ttx"/>
+</ttFont>

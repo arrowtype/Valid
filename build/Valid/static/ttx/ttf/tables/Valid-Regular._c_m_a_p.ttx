@@ -70,6 +70,7 @@
       <map code="0x78" name="x"/><!-- LATIN SMALL LETTER X -->
       <map code="0x79" name="y"/><!-- LATIN SMALL LETTER Y -->
       <map code="0x7a" name="z"/><!-- LATIN SMALL LETTER Z -->
+      <map code="0xa0" name="uni00A0"/><!-- NO-BREAK SPACE -->
     </cmap_format_4>
     <cmap_format_4 platformID="3" platEncID="1" language="0">
       <map code="0x20" name="space"/><!-- SPACE -->
@@ -138,6 +139,7 @@
       <map code="0x78" name="x"/><!-- LATIN SMALL LETTER X -->
       <map code="0x79" name="y"/><!-- LATIN SMALL LETTER Y -->
       <map code="0x7a" name="z"/><!-- LATIN SMALL LETTER Z -->
+      <map code="0xa0" name="uni00A0"/><!-- NO-BREAK SPACE -->
     </cmap_format_4>
   </cmap>
 
