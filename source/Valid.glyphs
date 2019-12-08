@@ -3718,6 +3718,53 @@ width = 600;
 }
 );
 unicode = 0020;
+},
+{
+glyphname = nbspace;
+lastChange = "2019-12-08 04:52:42 +0000";
+layers = (
+{
+layerId = "69BD4473-2759-473D-A5F2-6927F6EF0D4B";
+width = 600;
+},
+{
+layerId = "8FE94AFF-78E5-4BAD-B162-F5B7FD0FDE43";
+width = 600;
+},
+{
+layerId = "A09845BB-8E95-46CB-99B9-51A1DA7E3EA7";
+width = 600;
+},
+{
+layerId = "E3545ABF-CA3D-424B-BC89-2119FBD997C7";
+width = 600;
+},
+{
+layerId = "F5E46B06-E4B2-40BB-8600-C630C9F37E2D";
+width = 600;
+},
+{
+layerId = "C4212F7E-DB9E-4B8A-AD61-FBEB6E0E008A";
+width = 600;
+},
+{
+layerId = "AF2B4B2F-44AE-4712-9E88-47400FAA756E";
+width = 600;
+},
+{
+layerId = "C1381135-CB61-4B49-BC8B-09FD310384D4";
+width = 600;
+},
+{
+layerId = "CF372A38-CCF0-4ECF-A851-D0EDF62DAC52";
+width = 600;
+},
+{
+layerId = "CFE90BE0-6A0F-4BB5-9239-F4590AF935C6";
+width = 600;
+}
+);
+unicode = 00A0;
 }
 );
 instances = (
