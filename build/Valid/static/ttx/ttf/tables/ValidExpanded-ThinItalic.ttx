@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ttFont sfntVersion="\x00\x01\x00\x00" ttLibVersion="4.2">
+  <GlyphOrder src="ValidExpanded-ThinItalic.GlyphOrder.ttx"/>
+  <head src="ValidExpanded-ThinItalic._h_e_a_d.ttx"/>
+  <hhea src="ValidExpanded-ThinItalic._h_h_e_a.ttx"/>
+  <maxp src="ValidExpanded-ThinItalic._m_a_x_p.ttx"/>
+  <OS_2 src="ValidExpanded-ThinItalic.O_S_2f_2.ttx"/>
+  <hmtx src="ValidExpanded-ThinItalic._h_m_t_x.ttx"/>
+  <cmap src="ValidExpanded-ThinItalic._c_m_a_p.ttx"/>
+  <loca src="ValidExpanded-ThinItalic._l_o_c_a.ttx"/>
+  <glyf src="ValidExpanded-ThinItalic._g_l_y_f.ttx"/>
+  <name src="ValidExpanded-ThinItalic._n_a_m_e.ttx"/>
+  <post src="ValidExpanded-ThinItalic._p_o_s_t.ttx"/>
+</ttFont>

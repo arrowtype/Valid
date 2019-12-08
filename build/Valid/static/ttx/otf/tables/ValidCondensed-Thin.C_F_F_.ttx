@@ -1,0 +1,263 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ttFont ttLibVersion="4.2">
+
+  <CFF>
+    <major value="1"/>
+    <minor value="0"/>
+    <CFFFont name="ValidCondensed-Thin">
+      <version value="1.0"/>
+      <Notice value=""/>
+      <Copyright value=""/>
+      <FullName value="Valid Condensed Thin"/>
+      <FamilyName value="Valid Condensed"/>
+      <isFixedPitch value="0"/>
+      <ItalicAngle value="0"/>
+      <UnderlinePosition value="-100"/>
+      <UnderlineThickness value="50"/>
+      <PaintType value="0"/>
+      <CharstringType value="2"/>
+      <FontMatrix value="0.001 0 0 0.001 0 0"/>
+      <FontBBox value="50 -200 450 1000"/>
+      <StrokeWidth value="0"/>
+      <!-- charset is dumped separately as the 'GlyphOrder' element -->
+      <Encoding name="StandardEncoding"/>
+      <Private>
+        <BlueScale value="0.039625"/>
+        <BlueShift value="7"/>
+        <BlueFuzz value="1"/>
+        <ForceBold value="0"/>
+        <LanguageGroup value="0"/>
+        <ExpansionFactor value="0.06"/>
+        <initialRandomSeed value="0"/>
+        <defaultWidthX value="600"/>
+        <nominalWidthX value="393"/>
+        <Subrs>
+          <!-- The 'index' attribute is only for humans; it is ignored when parsed. -->
+          <CharString index="0">
+            315 rmoveto
+            -30 125 -285 30 285 125 30 -125 return
+          </CharString>
+        </Subrs>
+      </Private>
+      <CharStrings>
+        <CharString name=".notdef">
+          107 50 -200 rmoveto
+          400 1200 -400 -1200 hlineto
+          50 50 rmoveto
+          1100 300 -1100 -300 vlineto
+          endchar
+        </CharString>
+        <CharString name="A">
+          endchar
+        </CharString>
+        <CharString name="B">
+          endchar
+        </CharString>
+        <CharString name="C">
+          endchar
+        </CharString>
+        <CharString name="D">
+          endchar
+        </CharString>
+        <CharString name="E">
+          endchar
+        </CharString>
+        <CharString name="F">
+          endchar
+        </CharString>
+        <CharString name="G">
+          endchar
+        </CharString>
+        <CharString name="H">
+          7 60 -107 callsubr
+          485 -30 -485 vlineto
+          endchar
+        </CharString>
+        <CharString name="I">
+          endchar
+        </CharString>
+        <CharString name="J">
+          endchar
+        </CharString>
+        <CharString name="K">
+          endchar
+        </CharString>
+        <CharString name="L">
+          endchar
+        </CharString>
+        <CharString name="M">
+          endchar
+        </CharString>
+        <CharString name="N">
+          endchar
+        </CharString>
+        <CharString name="O">
+          endchar
+        </CharString>
+        <CharString name="P">
+          endchar
+        </CharString>
+        <CharString name="Q">
+          endchar
+        </CharString>
+        <CharString name="R">
+          endchar
+        </CharString>
+        <CharString name="S">
+          endchar
+        </CharString>
+        <CharString name="T">
+          endchar
+        </CharString>
+        <CharString name="U">
+          endchar
+        </CharString>
+        <CharString name="V">
+          endchar
+        </CharString>
+        <CharString name="W">
+          endchar
+        </CharString>
+        <CharString name="X">
+          endchar
+        </CharString>
+        <CharString name="Y">
+          endchar
+        </CharString>
+        <CharString name="Z">
+          endchar
+        </CharString>
+        <CharString name="a">
+          endchar
+        </CharString>
+        <CharString name="b">
+          endchar
+        </CharString>
+        <CharString name="c">
+          endchar
+        </CharString>
+        <CharString name="comma">
+          endchar
+        </CharString>
+        <CharString name="d">
+          endchar
+        </CharString>
+        <CharString name="e">
+          endchar
+        </CharString>
+        <CharString name="eight">
+          endchar
+        </CharString>
+        <CharString name="f">
+          endchar
+        </CharString>
+        <CharString name="five">
+          endchar
+        </CharString>
+        <CharString name="four">
+          endchar
+        </CharString>
+        <CharString name="g">
+          endchar
+        </CharString>
+        <CharString name="h">
+          endchar
+        </CharString>
+        <CharString name="hyphen">
+          endchar
+        </CharString>
+        <CharString name="i">
+          endchar
+        </CharString>
+        <CharString name="j">
+          endchar
+        </CharString>
+        <CharString name="k">
+          endchar
+        </CharString>
+        <CharString name="l">
+          endchar
+        </CharString>
+        <CharString name="m">
+          endchar
+        </CharString>
+        <CharString name="n">
+          endchar
+        </CharString>
+        <CharString name="nine">
+          endchar
+        </CharString>
+        <CharString name="o">
+          endchar
+        </CharString>
+        <CharString name="one">
+          endchar
+        </CharString>
+        <CharString name="p">
+          endchar
+        </CharString>
+        <CharString name="period">
+          endchar
+        </CharString>
+        <CharString name="q">
+          endchar
+        </CharString>
+        <CharString name="r">
+          endchar
+        </CharString>
+        <CharString name="s">
+          endchar
+        </CharString>
+        <CharString name="seven">
+          endchar
+        </CharString>
+        <CharString name="six">
+          endchar
+        </CharString>
+        <CharString name="space">
+          endchar
+        </CharString>
+        <CharString name="t">
+          endchar
+        </CharString>
+        <CharString name="three">
+          endchar
+        </CharString>
+        <CharString name="two">
+          endchar
+        </CharString>
+        <CharString name="u">
+          endchar
+        </CharString>
+        <CharString name="uni00A0">
+          endchar
+        </CharString>
+        <CharString name="v">
+          endchar
+        </CharString>
+        <CharString name="w">
+          endchar
+        </CharString>
+        <CharString name="x">
+          -13 50 -107 callsubr
+          285 -30 -285 vlineto
+          endchar
+        </CharString>
+        <CharString name="y">
+          endchar
+        </CharString>
+        <CharString name="z">
+          endchar
+        </CharString>
+        <CharString name="zero">
+          endchar
+        </CharString>
+      </CharStrings>
+    </CFFFont>
+
+    <GlobalSubrs>
+      <!-- The 'index' attribute is only for humans; it is ignored when parsed. -->
+    </GlobalSubrs>
+  </CFF>
+
+</ttFont>
